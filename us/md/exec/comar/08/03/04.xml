@@ -1371,6 +1371,82 @@
     </para>
     <annotations/>
   </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.25</num>
+    <heading>Killing Wounded Deer After Legal Shooting Hours.</heading>
+    <para>
+      <num>A.</num>
+      <text>A hunter who wounds a deer during legal shooting hours may pursue and kill the deer after legal shooting hours subject to the following restrictions:</text>
+      <para>
+        <num>(1)</num>
+        <text>The pursuit and killing of the deer must occur within 24 hours of the end of legal shooting hours on the day the deer was wounded;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>No person other than the hunter or a tracking dog handler may carry a firearm or bow of any description while pursuing a wounded deer after legal shooting hours;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>No person other than the hunter or a tracking dog handler may kill a wounded deer that is pursued after legal shooting hours;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The hunter or tracking dog handler shall use only the means authorized for the applicable hunting season or permit to pursue and kill the deer; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>No additional hunting or pursuit of unwounded game is permitted after legal shooting hours.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Except as provided for in this subtitle, the act of pursuing and killing a wounded deer constitutes hunting as defined by <cite doc="Md. Code" path="gnr|10-101">Natural Resources Article, §10-101(k)(1), Annotated Code of Maryland</cite>, and is subject to all applicable laws, regulations, and conditions.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A hunter who pursues a wounded deer after legal shooting hours may use an artificial light including a spotlight, flashlight, headlamp, or other lighting device to cast a ray on the deer while in pursuit or while killing the animal.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Motorized vehicles may not be used to pursue a wounded deer during or after legal shooting hours.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>If a hunter believes a deer will need to be killed after legal shooting hours, the hunter shall notify the Natural Resources Police by calling the Department of Natural Resources (DNR) Communication Center 24-Hour Emergency telephone number prior to initiating or continuing the pursuit after legal shooting hours and once the pursuit has concluded. The hunter shall provide the following information:</text>
+      <para>
+        <num>(1)</num>
+        <text>The address and general location of where the deer was wounded;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The name, address, telephone number, and DNRid number of the hunter;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The name and, if known, the telephone number of the landowner where the deer was wounded;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The direction in which the wounded deer was traveling; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The status of the pursuit when it concluded.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>This subtitle does not authorize a hunter to trespass onto the property of another in pursuit of a wounded deer.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Recovered deer must be tagged and reported in accordance with <cite path="08.03.04.03">COMAR 08.03.04.03</cite>.</text>
+    </para>
+    <annotations>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-158-F" type="History" display="false"/>
+    </annotations>
+  </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Natural Resources Article, §§<cite doc="Md. Code" path="gnr|1-104">1-104</cite>, <cite doc="Md. Code" path="gnr|10-205">10-205</cite>, <cite doc="Md. Code" path="gnr|10-206">10-206</cite>, <cite doc="Md. Code" path="gnr|10-301">10-301</cite>, <cite doc="Md. Code" path="gnr|10-308">10-308</cite>, <cite doc="Md. Code" path="gnr|10-309">10-309</cite>, <cite doc="Md. Code" path="gnr|10-404">10-404</cite>—<cite doc="Md. Code" path="gnr|10-409">10-409</cite>, <cite doc="Md. Code" path="gnr|10-415">10-415</cite>,<br/>10-416, 10-418, 10-902, and 10-903; <cite doc="Md. Code" path="gsg|10-206">State Government Article, §10-206</cite>; Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
@@ -1467,5 +1543,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-08-06"><cite path="|08|03|04|.23">Regulation .23</cite> adopted effective August 6, 2012 (39:15 Md. R. 963)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-10-08"><cite path="|08|03|04|.23">Regulation .23</cite> amended effective September 11, 2017 (44:18 Md. R. 864); October 8, 2018 (45:20 Md. R. 917)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-08-04"><cite path="|08|03|04|.24">Regulation .24</cite> adopted effective August 4, 2014 (41:15 Md. R. 889)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-10-13"><cite path="|08|03|04|.25">Regulation .25</cite> adopted effective October 13, 2025 (52:20 Md. R. 1000)</annotation>
+    <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-158-F" type="History" display="false"/>
   </annotations>
 </container>
