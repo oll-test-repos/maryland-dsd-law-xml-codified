@@ -67,7 +67,15 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>A generator accumulating waste on-site in compliance with <cite path="26.13.03.03">COMAR 26.13.03.03</cite>-3—.03-10, except to the extent that a provision in <cite path="26.13.03.03">COMAR 26.13.03.03</cite>-3—.03-10 requires the generator to comply with the requirements in this chapter;</text>
+          <text>A generator accumulating waste on-site in compliance with:</text>
+          <para>
+            <num>(i)</num>
+            <text><cite path="26.13.03.03">COMAR 26.13.03.03</cite>-3—.03-10, except to the extent that a provision in <cite path="26.13.03.03">COMAR 26.13.03.03</cite>-3—.03-10 requires the generator to comply with the requirements in this chapter; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text><cite path="26.13.03.05">COMAR 26.13.03.05</cite>-3—.05-5;</text>
+          </para>
         </para>
         <para>
           <num>(e)</num>
@@ -158,18 +166,27 @@
           </para>
           <para>
             <num>(ii)</num>
-            <text>Pesticides, as described in <cite path="26.13.10.08">COMAR 26.13.10.08</cite>; and</text>
+            <text>Pesticides, as described in <cite path="26.13.10.08">COMAR 26.13.10.08</cite>;</text>
           </para>
           <para>
             <num>(iii)</num>
-            <text>Lamps, mercury-containing equipment, or PCB-containing lamp ballasts, each as described in <cite path="26.13.10.09">COMAR 26.13.10.09</cite>; or</text>
+            <text>Lamps, mercury-containing equipment, or PCB-containing lamp ballasts, each as described in <cite path="26.13.10.09">COMAR 26.13.10.09</cite>; and</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>Aerosol cans, as described in <cite path="26.13.10.09">COMAR 26.13.10.09</cite>-1; or</text>
           </para>
         </para>
         <para>
           <num>(l)</num>
-          <text>A person who operates a device to crush mercury-containing lamps if the person who operates the device is in compliance with the requirements of <cite path="26.13.10.15|B.|(3)">COMAR 26.13.10.15B(3)</cite>.</text>
+          <text>A person who operates a device to crush mercury-containing lamps if the person who operates the device is in compliance with the requirements of <cite path="26.13.10.15|B.|(3)">COMAR 26.13.10.15B(3)</cite>; or</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>A reverse distributor accumulating potentially creditable hazardous waste pharmaceuticals and evaluated hazardous waste pharmaceuticals, as defined in <cite path="26.13.01.03|B.">COMAR 26.13.01.03B</cite>.</text>
         </para>
       </para>
+      <aftertext>Agency Note: Reverse distributors are subject to regulation under COMAR 26.13.10.32—.49 instead of this chapter for the accumulation of potentially creditable hazardous waste pharmaceuticals and evaluated pharmaceuticals.</aftertext>
     </para>
     <para>
       <num>B.</num>
@@ -192,7 +209,7 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>The exemptions of §A(3)(h)(i)— (iv) of this regulation only apply to activities taken in response to a discharge, an imminent and substantial threat of a discharge, or an explosives or munitions emergency. After the immediate response activities are completed, the applicable regulations of this chapter apply fully to the management of any spill residue or debris that is a hazardous waste under <cite path="|26.13.02">COMAR 26.13.02</cite>.</text>
+        <text>The exemptions of §A(3)(h)(i)—(iv) of this regulation only apply to activities taken in response to a discharge, an imminent and substantial threat of a discharge, or an explosives or munitions emergency. After the immediate response activities are completed, the applicable regulations of this chapter apply fully to the management of any spill residue or debris that is a hazardous waste under <cite path="|26.13.02">COMAR 26.13.02</cite>.</text>
       </para>
       <para>
         <num>(4)</num>
@@ -1104,7 +1121,7 @@
       </para>
       <para>
         <num>(4)</num>
-        <text>If the emergency coordinator determines that the facility has had a release, fire, or explosion which could threaten human health, or the environment, outside the facility, or if the release is of a quantity which would exceed the Reportable Quantities listed in 40 CFR Part 302, as promulgated effective July 1, 2007, the emergency coordinator shall report these findings as follows:</text>
+        <text>If the emergency coordinator determines that the facility has had a release, fire, or explosion which could threaten human health, or the environment, outside the facility, or if the release is of a quantity which would exceed the Reportable Quantities listed in 40 CFR Part 302, the emergency coordinator shall report these findings as follows:</text>
         <para>
           <num>(a)</num>
           <text>If the assessment indicates that evacuation of local areas may be advisable, the emergency coordinator shall immediately notify appropriate local authorities and be available to help appropriate officials decide whether local areas should be evacuated.</text>
@@ -1339,7 +1356,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>The provisions of <cite path="|26.13">COMAR 26.13</cite>.03-3—.03-10 are applicable to the on-site accumulation of hazardous waste by generators, and therefore only apply to the owner or operator of a facility who is shipping hazardous waste that the owner or operator:</text>
+          <text>The provisions of <cite path="|26.13">COMAR 26.13</cite>.03-3.03-10 are applicable to the on-site accumulation of hazardous waste by generators, and therefore only apply to the owner or operator of a facility who is shipping hazardous waste that the owner or operator:</text>
           <para>
             <num>(i)</num>
             <text>Generated at the facility; or</text>
@@ -1368,7 +1385,7 @@
       </para>
       <para>
         <num>(6)</num>
-        <text>Legal Equivalence to Paper Manifests. For the purposes of <cite path="|26.13.01">COMAR 26.13.01</cite>—.10:</text>
+        <text>Legal Equivalence to Paper Manifests. For the purposes of <cite path="26.13.01.10">COMAR 26.13.01.10</cite>:</text>
         <para>
           <num>(a)</num>
           <text>An electronic manifest that is obtained, completed, and transmitted in accordance with <cite path="26.13.03.04|A.|(1)|(b)">COMAR 26.13.03.04A(1)(b)</cite>, and used in accordance with this section instead of using the paper manifest form, is the legal equivalent of paper manifest forms bearing handwritten signatures and satisfies for all purposes any requirement to obtain, complete, sign, provide, use, or retain a manifest;</text>
@@ -1504,7 +1521,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>Container residues, which are residues that exceed the quantity limits for a container to be defined as "empty" under <cite path="26.13.02.07|B.">COMAR 26.13.02.07B</cite>.</text>
+          <text>Container residues, which are residues that exceed the quantity limits for a container to be defined as “empty” under <cite path="26.13.02.07|B.">COMAR 26.13.02.07B</cite> and <cite path="26.13.10.35">26.13.10.35</cite>.</text>
         </para>
       </para>
       <para>
@@ -1512,7 +1529,7 @@
         <text>In this section, the following terms have the meanings indicated:</text>
         <para>
           <num>(a)</num>
-          <text>"Significant differences in quantity" means:</text>
+          <text>“Significant differences in quantity” means:</text>
           <para>
             <num>(i)</num>
             <text>For bulk waste, variations greater than 10 percent in weight; and</text>
@@ -1524,7 +1541,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>"Significant differences in type" means obvious differences that can be discovered by inspection or waste analysis, such as waste solvent substituted for waste acid or toxic constituents not reported on the manifest or shipping paper.</text>
+          <text>“Significant differences in type” means obvious differences that can be discovered by inspection or waste analysis, such as waste solvent substituted for waste acid or toxic constituents not reported on the manifest or shipping paper.</text>
         </para>
       </para>
       <para>
@@ -1552,7 +1569,7 @@
         <text>Management of Rejected Wastes and Container Residues.</text>
         <para>
           <num>(a)</num>
-          <text>Upon rejecting waste or identifying a container residue that exceeds the quantity limits for "empty" under <cite path="26.13.02.07|B.">COMAR 26.13.02.07B</cite>, the facility:</text>
+          <text>Upon rejecting waste or identifying a container residue that exceeds the quantity limits for “empty” under <cite path="26.13.02.07|B.">COMAR 26.13.02.07B</cite>, the facility:</text>
           <para>
             <num>(i)</num>
             <text>Shall consult with the generator before forwarding the waste to another facility that can manage the waste;</text>
@@ -1645,7 +1662,7 @@
       </para>
       <para>
         <num>(6)</num>
-        <text>Preparation of Manifests — Shipments of Rejected Loads and Residues Returned to Generator.</text>
+        <text>Preparation of Manifests— Shipments of Rejected Loads and Residues Returned to Generator.</text>
         <para>
           <num>(a)</num>
           <text>Except as provided in <cite path="26|13|05|.05|C.|(6)|(c)">§C(6)(c) of this regulation</cite>, for rejected wastes and residues that are to be sent back to the generator, the rejecting facility shall prepare a new manifest in accordance with the requirements of <cite path="26.13.03.04|A.">COMAR 26.13.03.04A</cite> and the instructions in <cite path="26|13|05|.05|C.|(6)|(b)">§C(6)(b) of this regulation</cite>.</text>
@@ -1772,7 +1789,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>Records and results of waste analysis performed as specified in:</text>
+          <text>Records and results of waste analyses and determinations performed as specified in:</text>
           <para>
             <num>(i)</num>
             <text>Regulations .02D and H, .14N, and .16D of this chapter; and</text>
@@ -1800,7 +1817,7 @@
         </para>
         <para>
           <num>(h)</num>
-          <text>Monitoring, testing, or analytical data, and corrective action when required by Regulations <cite path="|26|13|05|.06">.06</cite>—<cite path="|26|13|05|.06-7">.06-7</cite>, .10D, .10-2, .10-4, .11F, .12E, .13G, I, K, .14C, I, .16I, and .16-1C of this chapter;</text>
+          <text>Monitoring, testing, or analytical data, and corrective action when required by Regulations <cite path="|26|13|05|.06">.06</cite>—<cite path="|26|13|05|.06-7">.06-7</cite>, .10D, .10-2, .10-4, .11D-2, .11D-3, .11F, .12D-1, .12D-2, .12E, .13G, .13I, .13K, .14C, .14E, .14F, .14I, .16I, and .16-1C of this chapter;</text>
         </para>
         <para>
           <num>(i)</num>
@@ -1840,7 +1857,7 @@
         </para>
         <para>
           <num>(o)</num>
-          <text>For an off-site storage facility, a copy of the notice, and the certification and demonstration, if applicable, required by the generator or the owner or operator under 40 CFR §268.7 or 40 CFR §268.8; and</text>
+          <text>owner or operator under 40 CFR §268.7 or 40 CFR §268.8; and</text>
         </para>
         <para>
           <num>(p)</num>
@@ -1953,7 +1970,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>The owner or operator shall ensure that the report required by <cite path="26|13|05|.05|G.|(1)">§G(1) of this regulation</cite> is clearly marked with the words "unmanifested waste report", and includes the following information:</text>
+        <text>The owner or operator shall ensure that the report required by <cite path="26|13|05|.05|G.|(1)">§G(1) of this regulation</cite> is clearly marked with the words “unmanifested waste report”, and includes the following information:</text>
         <para>
           <num>(a)</num>
           <text>The EPA identification number, name, and address of the facility;</text>
@@ -2001,7 +2018,7 @@
       </para>
       <para>
         <num>(4)</num>
-        <text>As otherwise required by Regulations <cite path="|26|13|05|.06">.06</cite>—<cite path="|26|13|05|.06-7">.06-7</cite> and .11—.14 of this chapter.</text>
+        <text>As otherwise required by Regulations .06, .06-7, and .11.14 of this chapter.</text>
       </para>
     </para>
     <annotations>
@@ -7427,7 +7444,7 @@
           <text>Unless the Department approves a different calculation, calculate the average daily flow rate for each sump:</text>
           <para>
             <num>(i)</num>
-            <text>Each week, during the active life and closure period,; and</text>
+            <text>Each week, during the active life and closure period; and</text>
           </para>
           <para>
             <num>(ii)</num>
@@ -7552,7 +7569,7 @@
         </para>
         <para>
           <num>(f)</num>
-          <text>Maintain and monitor the leak detection system in accordance with 40 CFR §264.301(c)(3)(iv) and, 40 CFR §261.301(c)(4), and <cite path="26|13|05|.14|C.|(4)">§C(4) of this regulation</cite>; and</text>
+          <text>Maintain and monitor the leak detection system in accordance with 40 CFR §264.301(c)(3)(iv) and <cite path="26|13|05|.14|C.|(4)">§C(4) of this regulation</cite>; and</text>
         </para>
         <para>
           <num>(g)</num>
@@ -7613,11 +7630,23 @@
       <text>Special Requirements for Liquid Waste.</text>
       <para>
         <num>(1)</num>
-        <text>A person may not place waste which contains free liquids in a landfill, including bulk waste, non-containerized waste, or waste in containers.</text>
+        <text>Liquids in Landfills Prohibition.</text>
+        <para>
+          <num>(a)</num>
+          <text>A person may not place waste which contains free liquids in a landfill, including bulk waste, non-containerized waste, or waste in containers.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The prohibition of <cite path="26|13|05|.14|N.|(1)|(a)">§N(1)(a) of this regulation</cite> applies regardless of whether sorbents have been added to the waste.</text>
+        </para>
       </para>
       <para>
         <num>(2)</num>
-        <text>To demonstrate the absence or presence of free liquids, a person shall use Method 9095, Paint Filter Liquids Test, as described in "Test Methods for Evaluating Solid Waste, Physical/Chemical Methods", EPA Publication SW-846, which is incorporated by reference in <cite path="26.13.01.05|A.|(4)">COMAR 26.13.01.05A(4)</cite>.</text>
+        <text>To demonstrate the absence or presence of free liquids, a person shall use Method 9095, Paint Filter Liquids Test, as described in “Test Methods for Evaluating Solid Waste, Physical/Chemical Methods”, EPA Publication SW-846, which is incorporated by reference in <cite path="26.13.01.05|A.|(4)">COMAR 26.13.01.05A(4)</cite>.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A person may not use a sorbent to eliminate free liquids from a waste that is to be disposed of in a landfill unless the sorbent meets the requirements of 40 CFR §264.314(d).</text>
       </para>
     </para>
     <para>
@@ -10860,7 +10889,9 @@
     <annotations/>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Environment Article, Title 7, Subtitle 2, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">
+      <cite doc="Md. Code" path="gen">Environment Article, Title 7, Subtitle 2, Annotated Code of Maryland</cite>
+    </annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1981-04-03">Regulations <cite path="|26|13|05|.01">.01</cite>—<cite path="|26|13|05|.18">.18</cite> adopted as an emergency provision effective November 18, 1980 (7:25 Md. R. S-1); adopted permanently effective April 3, 1981 (8:7 Md. R. 642)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1982-01-18">Regulations .01, .05G, .06, .08A, .11C, .12D, and .14C amended effective January 18, 1982 (9:1 Md. R. 20)</annotation>
@@ -10935,25 +10966,26 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1997-09-10"><cite path="|26|13|05|.17-4">Regulation .17-4</cite> adopted effective September 10, 1997 (24:5 Md. R. 413)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1997-05-05"><cite path="|26|13|05|.21">Regulation .21</cite> repealed effective May 5, 1997 (24:9 Md. R. 659)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-10-16" discontinuity="true">Chapter revised effective October 16, 2000 (27:20 Md. R. 1843)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-01-13"><cite path="|26|13|05|.01|A.">Regulation .01A</cite> amended effective November 1, 2002 (29:21 Md. R. 1647); May 1, 2008 (35:8 Md. R. 809); May 3, 2021 (48:9 Md. R. 359); January 13, 2022 (49:1 Md. R. 14)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-10-01"><cite path="|26|13|05|.01|A.">Regulation .01A</cite> amended effective November 1, 2002 (29:21 Md. R. 1647); May 1, 2008 (35:8 Md. R. 809); May 3, 2021 (48:9 Md. R. 359); January 13, 2022 (49:1 Md. R. 14); October 1, 2025 (52:17 Md. R. 876)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-05-01"><cite path="|26|13|05|.01|D.">Regulation .01D</cite> amended effective May 1, 2008 (35:8 Md. R. 809)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2002-11-01"><cite path="|26|13|05|.02|C.">Regulation .02C</cite> amended effective November 1, 2002 (29:21 Md. R. 1647)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-01-13"><cite path="|26|13|05|.02|C.">Regulation .02C</cite>, D amended effective January 13, 2022 (49:1 Md. R. 14)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-10-16"><cite path="|26|13|05|.02-1">Regulation .02-1</cite> recodified from <cite path="26.13.06.01">COMAR 26.13.06.01</cite> effective October 16, 2000 (27:20 Md. R. 1843)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-01-13"><cite path="|26|13|05|.02-2">Regulation .02-2</cite> adopted effective January 13, 2022 (49:1 Md. R. 14)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-05-03"><cite path="|26|13|05|.03|E.">Regulation .03E</cite>, G amended effective May 3, 2021 (48:9 Md. R. 359)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-05-01"><cite path="|26|13|05|.04|G.">Regulation .04G</cite> amended effective May 1, 2008 (35:8 Md. R. 809)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-10-01"><cite path="|26|13|05|.04|G.">Regulation .04G</cite> amended effective May 1, 2008 (35:8 Md. R. 809); October 1, 2025 (52:17 Md. R. 876)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2006-09-11"><cite path="|26|13|05|.05">Regulation .05</cite> amended effective September 11, 2006 (33:18 Md. R. 1507)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-05-01"><cite path="|26|13|05|.05|A.">Regulation .05A</cite>, C amended effective May 1, 2008 (35:8 Md. R. 809)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-01-13"><cite path="|26|13|05|.05|B.">Regulation .05B</cite> amended effective November 1, 2002 (29:21 Md. R. 1647); January 13, 2022 (49:1 Md. R. 14)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-05-03"><cite path="|26|13|05|.05|B.">Regulation .05B</cite>, F amended effective May 3, 2021 (48:9 Md. R. 359)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-01-13"><cite path="|26|13|05|.05|C.">Regulation .05C</cite>, D amended effective January 13, 2022 (49:1 Md. R. 14)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-10-01"><cite path="|26|13|05|.05|C.">Regulation .05C</cite>, D amended effective January 13, 2022 (49:1 Md. R. 14); October 1, 2025 (52:17 Md. R. 876)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-05-01"><cite path="|26|13|05|.07">Regulation .07</cite> amended effective May 1, 2008 (35:8 Md. R. 809)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-05-01"><cite path="|26|13|05|.08|B.">Regulation .08B</cite> amended effective May 1, 2008 (35:8 Md. R. 809)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-01-13"><cite path="|26|13|05|.11">Regulation .11</cite> amended effective January 13, 2022 (49:1 Md. R. 14)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-01-13"><cite path="|26|13|05|.12">Regulation .12</cite> amended effective January 13, 2022 (49:1 Md. R. 14)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-01-13"><cite path="|26|13|05|.13|L.">Regulation .13L</cite> amended effective January 13, 2022 (49:1 Md. R. 14)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-01-13"><cite path="|26|13|05|.14">Regulation .14</cite> amended effective January 13, 2022 (49:1 Md. R. 14)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-10-01"><cite path="|26|13|05|.14|N.">Regulation .14N</cite> amended effective October 1, 2025 (52:17 Md. R. 876)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-05-01"><cite path="|26|13|05|.16|F.">Regulation .16F</cite> amended effective May 1, 2008 (35:8 Md. R. 809)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2002-11-01"><cite path="|26|13|05|.17-3E">Regulation .17-3E</cite> amended effective November 1, 2002 (29:21 Md. R. 1647)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-05-01"><cite path="|26|13|05|.18">Regulation .18</cite> adopted effective May 1, 2008 (35:8 Md. R. 809)</annotation>
