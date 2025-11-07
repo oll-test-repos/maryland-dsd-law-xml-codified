@@ -10,7 +10,7 @@
     <text>This chapter governs the:</text>
     <para>
       <num>A.</num>
-      <text>Transfer of prescriptions between pharmacies;</text>
+      <text>Transfer of prescriptions for non-controlled dangerous substances between pharmacies;</text>
     </para>
     <para>
       <num>B.</num>
@@ -20,7 +20,9 @@
       <num>C.</num>
       <text>Preparation of medication for stock and investigational use.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-117-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -64,40 +66,30 @@
     <prefix>Regulation</prefix>
     <num>.03</num>
     <heading>Permanent Transfer of a Prescription Between Pharmacies.</heading>
-    <text>A pharmacist from a primary pharmacy may permanently transfer a prescription order to a secondary pharmacy to be dispensed to a specific patient if:</text>
+    <text>A pharmacist from a primary pharmacy may permanently transfer a prescription order to a secondary pharmacy to be dispensed to a specific patient if the pharmacist transferring the prescription from the primary pharmacy indicates on the prescription, within the prescription computer database and within any appropriate other records used for dispensing:</text>
     <para>
       <num>A.</num>
-      <text>The prescription is lawfully refillable;</text>
+      <text>That the prescription has been permanently transferred;</text>
     </para>
     <para>
       <num>B.</num>
-      <text>The prescription is not for a Schedule II controlled dangerous substance noted in <cite doc="Md. Code" path="gcr">Criminal Law Article, Title 5, Subtitle 4, Annotated Code of Maryland</cite>;</text>
+      <text>The name of the secondary pharmacy;</text>
     </para>
     <para>
       <num>C.</num>
-      <text>The pharmacist transferring the prescription from the primary pharmacy indicates on the prescription, within the prescription computer database and within any appropriate other records used for dispensing:</text>
-      <para>
-        <num>(1)</num>
-        <text>That the prescription has been permanently transferred;</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>The name of the secondary pharmacy;</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>The name of the pharmacist who transferred the prescription to the secondary pharmacy;</text>
-      </para>
-      <para>
-        <num>(4)</num>
-        <text>The name of the pharmacist at the secondary pharmacy to whom the prescription was transferred if the transfer occurred in an oral manner; and</text>
-      </para>
-      <para>
-        <num>(5)</num>
-        <text>The date on which the prescription was transferred to the secondary pharmacy.</text>
-      </para>
+      <text>The name of the pharmacist who transferred the prescription to the secondary pharmacy;</text>
     </para>
-    <annotations/>
+    <para>
+      <num>D.</num>
+      <text>The name of the pharmacist at the secondary pharmacy to whom the prescription was transferred if the transfer occurred in an oral manner; and</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>The date on which the prescription was transferred to the secondary pharmacy.</text>
+    </para>
+    <annotations>
+      <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-117-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -163,6 +155,15 @@
   <section>
     <prefix>Regulation</prefix>
     <num>.06</num>
+    <heading>Transfers of Prescription for Controlled Dangerous Substances.</heading>
+    <text>A pharmacist may transfer a prescription for a controlled dangerous substance in accordance with federal law.</text>
+    <annotations>
+      <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-117-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.07</num>
     <heading>Outsourcing of a Prescription Order.</heading>
     <text>A pharmacist from a primary pharmacy may transmit a prescription order to a secondary pharmacy for preparation and final dispensing to a specific patient or for return to the primary pharmacy for final dispensing to a specific patient if:</text>
     <para>
@@ -217,11 +218,13 @@
       <num>G.</num>
       <text>The primary pharmacy maintains, in a readily retrievable and identifiable manner, a record of preparations received from the secondary pharmacy.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-117-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
-    <num>.07</num>
+    <num>.08</num>
     <heading>Documentation by the Secondary Pharmacy when a Prescription Order is Outsourced.</heading>
     <text>The permit holder at the secondary pharmacy is responsible for maintaining documentation in a readily retrievable and identifiable manner, which includes:</text>
     <para>
@@ -252,11 +255,13 @@
       <num>G.</num>
       <text>The date on which the prepared product was sent to the primary pharmacy if it was sent back to the primary pharmacy.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-117-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
-    <num>.08</num>
+    <num>.09</num>
     <heading>Preparation of Stock and Investigational Medications.</heading>
     <para>
       <num>A.</num>
@@ -286,11 +291,13 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-117-F" type="History" display="false"/>
+    </annotations>
   </section>
-  <section cache:ref-path="10|34|04|.09">
+  <section cache:ref-path="10|34|04|.10">
     <prefix>Regulation</prefix>
-    <num>.09</num>
+    <num>.10</num>
     <heading>Permit and Quality Assurance.</heading>
     <para>
       <num>A.</num>
@@ -298,7 +305,7 @@
     </para>
     <para>
       <num>B.</num>
-      <text>The plan under <cite path="10|34|04|.09|A.">§A of this regulation</cite> shall include:</text>
+      <text>The plan under <cite path="10|34|04|.10|A.">§A of this regulation</cite> shall include:</text>
       <para>
         <num>(1)</num>
         <text>Measures to be taken to comply with State and federal laws;</text>
@@ -320,15 +327,27 @@
       <num>C.</num>
       <text>Except as provided in <cite path="|10|34|04|.06">Regulation .06 of this chapter</cite>, a permit holder of a pharmacy shall obtain manufacturing and distribution permits in order to compound or package medication that is not prepared as a prescription destined for a specific patient, but is forwarded to another pharmacy, authorized prescriber, licensed distributor, or other person or entity.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-117-F" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gho|12-205">Health Occupations Article, §12-205(a)(3)(ii), </cite>Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">
+      <cite doc="Md. Code" path="gho|12-205">Health Occupations Article, §12-205(a)(3)(ii), Annotated Code of Maryland</cite>
+    </annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1979-05-04">Effective date: May 4, 1979 (6:9 Md. R. 728)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1990-02-19"><cite path="|10|34|04|.01">Regulation .01</cite> amended effective February 19, 1990 (17:3 Md. R. 298)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1990-02-19"><cite path="|10|34|04|.02">Regulation .02</cite> amended effective February 19, 1990 (17:3 Md. R. 298)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1990-02-19"><cite path="|10|34|04|.03|A.">Regulation .03A</cite> amended effective February 19, 1990 (17:3 Md. R. 298)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2001-06-25">Regulations <cite path="|10|34|04|.01">.01</cite> — <cite path="|10|34|04|.04">.04</cite>, Transfer of Prescriptions Between Pharmacies repealed effective June 25, 2001 (28:12 Md. R. 1110)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2001-06-25" discontinuity="true"><cite path="|10|34|04|.01">Regulation .01</cite> — .09 Transfer and Outsourcing of Prescriptions and Prescription Orders adopted effective June 25, 2001 (28:12 Md. R. 1110)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-09-29" discontinuity="true"><cite path="|10|34|04|.01|A.">Regulation .01A</cite> amended effective September 29, 2025 (Md. R. 956)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-09-29"><cite path="|10|34|04|.03">Regulation .03</cite> amended effective September 29, 2025 (Md. R. 956)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-09-29"><cite path="|10|34|04|.06">Regulation .06</cite> recodified to Regulation .07 effective September 29, 2025 (Md. R. 956)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-09-29"><cite path="|10|34|04|.06">Regulation .06</cite> adopted effective September 29, 2025 (Md. R. 956)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-09-29"><cite path="|10|34|04|.07">Regulation .07</cite> recodified to Regulation .08 effective September 29, 2025 (Md. R. 956)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-09-29"><cite path="|10|34|04|.08">Regulation .08</cite> recodified to Regulation .09 effective September 29, 2025 (Md. R. 956)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-09-29"><cite path="|10|34|04|.09">Regulation .09</cite> recodified to Regulation .10 effective September 29, 2025 (Md. R. 956)</annotation>
+    <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-117-F" type="History" display="false"/>
   </annotations>
 </container>
