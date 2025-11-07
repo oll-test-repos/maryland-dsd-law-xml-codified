@@ -75,7 +75,9 @@
         <text>The use of waste or used oil or other material, which is contaminated with a hazardous waste, for dust suppression or road treatment is prohibited.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="26|13|10|.02">
     <prefix>Regulation</prefix>
@@ -589,7 +591,9 @@
         <text>Subject to 40 CFR Part 262, Subpart H.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="26|13|10|.05">
     <prefix>Regulation</prefix>
@@ -762,7 +766,9 @@
       <num>C.</num>
       <text>Provide an alternative set of management standards to <cite path="|26.13.01">COMAR 26.13.01</cite>—26.13.09 and Regulations <cite path="|26|13|10|.01">.01</cite>—<cite path="|26|13|10|.05">.05</cite> of this chapter.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="26|13|10|.07">
     <prefix>Regulation</prefix>
@@ -938,7 +944,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="26|13|10|.09">
     <prefix>Regulation</prefix>
@@ -981,6 +989,15 @@
       </para>
     </para>
     <annotations/>
+  </section>
+  <section cache:ref-path="26|13|10|.09-1" placeholder="Not Applicable">
+    <reason>Not Applicable</reason>
+    <num>.09-1</num>
+    <heading>Applicability — Aerosol Cans.</heading>
+    <text>Applicable as of October 1, 2025.</text>
+    <annotations>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="26|13|10|.10">
     <prefix>Regulation</prefix>
@@ -1443,7 +1460,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="26|13|10|.15">
     <prefix>Regulation</prefix>
@@ -1664,6 +1683,15 @@
       </para>
     </para>
     <annotations/>
+  </section>
+  <section cache:ref-path="26|13|10|.16-1" placeholder="Not Applicable">
+    <reason>Not Applicable</reason>
+    <num>.16-1</num>
+    <heading>Small Quantity Handlers of Universal Waste Aerosol Cans — Specific Management Standards.</heading>
+    <text>Applicable as of October 1, 2025.</text>
+    <annotations>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="26|13|10|.17">
     <prefix>Regulation</prefix>
@@ -1889,7 +1917,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -2077,7 +2107,9 @@
         <text>A large quantity handler of universal waste who has already notified EPA or the Department of the handler's hazardous waste management activities and who has received an EPA identification number is considered to have satisfied the requirements of <cite path="26|13|10|.19|C.|(1)">§C(1) of this regulation</cite>.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -2103,7 +2135,9 @@
       <num>E.</num>
       <text>Universal Waste PCB-Containing Lamp Ballasts. A large quantity handler of universal waste shall manage universal waste PCB-containing lamp ballasts in accordance with the requirements established for small quantity handlers in <cite path="|26|13|10|.16">Regulation .16 of this chapter</cite>.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="26|13|10|.21">
     <prefix>Regulation</prefix>
@@ -2533,7 +2567,9 @@
         <text>Any factors in addition to those identified in <cite path="26|13|10|.25|B.|(1)">§B(1) of this regulation</cite> that may be appropriate.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="26|13|10|.26">
     <prefix>Regulation</prefix>
@@ -3117,6 +3153,168 @@
     <text>The treatment and disposal of hazardous waste military munitions are subject to the applicable permitting, procedural, and technical standards in <cite path="|26.13.01">COMAR 26.13.01</cite>— <cite path="|26.13.10">26.13.10</cite>.</text>
     <annotations/>
   </section>
+  <section cache:ref-path="26|13|10|.32" placeholder="Not Applicable">
+    <reason>Not Applicable</reason>
+    <num>.32</num>
+    <heading>Hazardous Waste Pharmaceuticals — General Provisions.</heading>
+    <text>Applicable as of October 1, 2025.</text>
+    <annotations>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="26|13|10|.33" placeholder="Not Applicable">
+    <reason>Not Applicable</reason>
+    <num>.33</num>
+    <heading>Prohibition on Sewer Disposal of Hazardous Waste Pharmaceuticals.</heading>
+    <text>Applicable as of October 1, 2025.</text>
+    <annotations>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="26|13|10|.34" placeholder="Not Applicable">
+    <reason>Not Applicable</reason>
+    <num>.34</num>
+    <heading>Conditional Exemption — Controlled Substances and Household Waste Pharmaceuticals.</heading>
+    <text>Applicable as of October 1, 2025.</text>
+    <annotations>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="26|13|10|.35" placeholder="Not Applicable">
+    <reason>Not Applicable</reason>
+    <num>.35</num>
+    <heading>Residues of Hazardous Waste Pharmaceuticals in Empty Containers.</heading>
+    <text>Applicable as of October 1, 2025.</text>
+    <annotations>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="26|13|10|.36" placeholder="Not Applicable">
+    <reason>Not Applicable</reason>
+    <num>.36</num>
+    <heading>Optional Provisions — Healthcare Facilities that Qualify as Very Small Quantity Generators.</heading>
+    <text>Applicable as of October 1, 2025.</text>
+    <annotations>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="26|13|10|.37" placeholder="Not Applicable">
+    <reason>Not Applicable</reason>
+    <num>.37</num>
+    <heading>Standards for Healthcare Facilities Managing Hazardous Waste Pharmaceuticals — Applicability.</heading>
+    <text>Applicable as of October 1, 2025.</text>
+    <annotations>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="26|13|10|.38" placeholder="Not Applicable">
+    <reason>Not Applicable</reason>
+    <num>.38</num>
+    <heading>Notification — Healthcare Facilities Managing Hazardous Waste Pharmaceuticals.</heading>
+    <text>Applicable as of October 1, 2025.</text>
+    <annotations>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section placeholder="Not Applicable">
+    <reason>Not Applicable</reason>
+    <num>.39</num>
+    <heading>General Standards — Healthcare Facilities Managing Non-Creditable Hazardous Waste Pharmaceuticals.</heading>
+    <text>Applicable as of October 1, 2025.</text>
+    <annotations>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="26|13|10|.40" placeholder="Not Applicable">
+    <reason>Not Applicable</reason>
+    <num>.40</num>
+    <heading>Container Standards — Healthcare Facilities Managing Non-Creditable Hazardous Waste Pharmaceuticals.</heading>
+    <text>Applicable as of October 1, 2025.</text>
+    <annotations>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="26|13|10|.41" placeholder="Not Applicable">
+    <reason>Not Applicable</reason>
+    <num>.41</num>
+    <heading>Accumulation Time Limit — Non-Creditable Hazardous Waste Pharmaceuticals.</heading>
+    <text>Applicable as of October 1, 2025.</text>
+    <annotations>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="26|13|10|.42" placeholder="Not Applicable">
+    <reason>Not Applicable</reason>
+    <num>.42</num>
+    <heading>Management of Rejected Shipments of Non-Creditable Hazardous Waste Pharmaceuticals by Healthcare Facilities.</heading>
+    <text>Applicable as of October 1, 2025.</text>
+    <annotations>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section placeholder="Not Applicable">
+    <reason>Not Applicable</reason>
+    <num>.43</num>
+    <heading>Reporting by Healthcare Facilities for Non-Creditable Hazardous Waste Pharmaceuticals.</heading>
+    <text>Applicable as of October 1, 2025.</text>
+    <annotations>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="26|13|10|.44" placeholder="Not Applicable">
+    <reason>Not Applicable</reason>
+    <num>.44</num>
+    <heading>Record Keeping by Healthcare Facilities for Non-Creditable Hazardous Waste Pharmaceuticals.</heading>
+    <text>Applicable as of October 1, 2025.</text>
+    <annotations>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="26|13|10|.45" placeholder="Not Applicable">
+    <reason>Not Applicable</reason>
+    <num>.45</num>
+    <heading>Acceptance of Non-Creditable Hazardous Waste Pharmaceuticals from Off Site.</heading>
+    <text>Applicable as of October 1, 2025.</text>
+    <annotations>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="26|13|10|.46" placeholder="Not Applicable">
+    <reason>Not Applicable</reason>
+    <num>.46</num>
+    <heading>Standards for Healthcare Facilities Managing Potentially Creditable Hazardous Waste Pharmaceuticals.</heading>
+    <text>Applicable as of October 1, 2025.</text>
+    <annotations>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="26|13|10|.47" placeholder="Not Applicable">
+    <reason>Not Applicable</reason>
+    <num>.47</num>
+    <heading>Shipping Requirements — Non-creditable Hazardous Waste Pharmaceuticals and Evaluated Hazardous Waste Pharmaceuticals.</heading>
+    <text>Applicable as of October 1, 2025.</text>
+    <annotations>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section placeholder="Not Applicable">
+    <reason>Not Applicable</reason>
+    <num>.48</num>
+    <heading>Shipments of Potentially Creditable Hazardous Waste Pharmaceuticals to a Reverse Distributor.</heading>
+    <text>Applicable as of October 1, 2025.</text>
+    <annotations>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="26|13|10|.49" placeholder="Not Applicable">
+    <reason>Not Applicable</reason>
+    <num>.49</num>
+    <heading>Standards for Reverse Distributors.</heading>
+    <text>Applicable as of October 1, 2025.</text>
+    <annotations>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+    </annotations>
+  </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gen|6-905">Environment Article, §6-905</cite>.3 and Title 7, Subtitle 2, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1988-04-18">Effective date: April 18, 1988 (15:8 Md. R. 1009)</annotation>
@@ -3153,5 +3351,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-05-01"><cite path="|26|13|10|.29">Regulation .29</cite> adopted effective May 1, 2008 (35:8 Md. R. 809)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-05-01"><cite path="|26|13|10|.30">Regulation .30</cite> adopted effective May 1, 2008 (35:8 Md. R. 809)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-05-01"><cite path="|26|13|10|.31">Regulation .31</cite> adopted effective May 1, 2008 (35:8 Md. R. 809)</annotation>
+    <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
   </annotations>
 </container>

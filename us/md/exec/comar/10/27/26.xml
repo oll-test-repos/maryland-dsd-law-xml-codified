@@ -161,7 +161,9 @@
         <text>“Sanction” means a disciplinary action against a licensee or certificate holder, including a reprimand, probation, suspension, revocation, or a monetary penalty.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1056,12 +1058,15 @@
         </table>
       </text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|1-606">1-606</cite>, <cite doc="Md. Code" path="gho|8-205">8-205</cite>(a)(<cite doc="Md. Code" path="gho|1">1</cite>), <cite doc="Md. Code" path="gho|8-316">8-316</cite>, <cite doc="Md. Code" path="gho|8-6">8-6</cite>A-<cite doc="Md. Code" path="gho|10">10</cite>, and <cite doc="Md. Code" path="gho|8-6">8-6</cite>B-18, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-04-16">Effective date: April 16, 2012 (39:7 Md. R. 492)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-09-10"><cite path="|10|27|26|.02|B.">Regulation .02B</cite> amended effective September 10, 2018 (45:18 Md. R. 834)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-09-10"><cite path="|10|27|26|.07|M.">Regulation .07M</cite> amended effective September 10, 2018 (45:18 Md. R. 834)</annotation>
+    <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" type="History" display="false"/>
   </annotations>
 </container>
