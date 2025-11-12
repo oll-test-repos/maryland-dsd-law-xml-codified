@@ -8,7 +8,9 @@
     <num>.01</num>
     <heading>Scope.</heading>
     <text>These regulations apply only to formal hearings before the Board based on charges or notices of proposed action issued pursuant to <cite doc="Md. Code" path="gho|8-316">Health Occupations Article, §8-316, </cite>8-404, 8-6A-10, or 8-6B-18, Annotated Code of Maryland.</text>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -205,5 +207,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1995-07-03"><cite path="|10|27|02|.08">Regulation .08</cite> amended effective July 3, 1995 (22:13 Md. R. 967)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1995-07-03"><cite path="|10|27|02|.09">Regulation .09</cite> amended effective July 3, 1995 (22:13 Md. R. 967)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1995-07-03"><cite path="|10|27|02|.10">Regulation .10</cite> repealed effective July 3, 1995 (22:13 Md. R. 967)</annotation>
+    <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" type="History" display="false"/>
   </annotations>
 </container>
