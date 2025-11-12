@@ -1432,7 +1432,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>The term of an appointment  may not exceed the term established by the standards of the accreditation organization that accredits the hospital.</text>
+        <text>The term of an appointment may not exceed the term established by the standards of the accreditation organization that accredits the hospital.</text>
       </para>
       <para>
         <num>(3)</num>
@@ -1662,7 +1662,7 @@
           </para>
           <para>
             <num>(viii)</num>
-            <text>The results of the Practitioner Performance Evaluation process as described in Health-General Article, §§19-3B-0119-3B-09, Annotated Code of Maryland.</text>
+            <text>The results of the Practitioner Performance Evaluation process as described in Health-General Article, §§19-3B-01—19-3B-09, Annotated Code of Maryland.</text>
           </para>
         </para>
       </para>
@@ -1805,6 +1805,7 @@
     </para>
     <annotations>
       <annotation managed="false" type="Emergency Action">52:11  25-064-E  (Regulations .24) EMERGENCY ACTION IN EFFECT 5/6/2025 —11/2/2025</annotation>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-064-F" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -3261,7 +3262,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1988-12-26"><cite path="|10|07|01|.23|A.">Regulation .23A</cite> and C amended as an emergency provision effective June 9, 1988 (15:14 Md. R. 1653); emergency status expired December 9, 1988; adopted permanently effective December 26, 1988 (15:26 Md. R. 2982)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1987-12-28">Regulations <cite path="|10|07|01|.24">.24</cite>—<cite path="|10|07|01|.26">.26</cite> adopted effective December 28, 1987 (14:26 Md. R. 2746)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-03-31"><cite path="|10|07|01|.24">Regulation .24</cite> amended effective March 1, 2004 (31:4 Md. R. 315); March 31, 2014 (41:6 Md. R. 378)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-05-06"><cite path="|10|07|01|.24|C.">Regulation .24C</cite> amended as an emergency provision effective May 6, 2025 (52:11 Md. R. 531)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-10-13"><cite path="|10|07|01|.24|C.">Regulation .24C</cite> amended as an emergency provision effective May 6, 2025 (52:11 Md. R. 531); adopted permanently effective October 13, 2025 (52:20 Md. R. 1001)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-04-16"><cite path="|10|07|01|.24|E.">Regulation .24E</cite> amended effective April 16, 2012 (39:7 Md. R. 491)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2004-03-15"><cite path="|10|07|01|.25">Regulation .25</cite> repealed effective March 15, 2004 (31:5 Md. R. 448)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-02-25"><cite path="|10|07|01|.25">Regulation .25</cite> adopted effective February 25, 2008 (35:4 Md. R. 514)</annotation>
@@ -3286,5 +3287,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-04-23"><cite path="|10|07|01|.35">Regulation .35</cite> adopted effective April 23, 2018 (45:8 Md. R. 420)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-04-23"><cite path="|10|07|01|.36">Regulation .36</cite> adopted effective April 23, 2018 (45:8 Md. R. 420)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-04-23"><cite path="|10|07|01|.37">Regulation .37</cite> adopted effective April 23, 2018 (45:8 Md. R. 420)</annotation>
+    <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-064-F" type="History" display="false"/>
   </annotations>
 </container>
