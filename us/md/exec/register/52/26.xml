@@ -275,9 +275,9 @@
   </container>
   <container name="regulations">
     <container name="emergency">
-      <container codify:applicability="2025-12-05" codify:expire="2026-06-03">
+      <container codify:applicability="2025-12-05" codify:expire="2026-03-30">
         <num>25-238-E</num>
-        <codify:insert history="false" doc="Code of Maryland Regulations" path="09|03" codified:doc="Code of Maryland Regulations" codified:path="09|03|16|.01|annos">
+        <codify:insert history="false" doc="Code of Maryland Regulations" path="09|03">
           <container>
             <prefix>Chapter</prefix>
             <num>16</num>
@@ -1379,6 +1379,7 @@
             </annotations>
           </container>
         </codify:insert>
+        <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-238-F" type="History"/>
       </container>
       <container codify:applicability="2025-11-25" codify:expire="2026-05-24">
         <num>25-138-E</num>
