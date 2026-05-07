@@ -75,7 +75,9 @@
       <num>H.</num>
       <text>Failure to Pay Fees. The Secretary may not issue a new license or issue a renewed license until all outstanding fees are paid.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -89,7 +91,9 @@
       <num>B.</num>
       <text>Letter of Exception — Limited Testing for Rare Diseases. A person applying for a letter of exception-limited testing for rare diseases for a laboratory shall submit an initial application and biennially after that with each renewal application.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Health-General Article, §§17-202, 17-204, 17-205, 17-207, 17-209, 17-502, 17-503, and 17-506, Annotated Code of Maryland</annotation>
@@ -111,5 +115,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-08-29"><cite path="|10|10|04|.01|E.">Regulation .01E</cite> amended effective August 29, 2016 (43:17 Md. R. 953)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-08-29"><cite path="|10|10|04|.02">Regulation .02</cite> amended effective August 29, 2016 (43:17 Md. R. 953)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-08-29"><cite path="|10|10|04|.03">Regulation .03</cite> repealed effective August 29, 2016 (43:17 Md. R. 953)</annotation>
+    <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" type="History" display="false"/>
   </annotations>
 </container>

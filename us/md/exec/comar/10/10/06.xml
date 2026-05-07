@@ -193,7 +193,9 @@
       <num>C.</num>
       <text>Standards. A licensee shall ensure that the laboratory meets the applicable standards concerning test requisition contained in 42 CFR §493.1241.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|10|06|.03">
     <prefix>Regulation</prefix>
@@ -873,7 +875,9 @@
         <text>Cholesterol. A licensee or approved plan holder of a laboratory that performs cholesterol tests shall ensure that the laboratory obtains and maintains control samples at two levels, near or bracketing the 200 and 240 micrograms/deciliter decision levels.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|10|06|.08">
     <prefix>Regulation</prefix>
@@ -1195,7 +1199,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1639,7 +1645,9 @@
         <text>Disposal of Special Medical Waste. A licensee operating a temporary or mobile laboratory shall dispose of special medical waste as required in <cite path="|10.06.06">COMAR 10.06.06</cite>.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1729,7 +1737,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1936,5 +1946,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-07-24"><cite path="|10|10|06|.15|B.">Regulation .15B</cite> amended effective July 24, 2000 (27:14 Md. R. 1340)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-04-01"><cite path="|10|10|06|.16">Regulation .16</cite> repealed effective April 1, 2013 (40:6 Md. R. 473)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|06|.16|A.">Regulation .16A</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
+    <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" type="History" display="false"/>
   </annotations>
 </container>

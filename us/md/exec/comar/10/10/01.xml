@@ -932,7 +932,9 @@
         <text>“Validity check” means a procedural, testing process, or analytical verification of proper performance of one or more analytical steps performed by the test system operator, built into a single-use test device, and carried out by a single-use test device to detect environmental damage or interfering substances that may have affected the device or the results of the testing process.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -998,5 +1000,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|01|.02">Regulation .02</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-04-01"><cite path="|10|10|01|.03|B.">Regulation .03B</cite> amended effective February 18, 2002 (29:3 Md. R. 220); December 23, 2002 (29:25 Md. R. 1982); June 1, 2009 (36:11 Md. R. 787); January 13, 2011 (38:1 Md. R. 11); April 16, 2012 (39:7 Md. R. 492); April 1, 2013 (40:6 Md. R. 473)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|01|.04|B.">Regulation .04B</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
+    <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" type="History" display="false"/>
   </annotations>
 </container>

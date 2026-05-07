@@ -473,7 +473,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -553,7 +555,9 @@
       <num>H.</num>
       <text>The OHCQ shall evaluate an individual's PT performance as set forth in 42 CFR §493.945.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|10|05|.05">
     <prefix>Regulation</prefix>
@@ -707,7 +711,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Health-General Article, §§17-202 and 17-211, Annotated Code of Maryland</annotation>
@@ -720,5 +726,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-11-29"><cite path="|10|10|05|.04|D.">Regulation .04D</cite> amended effective November 29, 2010 (37:24 Md. R. 1658)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|05|.05|B.">Regulation .05B</cite>, C amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-11-29"><cite path="|10|10|05|.05|C.">Regulation .05C</cite> amended effective November 29, 2010 (37:24 Md. R. 1658)</annotation>
+    <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" type="History" display="false"/>
   </annotations>
 </container>
