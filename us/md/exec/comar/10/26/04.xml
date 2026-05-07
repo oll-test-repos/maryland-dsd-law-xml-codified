@@ -117,26 +117,30 @@
           </para>
           <para>
             <num>(ix)</num>
-            <text>A report from a professional association, peer review committee, rehabilitation committee, or medical review committee as defined in <cite doc="Md. Code" path="gho|14-501">Health Occupations Article, §14-501, Annotated Code of Maryland</cite>;</text>
+            <text>A webpage or other published content;</text>
           </para>
           <para>
             <num>(x)</num>
-            <text>A report from another health occupation board or other State agency;</text>
+            <text>A report from a professional association, peer review committee, rehabilitation committee, or medical review committee as defined in <cite doc="Md. Code" path="gho|14-501">Health Occupations Article, §14-501, Annotated Code of Maryland</cite>;</text>
           </para>
           <para>
             <num>(xi)</num>
-            <text>A report from a court of this or another jurisdiction;</text>
+            <text>A report from another health occupation board or other State agency;</text>
           </para>
           <para>
             <num>(xii)</num>
-            <text>An application filed with the Board;</text>
+            <text>A report from a court of this or another jurisdiction;</text>
           </para>
           <para>
             <num>(xiii)</num>
-            <text>A written memorandum of the Board alleging conduct by a licensee; and</text>
+            <text>An application filed with the Board;</text>
           </para>
           <para>
             <num>(xiv)</num>
+            <text>A written memorandum of the Board alleging conduct by a licensee; and</text>
+          </para>
+          <para>
+            <num>(xv)</num>
             <text>Other information, from any other source, which warrants investigation.</text>
           </para>
         </para>
@@ -243,7 +247,7 @@
       </para>
       <para>
         <num>(20)</num>
-        <text>“Investigation” means the gathering of information after the Board receives a complaint against a licensee, which is necessary for the Board to determine whether there is reasonable cause to charge a licensee with a violation of the Maryland Acupuncture Act.</text>
+        <text>“Investigation” means the gathering of information about an applicant or after the Board receives a complaint against a licensee, which is necessary for the Board to determine whether there is reasonable cause to deny an application or charge a licensee with a violation of the Maryland Acupuncture Act.</text>
       </para>
       <para>
         <num>(21)</num>
@@ -410,7 +414,9 @@
         <text>“Suspension” means a sanction imposed by the Board in a public final order if the Board determines that a licensee has violated the Maryland Acupuncture Act, which temporarily discontinues the licensee's authority to practice acupuncture for a specific period of time or until certain conditions are met.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-261-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -552,11 +558,19 @@
         <text>Service is completed when the document is:</text>
         <para>
           <num>(a)</num>
-          <text>Sent by certified mail to the address the respondent is required to maintain with the Board; or</text>
+          <text>Sent by U.S. first-class mail;</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Hand delivered in person.</text>
+          <text>Sent by certified mail to the address the respondent is required to maintain with the Board;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Hand delivered in-person or by courier; or</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Sent by electronic means with a read receipt.</text>
         </para>
       </para>
       <para>
@@ -736,7 +750,9 @@
         <text>Participation in a case resolution conference is not ordinarily a basis for recusal of a Board member, Board counsel, or Board prosecutor from further proceedings in a case.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-261-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|26|04|.06">
     <prefix>Regulation</prefix>
@@ -1554,109 +1570,146 @@
           </thead>
           <tbody>
             <tr>
-              <td>(1) Fraudulently or deceptively obtains or attempts to obtain a license for the applicant or licensee or for another;</td>
-              <td data-text-align="center">Reprimand</td>
-              <td data-text-align="center">Revocation/denial of license</td>
-              <td data-text-align="center">$0</td>
-              <td data-text-align="center">$5,000</td>
+              <td data-vertical-align="middle">(1) Fraudulently or deceptively obtains or attempts to obtain a license for the applicant or licensee or for another;</td>
+              <td data-text-align="center" data-vertical-align="middle">Reprimand</td>
+              <td data-text-align="center" data-vertical-align="middle">Revocation/denial of license</td>
+              <td data-text-align="center" data-vertical-align="middle">$0</td>
+              <td data-text-align="center" data-vertical-align="middle">$5,000</td>
             </tr>
             <tr>
-              <td>(2) Fraudulently or deceptively:<br/>(a) Uses a license; or <br/>(b) Solicits or advertises;</td>
-              <td data-text-align="center">Reprimand</td>
-              <td data-text-align="center">Revocation</td>
-              <td data-text-align="center">$0</td>
-              <td data-text-align="center">$5,000</td>
+              <td data-vertical-align="middle">
+                <p>(2) Fraudulently or deceptively:</p>
+                <p>(a) Uses a license; or</p>
+                <p>(b) Solicits or advertises;</p>
+              </td>
+              <td data-text-align="center" data-vertical-align="middle">Reprimand</td>
+              <td data-text-align="center" data-vertical-align="middle">Revocation</td>
+              <td data-text-align="center" data-vertical-align="middle">$0</td>
+              <td data-text-align="center" data-vertical-align="middle">$5,000</td>
             </tr>
             <tr>
-              <td>(3) Is guilty of immoral or unprofessional conduct in the practice of acupuncture;</td>
-              <td data-text-align="center">Reprimand</td>
-              <td data-text-align="center">Revocation</td>
-              <td data-text-align="center">$0</td>
-              <td data-text-align="center">$5,000</td>
+              <td data-vertical-align="middle">(3) Is guilty of immoral or unprofessional conduct in the practice of acupuncture;</td>
+              <td data-text-align="center" data-vertical-align="middle">Reprimand</td>
+              <td data-text-align="center" data-vertical-align="middle">Revocation</td>
+              <td data-text-align="center" data-vertical-align="middle">$0</td>
+              <td data-text-align="center" data-vertical-align="middle">$5,000</td>
             </tr>
             <tr>
-              <td>(4) Incompetent.<br/>(a) Is professionally incompetent; or<br/>(b) Is physically, or mentally incompetent;</td>
-              <td data-text-align="center">Probation 6 months <br/>Reprimand</td>
-              <td data-text-align="center">Revocation <br/>Revocation</td>
-              <td data-text-align="center">$0 <br/>$0</td>
-              <td data-text-align="center">$5,000<br/>$5,000</td>
+              <td data-vertical-align="middle">
+                <p>(4) Incompetent.</p>
+                <p>(a) Is professionally incompetent; or</p>
+                <p>(b) Is physically, or mentally incompetent;</p>
+              </td>
+              <td data-text-align="center" data-vertical-align="middle">Probation 6 months Reprimand</td>
+              <td data-text-align="center" data-vertical-align="bottom">Revocation Revocation</td>
+              <td data-text-align="center" data-vertical-align="middle">$0 $0</td>
+              <td data-text-align="center" data-vertical-align="middle">$5,000$5,000</td>
             </tr>
             <tr>
-              <td>(5) Provides professional services while under the influence of alcohol or any narcotic or controlled; dangerous substance;</td>
-              <td data-text-align="center">Probation 6 months with education</td>
-              <td data-text-align="center">Revocation</td>
-              <td data-text-align="center">$0</td>
-              <td data-text-align="center">$5,000</td>
+              <td data-vertical-align="middle">(5) Provides professional services while under the influence of alcohol or any narcotic or controlled; dangerous substance;</td>
+              <td data-text-align="center" data-vertical-align="middle">Probation 6 months with education</td>
+              <td data-text-align="center" data-vertical-align="middle">Revocation</td>
+              <td data-text-align="center" data-vertical-align="middle">$0</td>
+              <td data-text-align="center" data-vertical-align="middle">$5,000</td>
             </tr>
             <tr>
-              <td>(6) Is convicted of or pleads guilty or nolo contendere to a felony or to a crime involving moral turpitude;</td>
-              <td data-text-align="center">Probation 3 months or denial of license</td>
-              <td data-text-align="center">Revocation/denial of license</td>
-              <td data-text-align="center">$0</td>
-              <td data-text-align="center">$5,000</td>
+              <td data-vertical-align="middle">
+                <p>(6) Knowingly violates any provision of:</p>
+                <p>(a) Health Occupations Article, Title 1A, Annotated Code of Maryland; or</p>
+                <p>(b) This subtitle;</p>
+              </td>
+              <td data-text-align="center" data-vertical-align="middle">Reprimand</td>
+              <td data-text-align="center" data-vertical-align="middle">Revocation</td>
+              <td data-text-align="center" data-vertical-align="middle">$0</td>
+              <td data-text-align="center" data-vertical-align="middle">$5,000</td>
             </tr>
             <tr>
-              <td>(7) Practices acupuncture with an unauthorized person or assists an unauthorized person in the practice of acupuncture;</td>
-              <td data-text-align="center">Reprimand</td>
-              <td data-text-align="center">Revocation</td>
-              <td data-text-align="center">$0</td>
-              <td data-text-align="center">$5,000</td>
+              <td data-vertical-align="middle">(7) Is convicted of or pleads guilty or nolo contendere to a felony or to a crime involving moral turpitude;</td>
+              <td data-text-align="center" data-vertical-align="middle">Probation 3 months or denial of license</td>
+              <td data-text-align="center" data-vertical-align="middle">Revocation/denial of license</td>
+              <td data-text-align="center" data-vertical-align="middle">$0</td>
+              <td data-text-align="center" data-vertical-align="middle">$5,000</td>
             </tr>
             <tr>
-              <td>(8) Willfully makes or files a false report or record in the practice of acupuncture;</td>
-              <td data-text-align="center">Reprimand</td>
-              <td data-text-align="center">Revocation</td>
-              <td data-text-align="center">$0</td>
-              <td data-text-align="center">$5,000</td>
+              <td data-vertical-align="middle">(8) Practices acupuncture with an unauthorized person or assists an unauthorized person in the practice of acupuncture;</td>
+              <td data-text-align="center" data-vertical-align="middle">Reprimand</td>
+              <td data-text-align="center" data-vertical-align="middle">Revocation</td>
+              <td data-text-align="center" data-vertical-align="middle">$0</td>
+              <td data-text-align="center" data-vertical-align="middle">$5,000</td>
             </tr>
             <tr>
-              <td>(9) Willfully fails to file or record any report as required by law, willfully impedes or obstructs the filing or recording of the report, or induces another to fail to file or record the report;</td>
-              <td data-text-align="center">Reprimand</td>
-              <td data-text-align="center">Revocation</td>
-              <td data-text-align="center">$0</td>
-              <td data-text-align="center">$5,000</td>
+              <td data-vertical-align="middle">
+                <p>(9) For an act that would be grounds for disciplinary action under this section and has been:</p>
+                <p>(a) Disciplined by the licensing or disciplinary authority of any state or country; or</p>
+                <p>(b) Convicted or disciplined by a court of any state or country;</p>
+              </td>
+              <td data-text-align="center" data-vertical-align="middle">Reprimand</td>
+              <td data-vertical-align="middle" class="text-indent-2">Revocation</td>
+              <td data-text-align="center" data-vertical-align="middle">$0</td>
+              <td data-text-align="center" data-vertical-align="middle">$5,000</td>
             </tr>
             <tr>
-              <td>(10) Submits a false statement to collect a fee;</td>
-              <td data-text-align="center">Reprimand</td>
-              <td data-text-align="center">Revocation/denial of license</td>
-              <td data-text-align="center">$100</td>
-              <td data-text-align="center">$5,000</td>
+              <td data-vertical-align="middle">(10) Willfully makes or files a false report or record in the practice of acupuncture;</td>
+              <td data-text-align="center" data-vertical-align="middle">Reprimand</td>
+              <td data-text-align="center" data-vertical-align="middle">Revocation</td>
+              <td data-text-align="center" data-vertical-align="middle">$0</td>
+              <td data-text-align="center" data-vertical-align="middle">$5,000</td>
             </tr>
             <tr>
-              <td>(11) Refuses, withholds from, denies, or discriminates against an individual with regard to the provision of professional services for which the person is licensed and qualified to render because the individual is HIV positive;</td>
-              <td data-text-align="center">Reprimand</td>
-              <td data-text-align="center">Suspension 2 years</td>
-              <td data-text-align="center">$0</td>
-              <td data-text-align="center">$5,000</td>
+              <td data-vertical-align="middle">(11) Willfully fails to file or record any report as required by law, willfully impedes or obstructs the filing or recording of the report, or induces another to fail to file or record the report;</td>
+              <td data-text-align="center" data-vertical-align="middle">Reprimand</td>
+              <td data-text-align="center" data-vertical-align="middle">Revocation</td>
+              <td data-text-align="center" data-vertical-align="middle">$0</td>
+              <td data-text-align="center" data-vertical-align="middle">$5,000</td>
             </tr>
             <tr>
-              <td>(12) Fails to cooperate with a lawful investigation conducted by the Board;</td>
-              <td data-text-align="center">Suspension 1 month</td>
-              <td data-text-align="center">Revocation</td>
-              <td data-text-align="center">$100</td>
-              <td data-text-align="center">$5,000</td>
+              <td data-vertical-align="middle">(12) Submits a false statement to collect a fee;</td>
+              <td data-text-align="center" data-vertical-align="middle">Reprimand</td>
+              <td data-text-align="center" data-vertical-align="middle">Revocation/denial of license</td>
+              <td data-text-align="center" data-vertical-align="middle">$100</td>
+              <td data-text-align="center" data-vertical-align="middle">$5,000</td>
             </tr>
             <tr>
-              <td>(13) Commits any act of gross negligence, incompetence, or misconduct in the practice of acupuncture;</td>
-              <td data-text-align="center">Reprimand</td>
-              <td data-text-align="center">Revocation</td>
-              <td data-text-align="center">$0</td>
-              <td data-text-align="center">$5,000</td>
+              <td data-vertical-align="middle">(13) Refuses, withholds from, denies, or discriminates against an individual with regard to the provision of professional services for which the person is licensed and qualified to render because the individual is HIV positive;</td>
+              <td data-text-align="center" data-vertical-align="middle">Reprimand</td>
+              <td data-text-align="center" data-vertical-align="middle">Suspension <br/>2 years</td>
+              <td data-text-align="center" data-vertical-align="middle">$0</td>
+              <td data-text-align="center" data-vertical-align="middle">$5,000</td>
             </tr>
             <tr>
-              <td>(14) Engages in a course of conduct that is inconsistent with generally accepted professional standards in the practice of acupuncture; or</td>
-              <td data-text-align="center">Reprimand</td>
-              <td data-text-align="center">Revocation</td>
-              <td data-text-align="center">$0</td>
-              <td data-text-align="center">$5,000</td>
+              <td data-vertical-align="middle">(14) Fails to display the notice required under <cite doc="Md. Code" path="gho|1A-313">Health Occupations Article, §1A-313, Annotated Code of Maryland</cite>;</td>
+              <td data-text-align="center" data-vertical-align="middle">Reprimand</td>
+              <td>Probation</td>
+              <td data-text-align="center" data-vertical-align="middle">$0</td>
+              <td data-text-align="center" data-vertical-align="middle">$5,000</td>
             </tr>
             <tr>
-              <td>(15) Fails to comply with any Board order.</td>
-              <td data-text-align="center">Suspension 1 year</td>
-              <td data-text-align="center">Revocation</td>
-              <td data-text-align="center">$0</td>
-              <td data-text-align="center">$5,000</td>
+              <td data-vertical-align="middle">(15) Fails to cooperate with a lawful investigation conducted by the Board;</td>
+              <td data-text-align="center" data-vertical-align="middle">Suspension <br/>1 month</td>
+              <td data-text-align="center" data-vertical-align="middle">Revocation</td>
+              <td data-text-align="center" data-vertical-align="middle">$100</td>
+              <td data-text-align="center" data-vertical-align="middle">$5,000</td>
+            </tr>
+            <tr>
+              <td data-vertical-align="middle">(16) Commits any act of gross negligence, incompetence, or misconduct in the practice of acupuncture;</td>
+              <td data-text-align="center" data-vertical-align="middle">Reprimand</td>
+              <td data-text-align="center" data-vertical-align="middle">Revocation</td>
+              <td data-text-align="center" data-vertical-align="middle">$0</td>
+              <td data-text-align="center" data-vertical-align="middle">$5,000</td>
+            </tr>
+            <tr>
+              <td data-vertical-align="middle">(17) Engages in a course of conduct that is inconsistent with generally accepted professional standards in the practice of acupuncture; or</td>
+              <td data-text-align="center" data-vertical-align="middle">Reprimand</td>
+              <td data-text-align="center" data-vertical-align="middle">Revocation</td>
+              <td data-text-align="center" data-vertical-align="middle">$0</td>
+              <td data-text-align="center" data-vertical-align="middle">$5,000</td>
+            </tr>
+            <tr>
+              <td data-vertical-align="middle">(18) Fails to comply with any Board order.</td>
+              <td data-text-align="center" data-vertical-align="middle">Suspension <br/>1 year</td>
+              <td data-text-align="center" data-vertical-align="middle">Revocation</td>
+              <td data-text-align="center" data-vertical-align="middle">$0</td>
+              <td data-text-align="center" data-vertical-align="middle">$5,000</td>
             </tr>
           </tbody>
         </table>
@@ -1742,7 +1795,7 @@
         </para>
         <para>
           <num>(h)</num>
-          <text>The licensee failed to cooperate with the Board’s investigation; and</text>
+          <text>The licensee failed to cooperate with the Boards investigation; and</text>
         </para>
         <para>
           <num>(i)</num>
@@ -1750,7 +1803,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-261-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1862,6 +1917,10 @@
     <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|1A-205">1A-205</cite>, <cite doc="Md. Code" path="gho|1A-309">1A-309</cite>, <cite doc="Md. Code" path="gho|1A-310">1A-310</cite>, and <cite doc="Md. Code" path="gho|1A-314">1A-314</cite>;<br/><cite doc="Md. Code" path="gsg|10-206">State Government Article, §10-206</cite>; Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2002-07-22">Effective date: July 22, 2002 (29:14 Md. R. 1075)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-02-20" discontinuity="true">Chapter revised effective February 20, 2012 (39:3 Md. R. 259)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-16"><cite path="|10|26|04|.02|B.">Regulation .02B</cite> amended effective February 16, 2026 (53:3 Md. R. 122)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-16"><cite path="|10|26|04|.05|C.">Regulation .05C</cite> amended effective February 16, 2026 (53:3 Md. R. 122)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-16"><cite path="|10|26|04|.10|B.">Regulation .10B</cite> amended effective February 16, 2026 (53:3 Md. R. 122)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-04-13"><cite path="|10|26|04|.12">Regulation .12</cite> amended effective April 13, 2015 (42:7 Md. R. 569)</annotation>
+    <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-261-F" type="History" display="false"/>
   </annotations>
 </container>
