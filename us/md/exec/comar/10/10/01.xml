@@ -168,6 +168,10 @@
         <text>“CLIA” means the federal Clinical Laboratory Improvement Amendments of 1988 in Section 353 of the Public Health Service Act and any amendments to it (42 U.S.C. §263a).</text>
       </para>
       <para>
+        <num>(12-1)</num>
+        <text>“CLIA waived test” means a test system, assay, or examination that the federal Department of Health and Human Services has determined meets the Clinical Laboratory Improvement Amendments (CLIA) statutory criteria as specified for waiver under the federal CLIA Amendments of 1988 in Section 353 of the Public Health Service Act of 42 U.S.C. §263a.</text>
+      </para>
+      <para>
         <num>(13)</num>
         <text>“CMS” means the federal Centers for Medicare and Medicaid Services.</text>
       </para>
@@ -265,7 +269,7 @@
       </para>
       <para>
         <num>(24)</num>
-        <text>“Excepted test” means a medical laboratory test, as set forth in <cite path="10.10.03.02|B.">COMAR 10.10.03.02B</cite>, that is authorized by the Secretary to be offered or performed by a laboratory operating under a letter of exception.</text>
+        <text>“Excepted test” means a medical laboratory test that is a CLIA waived test.</text>
       </para>
       <para>
         <num>(25)</num>
@@ -757,70 +761,26 @@
       </para>
       <para>
         <num>(71)</num>
-        <text>“Single-use test device for forensic testing” means the reagent-containing unit of a test system that:</text>
-        <para>
-          <num>(a)</num>
-          <text>Is in the form of a sealed container or cartridge possessing a validity check;</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Possesses a nonresealable closure or an evidentiary tape to ensure detection of tampering;</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>Is self-contained and individually packaged;</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>Is discarded after each test; and</text>
-        </para>
-        <para>
-          <num>(e)</num>
-          <text>Does not allow any test component or constituent of a test system to interact from test to test.</text>
-        </para>
-      </para>
-      <para>
-        <num>(72)</num>
-        <text>“Single-use test device for nonforensic testing” means the reagent-containing unit of a test system in the form of a cartridge, test pack, or other container that:</text>
-        <para>
-          <num>(a)</num>
-          <text>Includes a validity check;</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Is self-contained and individually packaged;</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>Is discarded after each test; and</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>Does not allow any test component or constituent of a test system to interact from test to test.</text>
-        </para>
-      </para>
-      <para>
-        <num>(73)</num>
         <text>“SOPM” means a standard operating procedure manual.</text>
       </para>
       <para>
-        <num>(74)</num>
+        <num>(72)</num>
         <text>“Specialty” means a scientific field of study within a laboratory subdiscipline, such as compatibility testing within the subdiscipline of immunohematology.</text>
       </para>
       <para>
-        <num>(75)</num>
+        <num>(73)</num>
         <text>“Specimen” means material collected from the human body and intended for laboratory testing.</text>
       </para>
       <para>
-        <num>(76)</num>
+        <num>(74)</num>
         <text>“Standard” means one or more specific technical, procedural, fiscal, or other requirements that a laboratory or individual must meet to comply with this chapter.</text>
       </para>
       <para>
-        <num>(77)</num>
+        <num>(75)</num>
         <text>“Subdiscipline” means a scientific field of study within a laboratory discipline, such as bacteriology within the discipline of microbiology and dermatopathology within the discipline of pathology.</text>
       </para>
       <para>
-        <num>(78)</num>
+        <num>(76)</num>
         <text>Survey.</text>
         <para>
           <num>(a)</num>
@@ -848,7 +808,7 @@
         </para>
       </para>
       <para>
-        <num>(79)</num>
+        <num>(77)</num>
         <text>System Check.</text>
         <para>
           <num>(a)</num>
@@ -864,11 +824,11 @@
         </para>
       </para>
       <para>
-        <num>(80)</num>
+        <num>(78)</num>
         <text>“Technical supervisor” means an individual who is qualified to direct medical laboratory testing in at least one laboratory discipline.</text>
       </para>
       <para>
-        <num>(81)</num>
+        <num>(79)</num>
         <text>“Technician” means an individual who has at least 1 year of experience in a licensed medical laboratory, other than an excepted laboratory, and who has earned:</text>
         <para>
           <num>(a)</num>
@@ -888,7 +848,7 @@
         </para>
       </para>
       <para>
-        <num>(82)</num>
+        <num>(80)</num>
         <text>“Technologist” means an individual who:</text>
         <para>
           <num>(a)</num>
@@ -904,32 +864,36 @@
         </para>
       </para>
       <para>
-        <num>(83)</num>
+        <num>(81)</num>
         <text>“Temporary laboratory” means a medical laboratory located at a temporary testing site, such as a health fair or shopping mall, for fewer than 30 days in 12 consecutive months.</text>
       </para>
       <para>
-        <num>(84)</num>
+        <num>(82)</num>
         <text>“Test” means a medical laboratory examination, analysis, procedure, or preanalytic, analytic, or postanalytic phase of a testing process.</text>
       </para>
       <para>
-        <num>(85)</num>
+        <num>(83)</num>
         <text>“Testing event” means an occasion when a health awareness test is offered or performed on a specified date at a temporary laboratory.</text>
       </para>
       <para>
-        <num>(86)</num>
+        <num>(84)</num>
         <text>“Testing personnel” means an individual or individuals employed or otherwise engaged by a laboratory to perform medical laboratory tests.</text>
       </para>
       <para>
-        <num>(87)</num>
+        <num>(85)</num>
         <text>“Total number of tests” means all tests performed by a laboratory in all disciplines in the previous calendar year.</text>
       </para>
       <para>
-        <num>(88)</num>
+        <num>(86)</num>
         <text>“Unsatisfactory proficiency testing performance” means failure to attain the minimum satisfactory score for three of four consecutive proficiency testing events.</text>
       </para>
       <para>
-        <num>(89)</num>
-        <text>“Validity check” means a procedural, testing process, or analytical verification of proper performance of one or more analytical steps performed by the test system operator, built into a single-use test device, and carried out by a single-use test device to detect environmental damage or interfering substances that may have affected the device or the results of the testing process.</text>
+        <num>(87)</num>
+        <text>“Test System” means the instructions, instrumentation, equipment, and reagents necessary to perform an assay or examination that generates test results.</text>
+      </para>
+      <para>
+        <num>(88)</num>
+        <text>“Validity check” means a procedural, testing process, or analytical verification of proper performance of one or more analytical steps performed by the test system operator, built into a test system, and carried out by a test system to detect environmental damage or interfering substances that may have affected the device or the results of the testing process.</text>
       </para>
     </para>
     <annotations>
@@ -983,22 +947,24 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1969-07-01">Effective date: July 1, 1969</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1977-03-02">Chapter revised effective March 2, 1977 (4:5 Md. R. 372)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1986-02-10">Chapter revised effective February 10, 1986 (13:3 Md. R. 271)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1987-12-28"><cite path="|10|10|01|.03|N.">Regulation .03N</cite> amended effective December 28, 1987 (14:26 Md. R. 2747)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1987-12-28"><cite path="|10|10|01|.06">Regulation .06</cite> amended effective December 28, 1987 (14:26 Md. R. 2747)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1987-12-28"><cite path="|10|10|01|.03|N." proof="needed">Regulation .03N</cite> amended effective December 28, 1987 (14:26 Md. R. 2747)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1987-12-28"><cite path="|10|10|01|.06" proof="needed">Regulation .06</cite> amended effective December 28, 1987 (14:26 Md. R. 2747)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1989-10-30" discontinuity="true">Chapter revised effective October 30, 1989 (16:21 Md. R. 2261)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1990-10-29">Chapter revised effective October 29, 1990 (17:21 Md. R. 2529)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1994-08-01"><cite path="|10|10|01|.03">Regulation .03</cite> amended as an emergency provision effective April 1, 1994 (21:8 Md. R. 665); adopted permanently effective August 1, 1994 (21:15 Md. R. 1305)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1992-10-01">Regulations .05, .10—.12, .15, and .18 amended and new Regulation .20 adopted as an emergency provision effective May 1, 1992 (19:10 Md. R. 926) Regulation .05A amended effective October 1, 1992 (19:15 Md. R. 1390)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1992-10-01"><cite path="|10|10|01|.10|B.">Regulation .10B</cite> amended effective October 1, 1992 (19:15 Md. R. 1390)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1992-10-01"><cite path="|10|10|01|.11">Regulation .11</cite> repealed and new Regulation .11 adopted effective October 1, 1992 (19:15 Md. R. 1390)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1992-10-01"><cite path="|10|10|01|.12">Regulation .12</cite> amended effective October 1, 1992 (19:15 Md. R. 1390)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1994-08-01"><cite path="|10|10|01|.14">Regulation .14</cite> repealed and new Regulation .14 adopted as an emergency provision effective April 1, 1994 (21:8 Md. R. 665); adopted permanently effective August 1, 1994 (21:15 Md. R. 1305)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1992-10-01"><cite path="|10|10|01|.15">Regulation .15</cite> repealed and new Regulation .15 adopted effective October 1, 1992 (19:15 Md. R. 1390)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1992-10-01"><cite path="|10|10|01|.18|C.">Regulation .18C</cite> amended effective October 1, 1992 (19:15 Md. R. 1390)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1992-10-01"><cite path="|10|10|01|.20">Regulation .20</cite> adopted effective October 1, 1992 (19:15 Md. R. 1390)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1992-10-01"><cite path="|10|10|01|.10|B." proof="needed">Regulation .10B</cite> amended effective October 1, 1992 (19:15 Md. R. 1390)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1992-10-01"><cite path="|10|10|01|.11" proof="needed">Regulation .11</cite> repealed and new Regulation .11 adopted effective October 1, 1992 (19:15 Md. R. 1390)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1992-10-01"><cite path="|10|10|01|.12" proof="needed">Regulation .12</cite> amended effective October 1, 1992 (19:15 Md. R. 1390)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1994-08-01"><cite path="|10|10|01|.14" proof="needed">Regulation .14</cite> repealed and new Regulation .14 adopted as an emergency provision effective April 1, 1994 (21:8 Md. R. 665); adopted permanently effective August 1, 1994 (21:15 Md. R. 1305)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1992-10-01"><cite path="|10|10|01|.15" proof="needed">Regulation .15</cite> repealed and new Regulation .15 adopted effective October 1, 1992 (19:15 Md. R. 1390)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1992-10-01"><cite path="|10|10|01|.18|C." proof="needed">Regulation .18C</cite> amended effective October 1, 1992 (19:15 Md. R. 1390)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1992-10-01"><cite path="|10|10|01|.20" proof="needed">Regulation .20</cite> adopted effective October 1, 1992 (19:15 Md. R. 1390)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1999-12-13" discontinuity="true">Chapter, Medical Laboratories in Maryland, repealed and new chapter General, adopted effective December 13, 1999 (26:25 Md. R. 1897)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|01|.02">Regulation .02</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-04-01"><cite path="|10|10|01|.03|B.">Regulation .03B</cite> amended effective February 18, 2002 (29:3 Md. R. 220); December 23, 2002 (29:25 Md. R. 1982); June 1, 2009 (36:11 Md. R. 787); January 13, 2011 (38:1 Md. R. 11); April 16, 2012 (39:7 Md. R. 492); April 1, 2013 (40:6 Md. R. 473)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|01|.04|B.">Regulation .04B</cite> amended effective June 1, 2009 (36:11 Md. R. Chapter, Medical Laboratories in Maryland, repealed and new chapter General, adopted effective December 13, 1999 (26:25 Md. R. 1897)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-01"><cite path="|10|10|01|.03|B.">Regulation .03B</cite> amended effective February 18, 2002 (29:3 Md. R. 220); December 23, 2002 (29:25 Md. R. 1982); June 1, 2009 (36:11 Md. R. 787); January 13, 2011 (38:1 Md. R. 11); April 16, 2012 (39:7 Md. R. 492); April 1, 2013 (40:6 Md. R. 473); March 1, 2026 (52:24 Md. R. 1198)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|01|.04|B.">Regulation .04B</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
     <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" type="History" display="false"/>
   </annotations>

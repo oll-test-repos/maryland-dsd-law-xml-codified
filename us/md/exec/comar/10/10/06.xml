@@ -181,12 +181,16 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>Is authorized to order tests to detect the presence of controlled dangerous substances on patients enrolled in the substance abuse treatment program; and</text>
+          <text>Is authorized to order tests to detect the presence of controlled dangerous substances on patients enrolled in the substance abuse treatment program;</text>
         </para>
       </para>
       <para>
         <num>(7)</num>
-        <text>A pharmacist, for tests that qualify for a letter of exception under <cite path="10.10.03.02|B.">COMAR 10.10.03.02B</cite> and for glucose, A1c, lipids (including total cholesterol, HDL, LDL, and triglycerides), AST, and ALT.</text>
+        <text>A pharmacist, for tests that qualify for a letter of exception under <cite path="10.10.03.02|B.">COMAR 10.10.03.02B</cite> and for glucose, A1c, lipids (including total cholesterol, HDL, LDL, and triglycerides), AST, and ALT; and</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>A naturopathic physician consistent with <cite doc="Md. Code" path="gho|14">Health Occupations Article, §14</cite>–5F–01 through §14–5F–32, Annotated Code of Maryland and <cite path="|10.32.21">COMAR 10.32.21</cite>.</text>
       </para>
     </para>
     <para>
@@ -867,7 +871,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>Regulations <cite path="|10|10|06|.07">.07</cite>—<cite path="|10|10|06|.16">.16</cite> of this chapter.</text>
+          <text>Regulations <cite path="|10|10|06|.07">.07</cite>—<cite path="|10|10|06|.15">.15</cite> of this chapter.</text>
         </para>
       </para>
       <para>
@@ -879,7 +883,7 @@
       <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" type="History" display="false"/>
     </annotations>
   </section>
-  <section cache:ref-path="10|10|06|.08">
+  <section>
     <prefix>Regulation</prefix>
     <num>.08</num>
     <heading>Quality Control — Job-Related Alcohol and Drug Testing.</heading>
@@ -912,14 +916,10 @@
       </para>
       <para>
         <num>(7)</num>
-        <text>Single-use test devices;</text>
-      </para>
-      <para>
-        <num>(8)</num>
         <text>Reporting test results; and</text>
       </para>
       <para>
-        <num>(9)</num>
+        <num>(8)</num>
         <text>Proficiency testing.</text>
       </para>
     </para>
@@ -1107,7 +1107,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>Urine. A laboratory testing urine shall use the cutoff levels set forth in 49 CFR §40.87.</text>
+          <text>Urine. A laboratory testing urine shall use the cutoff levels set forth in 49 CFR §40.85.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -1136,10 +1136,6 @@
       </para>
       <para>
         <num>(9)</num>
-        <text>Single-Use Test Devices. A laboratory that performs screening tests using single-use test devices, as defined in <cite path="10.10.01.03|B.">COMAR 10.10.01.03B</cite>, may meet the quality assurance and quality control standards set forth in <cite path="|10|10|06|.06">Regulation .06 of this chapter</cite> instead of the standards set forth at <cite path="10|10|06|.08|B.|(1)">§B(1) of this regulation</cite>.</text>
-      </para>
-      <para>
-        <num>(10)</num>
         <text>Reporting Test Results. A licensee shall ensure that a job-related laboratory test report includes:</text>
         <para>
           <num>(a)</num>
@@ -1187,7 +1183,7 @@
         </para>
       </para>
       <para>
-        <num>(11)</num>
+        <num>(10)</num>
         <text>Proficiency Testing. A licensee shall ensure that the laboratory enrolls and continues to participate satisfactorily in a proficiency testing program that:</text>
         <para>
           <num>(a)</num>
@@ -1642,7 +1638,7 @@
       </para>
       <para>
         <num>(10)</num>
-        <text>Disposal of Special Medical Waste. A licensee operating a temporary or mobile laboratory shall dispose of special medical waste as required in <cite path="|10.06.06">COMAR 10.06.06</cite>.</text>
+        <text>Disposal of Special Medical Waste. A licensee operating a temporary or mobile laboratory shall dispose of special medical waste as required in <cite path="10.06.06.01">COMAR 10.06.06.01</cite>—<cite path="10.06.06.07">10.06.06.07</cite>.</text>
       </para>
     </para>
     <annotations>
@@ -1677,7 +1673,7 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>Dispose of special medical waste as set forth in <cite path="|10.06.06">COMAR 10.06.06</cite>.</text>
+          <text>Dispose of special medical waste as set forth in <cite path="10.06.06.01">COMAR 10.06.06.01</cite>—<cite path="10.06.06.07">10.06.06.07</cite>.</text>
         </para>
       </para>
       <para>
@@ -1917,15 +1913,15 @@
     <annotation managed="false" type="Authority" dest="container">Health-General Article, §§17-202, 17-202.1, 17-214, and 17-504, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1985-11-18">Effective date: November 18, 1985 (12:23 Md. R. 2217)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1990-08-06">Regulations <cite path="|10|10|06|.01">.01</cite>—<cite path="|10|10|06|.06">.06</cite>, Physicians' Group Practice Laboratories in Maryland, repealed effective August 6, 1990 (17:15 Md. R. 1859)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1990-08-06" discontinuity="true">Regulations <cite path="|10|10|06|.01">.01</cite>—<cite path="|10|10|06|.28">.28</cite>, Physician Office and Other Point-of-Care Laboratories, adopted effective August 6, 1990 (17:15 Md. R. 1859)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1990-08-06" discontinuity="true">Regulations <cite path="|10|10|06|.01">.01</cite>—<cite path="|10|10|06|.28" proof="needed">.28</cite>, Physician Office and Other Point-of-Care Laboratories, adopted effective August 6, 1990 (17:15 Md. R. 1859)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1991-09-16"><cite path="|10|10|06|.03|B.">Regulation .03B</cite> amended effective September 16, 1991 (18:18 Md. R. 2005)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1991-09-16"><cite path="|10|10|06|.08|C.">Regulation .08C</cite> amended effective September 16, 1991 (18:18 Md. R. 2005)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1991-09-16"><cite path="|10|10|06|.09|B.">Regulation .09B</cite> amended effective September 16, 1991 (18:18 Md. R. 2005)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1991-09-16"><cite path="|10|10|06|.25">Regulation .25</cite> amended effective September 16, 1991 (18:18 Md. R. 2005)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1991-09-16"><cite path="|10|10|06|.08|C." proof="needed">Regulation .08C</cite> amended effective September 16, 1991 (18:18 Md. R. 2005)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1991-09-16"><cite path="|10|10|06|.09|B." proof="needed">Regulation .09B</cite> amended effective September 16, 1991 (18:18 Md. R. 2005)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1991-09-16"><cite path="|10|10|06|.25" proof="needed">Regulation .25</cite> amended effective September 16, 1991 (18:18 Md. R. 2005)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1999-12-13" discontinuity="true">Chapter, Physician Office and Other Point-of-Care Laboratories, repealed and new chapter, Medical Laboratories—Quality Assurance, adopted effective December 13, 1999 (26:25 Md. R. 1897)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|06|.01">Regulation .01</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-04-01"><cite path="|10|10|06|.02|A.">Regulation .02A</cite> amended effective July 22, 2002 (29:14 Md. R. 1074); April 1, 2013 (40:6 Md. R. 473)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-04-16"><cite path="|10|10|06|.02|B.">Regulation .02B</cite> amended effective April 16, 2012 (39:7 Md. R. 492)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-01"><cite path="|10|10|06|.02|B.">Regulation .02B</cite> amended effective April 16, 2012 (39:7 Md. R. 492); March 1, 2026 (52:24 Md. R. 1198)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|06|.02|C.">Regulation .02C</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|06|.03">Regulation .03</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2011-01-13"><cite path="|10|10|06|.03|B.">Regulation .03B</cite> amended effective July 24, 2000 (27:14 Md. R. 1340); January 13, 2011 (38:1 Md. R. 11)</annotation>
@@ -1933,19 +1929,21 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-04-16"><cite path="|10|10|06|.04|B.">Regulation .04B</cite> amended effective April 16, 2012 (39:7 Md. R. 492)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|06|.05">Regulation .05</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|06|.05-1">Regulation .05-1</cite> adopted effective June 1, 2009 (36:11 Md. R. 787)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|06|.07|B.">Regulation .07B</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|06|.08">Regulation .08</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-01"><cite path="|10|10|06|.06">Regulation .06</cite> repealed effective March 1, 2026 (52:24 Md. R. 1198)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-01"><cite path="|10|10|06|.07|B.">Regulation .07B</cite> amended effective June 1, 2009 (36:11 Md. R. 787); March 1, 2026 (52:24 Md. R. 1198)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-01"><cite path="|10|10|06|.08">Regulation .08</cite> amended effective June 1, 2009 (36:11 Md. R. 787); March 1, 2026 (52:24 Md. R. 1198)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-07-24"><cite path="|10|10|06|.08|B.">Regulation .08B</cite> amended effective July 24, 2000 (27:14 Md. R. 1340)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|06|.09">Regulation .09</cite> repealed effective June 1, 2009 (36:11 Md. R. 787)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|06|.10">Regulation .10</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-07-24"><cite path="|10|10|06|.10|B.">Regulation .10B</cite> amended effective July 24, 2000 (27:14 Md. R. 1340)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-04-01"><cite path="|10|10|06|.12">Regulation .12</cite> amended effective July 22, 2002 (29:14 Md. R. 1074); April 1, 2013 (40:6 Md. R. 473)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-04-16"><cite path="|10|10|06|.12|B.">Regulation .12B</cite> amended effective April 16, 2012 (39:7 Md. R. 492)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-01"><cite path="|10|10|06|.12|B.">Regulation .12B</cite> amended effective April 16, 2012 (39:7 Md. R. 492); March 1, 2026 (52:24 Md. R. 1198)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-01"><cite path="|10|10|06|.13|B.">Regulation .13B</cite> amended effective March 1, 2026 (52:24 Md. R. 1198)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|06|.14|B.">Regulation .14B</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-04-01"><cite path="|10|10|06|.15">Regulation .15</cite> amended effective June 1, 2009 (36:11 Md. R. 787); April 1, 2013 (40:6 Md. R. 473)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-07-24"><cite path="|10|10|06|.15|B.">Regulation .15B</cite> amended effective July 24, 2000 (27:14 Md. R. 1340)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-04-01"><cite path="|10|10|06|.16">Regulation .16</cite> repealed effective April 1, 2013 (40:6 Md. R. 473)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|06|.16|A.">Regulation .16A</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-04-01"><cite path="|10|10|06|.16" proof="needed">Regulation .16</cite> repealed effective April 1, 2013 (40:6 Md. R. 473)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|06|.16|A." proof="needed">Regulation .16A</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
     <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" type="History" display="false"/>
   </annotations>
 </container>
