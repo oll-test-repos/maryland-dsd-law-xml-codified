@@ -27,7 +27,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>Served in the capacity of an election judge during the term of office in a Statewide primary, general, or special election.</text>
+          <text>Served in the capacity of an election judge during the term of office in the immediately preceding Statewide primary, general, or special election.</text>
         </para>
       </para>
       <para>
@@ -35,7 +35,9 @@
         <text>“Term of office” means the time from appointment to the office of election judge through the Tuesday that is 13 weeks before the next Statewide primary election.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-111-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -70,5 +72,7 @@
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Election Law Article, §§<cite doc="Md. Code" path="gel|2-102">2-102</cite>(b)(<cite doc="Md. Code" path="gel|4">4</cite>), <cite doc="Md. Code" path="gel|2-202">2-202</cite>(b), <cite doc="Md. Code" path="gel|10-202">10-202</cite>, <cite doc="Md. Code" path="gel|10">10</cite>–<cite doc="Md. Code" path="gel|203">203</cite>, and <cite doc="Md. Code" path="gel|10">10</cite>–<cite doc="Md. Code" path="gel|205">205</cite>, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-11-27">Effective date: November 27, 2023 (50:23 Md. R. 1005)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-09-29"><cite path="|33|07|11|.01|B.">Regulation .01B</cite> amended effective September 29, 2025 (52:19 Md. R. 957)</annotation>
+    <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-111-F" type="History" display="false"/>
   </annotations>
 </container>
