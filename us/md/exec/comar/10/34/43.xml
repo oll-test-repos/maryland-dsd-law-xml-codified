@@ -1,9 +1,171 @@
 <?xml version='1.0' encoding='utf-8'?>
-<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not yet effective">
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>Chapter</prefix>
   <num>43</num>
   <heading>Prescription Labeling for Blind, Visually Impaired, and Print Disabled Individuals</heading>
-  <reason>Not yet effective</reason>
-  <text>Effective on November 24, 2026.</text>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Definitions.</heading>
+    <para>
+      <num>A.</num>
+      <text>In this chapter, the following terms have the meanings indicated.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Terms Defined.</text>
+      <para>
+        <num>(1)</num>
+        <text>“Bag tag” means a receipt that may contain patient demographic information, drug information, and cost which is affixed to the bag containing the prescription drug vial or package.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>“Blind” means:</text>
+        <para>
+          <num>(a)</num>
+          <text>A visual acuity not exceeding 20/200 in the better eye with corrective lenses; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A visual field of which the widest diameter subtends an angle of not more than 20 degrees.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>“Board” means the State Board of Pharmacy.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>“Medical guide” means a medication guide approved by the Food and Drug Administration (FDA) as part of the prescription drug labeling for certain drugs when the FDA determines that:</text>
+        <para>
+          <num>(a)</num>
+          <text>Patient labeling could prevent serious adverse reactions;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The drug has serious risks that could affect the patient’s decision to use, or to continue to use, the product; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Patient adherence to the directions for use is crucial to the drug’s effectiveness.</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>“Pharmacy” means an establishment holding a permit under <cite doc="Md. Code" path="gho|12-401">Health Occupations Article, §12-401, Annotated Code of Maryland</cite>.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>“Prescription label” means a label affixed to a prescription drug vial or package that contains the information required by State and federal laws, including any warnings or other information contained in auxiliary labels.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>“Print disabled individual" means an individual who cannot effectively read print because of a visual, physical, perceptual, developmental, cognitive, or learning disability.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>“Visually impaired individual” means an individual who has difficulty seeing even when wearing glasses.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-103-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>General Requirements.</heading>
+    <para>
+      <num>A.</num>
+      <text>A pharmacy shall adopt policies and procedures necessary to ensure that a blind, visually impaired, or print disabled individual has appropriate access to prescription labels, bag tags, and medical guides:</text>
+      <para>
+        <num>(1)</num>
+        <text>At no additional cost to the individual;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>In a format through which the information is fully accessible to the individual;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Within a timeframe comparable to the timeframe within which the information is provided to an individual who is not blind, visually impaired, or print disabled; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>That contains the same information provided in a standard print prescription label, bag tag, or medical guide.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A prescription labeling, bag tag, or medical guide alternative provided under this chapter shall be in addition to the standard print prescription labeling, bag tag, or medical guide dispensed with a prescription drug.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-103-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="10|34|43|.03">
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>Prescription Labeling, Bag Tag, and Medical Guide Alternative—Requirements.</heading>
+    <para>
+      <num>A.</num>
+      <text>A pharmacist shall, upon request, provide at least one of the following alternative formats consistent with the needs of the blind, visually impaired, or print disabled individual:</text>
+      <para>
+        <num>(1)</num>
+        <text>Audio;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Braille;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Digital format; or</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Large print.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A pharmacy shall implement policies and procedures to ensure that pharmacy staff provide verbal notice to any patient who may be blind, visually impaired, or print disabled that alternative prescription labeling, bag tags, and medical guides are available at no additional cost.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Notification Requirements.</text>
+      <para>
+        <num>(1)</num>
+        <text>A pharmacy shall notify the public that alternative prescription labeling, bag tags, and medical guides are available for blind, visually impaired, or print disabled individuals at no additional cost.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A pharmacy shall provide the information required by <cite path="10|34|43|.03|C.|(1)" proof="needed">§C(1) of this regulation</cite> by:</text>
+        <para>
+          <num>(a)</num>
+          <text>Posting signage in a conspicuous location;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If applicable, including the information in the pharmacy’s telephone recording; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>If applicable, including the information on the pharmacy’s website.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The Board may take disciplinary action against a pharmacy or pharmacist for a violation of this chapter.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-103-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <annotations>
+    <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gho|12-501">Health Occupations Article, §12-501</cite>.1, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-24">Effective date: November 24, 2026 (52:23 Md. R. 1139)</annotation>
+  </annotations>
   <annotation app="2026-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-103-F" type="History" display="false"/>
 </container>
