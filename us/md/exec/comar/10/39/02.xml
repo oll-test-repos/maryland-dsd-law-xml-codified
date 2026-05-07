@@ -3,9 +3,35 @@
   <prefix>Chapter</prefix>
   <num>02</num>
   <heading>Nursing Assistant Training Programs</heading>
-  <section>
+  <section cache:ref-path="10|39|02|.01">
     <prefix>Regulation</prefix>
     <num>.01</num>
+    <heading>Exclusions.</heading>
+    <para>
+      <num>A.</num>
+      <text>The requirement for program approval by the Maryland Higher Education Commission does not apply to:</text>
+      <para>
+        <num>(1)</num>
+        <text>Programs conducted by individuals, firms, corporations, or other organizations exclusively for their own employees;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Apprenticeship and other training offered by unions for their members; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Individual instructors who go to various places to offer instruction to not more than one individual.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The exclusion in <cite path="10|39|02|.01|A.|(1)">§A(1) of this regulation</cite> does not apply to firms, corporations, or organizations if they enroll individuals other than their own employees.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
     <heading>Definitions.</heading>
     <para>
       <num>A.</num>
@@ -16,82 +42,70 @@
       <text>Terms Defined.</text>
       <para>
         <num>(1)</num>
-        <text>“Acute care nursing assistant training program” means a course of training that meets the acute care nursing assistant training program curriculum approved by the Board.</text>
-      </para>
-      <para>
-        <num>(2)</num>
         <text>“Board” means the Maryland Board of Nursing.</text>
       </para>
       <para>
-        <num>(3)</num>
-        <text>“Certified Nursing Assistant (CNA)” has the meaning stated in <cite path="10.39.01.02|B.">COMAR 10.39.01.02B</cite>.</text>
-      </para>
-      <para>
-        <num>(4)</num>
-        <text>Certified Nursing Assistant-I (CNA-I).</text>
+        <num>(2)</num>
+        <text>“Certified medicine aide (CMA)” means a CNA who:</text>
         <para>
           <num>(a)</num>
-          <text>“Certified nursing assistant-I (CNA-I)” means a CNA who:</text>
-          <para>
-            <num>(i)</num>
-            <text>Meets the requirements set by the Board and federal law; and</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>May practice in any practice setting.</text>
-          </para>
+          <text>Is a geriatric nursing assistant as required by <cite path="10.07.02.44">COMAR 10.07.02.44</cite>;</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>“Certified nursing assistant-I (CNA-I)” includes a:</text>
-          <para>
-            <num>(i)</num>
-            <text>CNA who was certified as a geriatric nursing assistant on March 31, 2026;</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>Certified medicine aide; and</text>
-          </para>
-          <para>
-            <num>(iii)</num>
-            <text>CNA who is certified under <cite doc="Md. Code" path="gho|8-6">Health Occupations Article, §8-6</cite>A-05(c)(5), Annotated Code of Maryland.</text>
-          </para>
-        </para>
-      </para>
-      <para>
-        <num>(5)</num>
-        <text>“Classroom laboratory training” means instruction and demonstration, on an individual or a mannequin, of patient care skills by an instructor and return demonstration of competence in these skills by the student.</text>
-      </para>
-      <para>
-        <num>(6)</num>
-        <text>“Clinical facility” means a setting where clients are physically present and that provides facilities for supervised clinical training.</text>
-      </para>
-      <para>
-        <num>(7)</num>
-        <text>“Direct supervision” means that the registered nurse or licensed practical nurse is physically present while the student demonstrates patient care skills.</text>
-      </para>
-      <para>
-        <num>(8)</num>
-        <text>“Distance education” means a formal education process in which the delivery of instruction occurs through the use of telecommunication technologies because the students and instructors are in different places.</text>
-      </para>
-      <para>
-        <num>(9)</num>
-        <text>“Hybrid training program” means a nursing assistant training program that provides:</text>
-        <para>
-          <num>(a)</num>
-          <text>Didactic instruction through distance education;</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>On-site classroom laboratory training; and</text>
+          <text>Has successfully completed a course meeting the criteria of <cite path="10.07.02.44">COMAR 10.07.02.44</cite>;</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>Supervised clinical training.</text>
+          <text>Functions in a setting licensed under <cite path="|10.07.02">COMAR 10.07.02</cite>; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Performs the delegated nursing function of medication administration under the direct supervision of a registered nurse or licensed practical nurse.</text>
         </para>
       </para>
       <para>
-        <num>(10)</num>
+        <num>(3)</num>
+        <text>Certified Nursing Assistant (CNA).</text>
+        <para>
+          <num>(a)</num>
+          <text>“Certified nursing assistant (CNA)” means an individual, regardless of title, who routinely performs nursing tasks delegated by an RN or LPN for compensation.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Certified nursing assistant (CNA)” does not include:</text>
+          <para>
+            <num>(i)</num>
+            <text>A medication technician; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>An individual who merely provides assistance with activities of daily living unless the client's needs are such that adverse health consequences are predictable.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>“Classroom laboratory training” means instruction and demonstration, on an individual or a mannequin, of patient care skills by an instructor and return demonstration of competence in these skills by the student.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>“Clinical facility” means a setting where clients are present and that provides facilities for clinical training experiences of nursing assistants, with the faculty of the program responsible for planning, implementing, and evaluating these experiences.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>“Controlling institution” means an organization that offers a nursing assistant training program.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>“Direct supervision” means that the registered nurse or licensed practical nurse is physically present while the trainee demonstrates patient care skills.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>“Geriatric nursing assistant competency examination (GNA-CE)” means an examination that meets the criteria set by 42 CFR §483.154 to determine entry level competence for a GNA.</text>
+      </para>
+      <para>
+        <num>(9)</num>
         <text>“Licensed Practical Nurse (LPN)” means an individual who:</text>
         <para>
           <num>(a)</num>
@@ -103,43 +117,19 @@
         </para>
       </para>
       <para>
+        <num>(10)</num>
+        <text>“Medication technician” means an individual who has completed a 20-hour course in medication administration approved by the Board.</text>
+      </para>
+      <para>
         <num>(11)</num>
         <text>“Multistate licensure privilege” has the meaning set forth in <cite path="10.27.01.01|B.">COMAR 10.27.01.01B</cite>.</text>
       </para>
       <para>
         <num>(12)</num>
-        <text>“Nursing assistant competency evaluation” means an examination approved by the Board that:</text>
-        <para>
-          <num>(a)</num>
-          <text>Determines the competency of the individual to practice as a CNA-I; and</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Meets the requirements under federal law.</text>
-        </para>
+        <text>“Program completion” means that the trainee achieves a passing grade on the theory and clinical portions of the training program and on the comprehensive final examination.</text>
       </para>
       <para>
         <num>(13)</num>
-        <text>“Nursing assistant training program” means a course of training approved by the Board that meets the requirements under federal and State law.</text>
-      </para>
-      <para>
-        <num>(14)</num>
-        <text>“Program completion” means that the student:</text>
-        <para>
-          <num>(a)</num>
-          <text>Completed and demonstrated competency in the program objectives and performance indicators during the didactic, laboratory, and clinical portions of the training program; and</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Passed the final written examination.</text>
-        </para>
-      </para>
-      <para>
-        <num>(15)</num>
-        <text>“Program provider” means an individual, organization, facility, or educational institution that conducts a nursing assistant training program or an acute care nursing assistant training program.</text>
-      </para>
-      <para>
-        <num>(16)</num>
         <text>“Registered nurse (RN)” means an individual who:</text>
         <para>
           <num>(a)</num>
@@ -151,52 +141,30 @@
         </para>
       </para>
       <para>
-        <num>(17)</num>
-        <text>“Supervised clinical training” means training in person at a clinical facility in which the student demonstrates knowledge and skills while performing tasks on a client under the supervision of an RN or an LPN.</text>
+        <num>(14)</num>
+        <text>“Supervised clinical training” means training in a clinical facility in which the trainee demonstrates knowledge and skills while performing tasks on an individual under the direct supervision of an RN or an LPN.</text>
       </para>
       <para>
-        <num>(18)</num>
-        <text>“Traditional program” means a training program that provides on-site didactic instruction, classroom laboratory training, and supervised clinical training.</text>
-      </para>
-      <para>
-        <num>(19)</num>
-        <text>“Training program” means a nursing assistant training program or an acute care nursing assistant training program.</text>
-      </para>
-      <para>
-        <num>(20)</num>
-        <text>“Unencumbered” means without limitation or restriction on practice, such as revocation, suspension, or probation.</text>
-      </para>
-      <para>
-        <num>(21)</num>
-        <text>“Written agreement” means a contract between a program provider and a clinical facility outlining the terms required, by both the program and the facility, for supervised clinical training of students.</text>
+        <num>(15)</num>
+        <text>“Written agreement” means a contract with a clinical facility outlining the terms required, by both the program and the facility, for clinical training of student nursing assistants.</text>
       </para>
     </para>
-    <annotations>
-      <annotation app="2026-04-03" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|emergency|26-016-E" type="History" display="false" exp="2026-09-30"/>
-    </annotations>
+    <annotations/>
   </section>
-  <section>
+  <section cache:ref-path="10|39|02|.03">
     <prefix>Regulation</prefix>
-    <num>.02</num>
-    <heading>Initial Approval and Ongoing Responsibilities.</heading>
+    <num>.03</num>
+    <heading>Training Program Approval.</heading>
     <para>
       <num>A.</num>
       <text>Approval Requirements.</text>
       <para>
         <num>(1)</num>
-        <text>All training programs shall be approved by:</text>
-        <para>
-          <num>(a)</num>
-          <text>The Board; and</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>The Maryland Higher Education Commission (MHEC) in accordance with <cite doc="Md. Code" path="gho|8-6">Health Occupations Article, §8-6</cite>A-14(a), Annotated Code of Maryland and COMAR 13B.01.01.03.</text>
-        </para>
+        <text>All training programs shall be approved by the Board.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Public High School Training Programs. If the training program is offered by a public high school, the training program shall be approved by the State Board of Education.</text>
+        <text>In addition to the requirement stated in <cite path="10|39|02|.03|A.|(1)">§A(1) of this regulation</cite>, all programs shall be approved by the Maryland Higher Education Commission or Department of Education except those excluded under COMAR Title 13B.</text>
       </para>
       <para>
         <num>(3)</num>
@@ -205,92 +173,38 @@
     </para>
     <para>
       <num>B.</num>
-      <text>Application. At least 120 days before the proposed start date of the training program, a program provider seeking initial approval of a training program shall:</text>
+      <text>An organization wishing to offer a nursing assistant training program shall:</text>
       <para>
         <num>(1)</num>
-        <text>Submit a complete application on the form required by the Board;</text>
+        <text>Submit to the Board a proposal demonstrating compliance with the requirements stated in Regulations <cite path="|10|39|02|.04">.04</cite>—<cite path="|10|39|02|.08">.08</cite> of this chapter; and</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Demonstrate that the training program meets all of the applicable requirements in this chapter; and</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>Provide any additional information requested by the Board during the Board’s review of the application.</text>
+        <text>Contact the Board to obtain the training program requirements and a program application packet.</text>
       </para>
     </para>
     <para>
       <num>C.</num>
-      <text>Board Action.</text>
+      <text>The program proposal shall:</text>
       <para>
         <num>(1)</num>
-        <text>Following receipt of a complete application, the Board’s professional staff may conduct a survey visit and submit a survey visit report to the Board.</text>
+        <text>Demonstrate that the length of time for the program is adequate for trainees to be successful in achieving the program objectives; and</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>The Board shall:</text>
-        <para>
-          <num>(a)</num>
-          <text>Approve a training program that meets all of the applicable requirements of this chapter; or</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Deny approval of a training program that does not meet all of the applicable requirements of this chapter.</text>
-        </para>
+        <text>State the criteria for successful program completion including the required passing standard on the final examination.</text>
       </para>
     </para>
     <para>
       <num>D.</num>
-      <text>Term. Board approval of a training program is valid for 2 years.</text>
+      <text>The Board shall review programs for renewal of approval every 2 years.</text>
     </para>
-    <para>
-      <num>E.</num>
-      <text>Ongoing Responsibilities.</text>
-      <para>
-        <num>(1)</num>
-        <text>A training program shall obtain approval from the Board before making any substantial changes to the program.</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Substantial changes include:</text>
-        <para>
-          <num>(a)</num>
-          <text>Changes to faculty;</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Significant changes to curriculum, including an increase or decrease in program hours; and</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>Removal or addition of clinical facilities or classroom locations.</text>
-        </para>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>A training program shall submit to the Board an annual report, on the form required by the Board, that includes statistics on enrollments, program completions, attrition rates, and nursing assistant competency evaluation results.</text>
-      </para>
-    </para>
-    <para>
-      <num>F.</num>
-      <text>Nursing Assistant Competency Evaluation Performance.</text>
-      <para>
-        <num>(1)</num>
-        <text>A training program shall maintain an average pass rate of 90 percent of the average pass rate for all states using the applicable Board-approved vendors for the nursing assistant competency evaluation.</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>The Board shall annually review the performance of graduates from each training program on the nursing assistant competency evaluation.</text>
-      </para>
-    </para>
-    <annotations>
-      <annotation app="2026-04-03" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|emergency|26-016-E" type="History" display="false" exp="2026-09-30"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
-    <num>.03</num>
-    <heading>Administration.</heading>
+    <num>.04</num>
+    <heading>Administration and Organization.</heading>
     <para>
       <num>A.</num>
       <text>The facility offering the training program shall:</text>
@@ -300,337 +214,189 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Equal Opportunity Statement. The training program provider shall have a statement of equal opportunity.</text>
+        <text>Have a statement of equal opportunity.</text>
       </para>
     </para>
     <para>
       <num>B.</num>
-      <text>A training program offered by a nursing facility or skilled nursing facility shall not charge a fee for any portion of the program, including textbooks and other required course materials, in accordance with 42 CFR §483.152(c).</text>
-    </para>
-    <annotations>
-      <annotation app="2026-04-03" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|emergency|26-016-E" type="History" display="false" exp="2026-09-30"/>
-    </annotations>
-  </section>
-  <section cache:ref-path="10|39|02|.04">
-    <prefix>Regulation</prefix>
-    <num>.04</num>
-    <heading>Faculty.</heading>
-    <para>
-      <num>A.</num>
-      <text>Faculty Requirements.</text>
-      <para>
-        <num>(1)</num>
-        <text>Each course instructor and program coordinator shall have:</text>
-        <para>
-          <num>(a)</num>
-          <text>An active, unencumbered license to practice as a Registered Nurse  or a multistate licensure privilege to practice as a Registered Nurse in the State;</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>A minimum of 2 years of nursing experience; and</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>Completed a course in teaching adults or have experience in teaching adults or supervising nursing assistants.</text>
-        </para>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Long-Term Care Facility Experience Requirements. Either the program coordinator or all course instructors shall have at least 1 year of experience in the provision of long-term care facility services, which may include:</text>
-        <para>
-          <num>(a)</num>
-          <text>Providing direct client care or supervisory oversight in a long-term care facility or unit, including in a geriatrics department, chronic care hospital, or other long-term care setting; and</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Teaching a nursing assistant training program that complies with federal law.</text>
-        </para>
-      </para>
-    </para>
-    <para>
-      <num>B.</num>
-      <text>Course Instructors.</text>
-      <para>
-        <num>(1)</num>
-        <text>Course instructors in training programs in public secondary schools in the State shall also meet the requirements set forth in COMAR 13A.12.02.02.</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>The course instructor is responsible for:</text>
-        <para>
-          <num>(a)</num>
-          <text>Participating in the development and evaluation of the training program, including the acquisition of learning resources and instructional materials;</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Implementing the training program and ensuring course objectives are met;</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>Supervising classroom, laboratory, and clinical learning experiences, including direct supervision of a student the first time a student performs a patient care skill during a clinical learning experience and until the student demonstrates proficiency in that skill; and</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>Evaluating student performance during didactic, clinical, and laboratory training.</text>
-        </para>
-      </para>
+      <text>The controlling institution shall provide the financial support and resources needed to operate a program which meets the legal and educational requirements of the Board and fosters achievement of program objectives.</text>
     </para>
     <para>
       <num>C.</num>
-      <text>Program Coordinator.</text>
+      <text>The financial resources provided by the controlling institution shall support:</text>
       <para>
         <num>(1)</num>
-        <text>Each training program shall have a program coordinator who:</text>
-        <para>
-          <num>(a)</num>
-          <text>Provides general supervision of the training of nursing assistants; and</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Maintains responsibility for the overall operation of the program.</text>
-        </para>
+        <text>The number of instructors adequate to ensure that each trainee is provided with a didactic and clinical program of learning that fosters achievement of program objectives;</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Except as provided in <cite path="10|39|02|.04|C.|(3)">§C(3) of this regulation</cite>, the program coordinator may also be a course instructor.</text>
+        <text>Adequate educational facilities;</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>In a facility-based program, the facility’s director of nursing may be the program coordinator but may not perform any actual training.</text>
-      </para>
-    </para>
-    <para>
-      <num>D.</num>
-      <text>Supplemental Personnel.</text>
-      <para>
-        <num>(1)</num>
-        <text>Other health professional personnel may supplement the course instructor, including, but not limited to:</text>
-        <para>
-          <num>(a)</num>
-          <text>Registered nurses in accordance with <cite path="10|39|02|.04|D.|(3)">§D(3) of this regulation</cite>;</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Licensed practical nurses in accordance with <cite path="10|39|02|.04|D.|(4)">§D(4) of this regulation</cite>;</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>Pharmacists;</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>Dietitians;</text>
-        </para>
-        <para>
-          <num>(e)</num>
-          <text>Social workers;</text>
-        </para>
-        <para>
-          <num>(f)</num>
-          <text>Sanitarians;</text>
-        </para>
-        <para>
-          <num>(g)</num>
-          <text>Fire safety experts;</text>
-        </para>
-        <para>
-          <num>(h)</num>
-          <text>Nursing home administrators;</text>
-        </para>
-        <para>
-          <num>(i)</num>
-          <text>Gerontologists;</text>
-        </para>
-        <para>
-          <num>(j)</num>
-          <text>Psychologists;</text>
-        </para>
-        <para>
-          <num>(k)</num>
-          <text>Physical and occupational therapists;</text>
-        </para>
-        <para>
-          <num>(l)</num>
-          <text>Activities specialists;</text>
-        </para>
-        <para>
-          <num>(m)</num>
-          <text>Speech/language/hearing therapists; and</text>
-        </para>
-        <para>
-          <num>(n)</num>
-          <text>Resident rights experts.</text>
-        </para>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Supplemental personnel shall have at least 1 year of experience in their respective field.</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>A registered nurse functioning as supplemental personnel shall:</text>
-        <para>
-          <num>(a)</num>
-          <text>Hold a current, unencumbered license in the State or multistate licensure privilege as a registered nurse; and</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Have had at least 1 year of direct client care experience as a registered nurse.</text>
-        </para>
+        <text>Appropriate equipment; and</text>
       </para>
       <para>
         <num>(4)</num>
-        <text>A licensed practical nurse functioning as supplemental personnel shall:</text>
-        <para>
-          <num>(a)</num>
-          <text>Hold a current, unencumbered license in the State or multistate licensure privilege as a practical nurse; and</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Have had at least 1 year of direct client care experience as a licensed practical nurse.</text>
-        </para>
-      </para>
-      <para>
-        <num>(5)</num>
-        <text>Other supplemental personnel providing instruction shall provide instruction under the supervision of the course instructo.</text>
+        <text>Qualified administrative personnel.</text>
       </para>
     </para>
-    <annotations>
-      <annotation app="2026-04-03" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|emergency|26-016-E" type="History" display="false" exp="2026-09-30"/>
-    </annotations>
+    <annotations/>
   </section>
-  <section cache:ref-path="10|39|02|.05">
+  <section>
     <prefix>Regulation</prefix>
     <num>.05</num>
-    <heading>Facilities and Resources.</heading>
+    <heading>Faculty.</heading>
     <para>
       <num>A.</num>
-      <text>General Facility Requirements. All classroom, laboratory, and clinical facilities used by a training program:</text>
+      <text>Each course instructor shall:</text>
       <para>
         <num>(1)</num>
-        <text>Shall be approved by the Board;</text>
+        <text>Be a registered nurse licensed to practice registered nursing in Maryland or have a multistate licensure privilege to practice registered nursing in this State;</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Shall be approved or accredited by the appropriate agency;</text>
+        <text>Have a minimum of 2 years of nursing experience, at least 1 year of which was in caring for the elderly or chronically ill in the past 5 years; and</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>May not be on conditional or provisional approval status; and</text>
-      </para>
-      <para>
-        <num>(4)</num>
-        <text>May not meet any of the factors set forth in 42 CFR §483.151(b)(2)—(3).</text>
+        <text>Complete a course with a minimum of 16 hours of instruction in the principles of adult education, or have a minimum of 2 years of teaching experience.</text>
       </para>
     </para>
     <para>
       <num>B.</num>
-      <text>Classroom and Laboratory Facilities. Classroom and laboratory facilities shall include:</text>
+      <text>Each program shall have an RN instructor who has overall supervisory responsibility for the operation of the program.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Instructors in CNA programs in Maryland public secondary schools shall meet the requirements under §A(1) and (2) of this regulation as well as those found in COMAR 13A.12.02.24A(1) and (2).</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Responsibilities. The course instructor is responsible for:</text>
       <para>
         <num>(1)</num>
-        <text>Adequate space for privacy of faculty-student conferences; and</text>
+        <text>Participating in development and evaluation of the training program;</text>
       </para>
       <para>
         <num>(2)</num>
+        <text>Implementing the approved training program;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Supervising classroom laboratory experiences;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Evaluating student performance in the classroom; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Providing supervision and clinical evaluation of each trainee at the clinical training site.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Other health professionals may teach selected portions of the curriculum that relate to the health professionals' area of expertise.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.06</num>
+    <heading>Resources, Facilities, and Services.</heading>
+    <para>
+      <num>A.</num>
+      <text>Physical Facilities. The physical facilities shall be adequate to meet the needs of the training program and shall include the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>Adequate space for privacy of faculty-student conferences;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Classroom, laboratories, and conference rooms; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
         <text>Space for equipment and instructional materials.</text>
       </para>
     </para>
     <para>
-      <num>C.</num>
-      <text>Resources.</text>
+      <num>B.</num>
+      <text>Instructional Resources. Learning resources and instructional materials such as books, audiovisual materials, and computer software shall be current, accessible, and relevant to the role of the CNA and shall adhere to the following guidelines:</text>
       <para>
         <num>(1)</num>
-        <text>All instructional learning resources and materials shall:</text>
-        <para>
-          <num>(a)</num>
-          <text>Be accessible and relevant to the role of the CNA;</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Have a publication date not older than 5 years from the current year; and</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>Be written at an 8th grade level.</text>
-        </para>
+        <text>Clinical resources shall have a publication date not older than 5 years from the current year;</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Laboratory Equipment.</text>
-        <para>
-          <num>(a)</num>
-          <text>Laboratory equipment, at a minimum, shall include materials to support the following classroom activities:</text>
-          <para>
-            <num>(i)</num>
-            <text>Infection control;</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>Basic nursing skills;</text>
-          </para>
-          <para>
-            <num>(iii)</num>
-            <text>Personal care skills; and</text>
-          </para>
-          <para>
-            <num>(iv)</num>
-            <text>Basic restorative services;</text>
-          </para>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>The Board shall maintain on its website a list of the specific equipment required for laboratory facilities.</text>
-        </para>
-      </para>
-    </para>
-    <para>
-      <num>D.</num>
-      <text>Clinical Facilities.</text>
-      <para>
-        <num>(1)</num>
-        <text>Clinical facilities shall:</text>
-        <para>
-          <num>(a)</num>
-          <text>Have a sufficient number and variety of clients to provide training experiences for all students to achieve the stated objectives;</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Have a sufficient number of registered nurses and other nursing personnel to ensure safe and continuous care of clients; and</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>Conform with accepted standards of nursing care and practice.</text>
-        </para>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>There shall be a minimum of 1 course instructor for each 8 students in the clinical area.</text>
+        <text>Texts and other resources selected shall be relevant to the curriculum and written at a level appropriate to nursing assistants; and</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>Written Agreements.</text>
+        <text>Acquisitions shall be selected with the participation of the nursing assistant faculty.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Clinical Facilities.</text>
+      <para>
+        <num>(1)</num>
+        <text>Facilities used for clinical learning experiences shall be approved by the appropriate government authorities.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Facilities with conditional or provisional approval status may not be used for student learning experiences.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Board shall approve the use of each clinical facility before utilization for student experience.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>There shall be a minimum of one instructor for each 8 students in the clinical area.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Clinical facilities shall meet the following requirements:</text>
         <para>
           <num>(a)</num>
-          <text>Except for facility-based programs, a training program shall have a written agreement with a clinical facility for student training experiences.</text>
+          <text>A sufficient number and variety of clients to provide training experiences for all students to achieve the stated objectives;</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>The written agreement developed in accordance with <cite path="10|39|02|.05|D.|(3)|(a)">§D(3)(a) of this regulation</cite> shall:</text>
+          <text>A sufficient number of RNs and other nursing personnel to ensure safe and continuous care of clients; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Conformance with accepted standards of nursing care and practice.</text>
+        </para>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Written Agreements.</text>
+        <para>
+          <num>(a)</num>
+          <text>The training program shall have a written agreement with any clinical facility that is not a part of the controlling institution.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Written agreements between the program and the cooperating facilities shall:</text>
           <para>
             <num>(i)</num>
-            <text>Be developed jointly with the clinical facility and the training program;</text>
+            <text>Be developed jointly with the clinical facility;</text>
           </para>
           <para>
             <num>(ii)</num>
-            <text>Be reviewed periodically by the clinical facility and the training program;</text>
+            <text>Be reviewed periodically;</text>
           </para>
           <para>
             <num>(iii)</num>
-            <text>Include a provision for adequate notice of termination;</text>
+            <text>Include provision for adequate notice of termination;</text>
           </para>
           <para>
             <num>(iv)</num>
-            <text>Specify the responsibility of the training program to the clinical facility and the responsibility of the clinical facility to the training program; and</text>
+            <text>Specify the responsibility of the training program to the facility and the responsibility of the facility to the training program; and</text>
           </para>
           <para>
             <num>(v)</num>
@@ -639,100 +405,86 @@
         </para>
       </para>
     </para>
-    <annotations>
-      <annotation app="2026-04-03" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|emergency|26-016-E" type="History" display="false" exp="2026-09-30"/>
-    </annotations>
+    <annotations/>
   </section>
-  <section cache:ref-path="10|39|02|.06">
+  <section cache:ref-path="10|39|02|.07">
     <prefix>Regulation</prefix>
-    <num>.06</num>
-    <heading>Curriculum.</heading>
+    <num>.07</num>
+    <heading>Training Program.</heading>
     <para>
       <num>A.</num>
-      <text>Program Hours.</text>
-      <para>
-        <num>(1)</num>
-        <text>A training program shall provide a minimum of 100 hours of instruction.</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Of the 100 hours, a minimum of:</text>
-        <para>
-          <num>(a)</num>
-          <text>60 hours shall be devoted to didactic instruction and classroom laboratory training, with at least 16 hours of in-person laboratory training in the pre-clinical curriculum listed in <cite path="10|39|02|.06|B.|(3)">§B(3) of this regulation</cite>; and</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>40 hours shall be devoted to supervised clinical training in a clinical facility.</text>
-        </para>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>A training program shall have at least 16 of the 40 hours of supervised clinical training in the provision of long-term care facility services or caring for the elderly or chronically ill of any age, which shall be performed under direct supervision.</text>
-      </para>
+      <text>The training program shall provide a minimum of 100 hours of instruction.</text>
     </para>
     <para>
       <num>B.</num>
-      <text>Curriculum Content.</text>
+      <text>Of the 100 hours, a minimum of:</text>
       <para>
         <num>(1)</num>
-        <text>The curriculum for a training program shall include the subject matters and skills listed in 42 CFR §483.152(b).</text>
+        <text>60 hours shall be devoted to didactic instruction and classroom laboratory practice; and</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>The curriculum for an acute care nursing assistant training program shall include:</text>
+        <text>40 hours shall be devoted to clinical training experiences in a clinical facility.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Curriculum.</text>
+      <para>
+        <num>(1)</num>
+        <text>The following content areas shall form the framework of the curriculum:</text>
         <para>
           <num>(a)</num>
-          <text>The subject matters listed in 42 CFR §483.152(b); and</text>
+          <text>Role of the CNA;</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>All basic skills required of a nursing assistant in any acute care practice setting, including:</text>
+          <text>Infection control;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Safety and environment;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Mobility and positioning;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Elimination;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Data collection;</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Hygiene;</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Treatments;</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Communication:</text>
           <para>
             <num>(i)</num>
-            <text>Caring for patients with acute and chronic medical conditions in a hospital facility;</text>
+            <text>Observing, recording, and reporting;</text>
           </para>
           <para>
             <num>(ii)</num>
-            <text>Observing and reporting changes in patient condition, including potential emergencies and safety issues, to the licensed nurse;</text>
+            <text>Interpersonal relations; and</text>
           </para>
-          <para>
-            <num>(iii)</num>
-            <text>Transport of specimens;</text>
-          </para>
-          <para>
-            <num>(iv)</num>
-            <text>Transport of medications;</text>
-          </para>
-          <para>
-            <num>(v)</num>
-            <text>Point of care testing;</text>
-          </para>
-          <para>
-            <num>(vi)</num>
-            <text>Specimen collecting;</text>
-          </para>
-          <para>
-            <num>(vii)</num>
-            <text>Equipment management;</text>
-          </para>
-          <para>
-            <num>(viii)</num>
-            <text>Time management in the acute care setting;</text>
-          </para>
-          <para>
-            <num>(ix)</num>
-            <text>De-escalation of assertive or aggressive patients and family members; and</text>
-          </para>
-          <para>
-            <num>(x)</num>
-            <text>Electronic documentation of care and basic computer skills.</text>
-          </para>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>Legal and ethical considerations.</text>
         </para>
       </para>
       <para>
-        <num>(3)</num>
-        <text>The pre-clinical curriculum of a training program shall include the following topics:</text>
+        <num>(2)</num>
+        <text>A training program shall provide at least 16 hours of classroom laboratory training before a trainee's direct assignment to client care. This instruction shall include the following topics:</text>
         <para>
           <num>(a)</num>
           <text>Role of the CNA;</text>
@@ -747,56 +499,46 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>Communication and interpersonal skills;</text>
+          <text>The environment;</text>
         </para>
         <para>
           <num>(e)</num>
-          <text>Promoting clients’ independence; and</text>
+          <text>Communication:</text>
+          <para>
+            <num>(i)</num>
+            <text>Observing, recording, and reporting;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Interpersonal relations; and</text>
+          </para>
         </para>
         <para>
           <num>(f)</num>
-          <text>Legal and ethical considerations, including respecting clients’ rights.</text>
+          <text>Legal and ethical considerations.</text>
         </para>
       </para>
       <para>
-        <num>(4)</num>
-        <text>A training program shall provide instruction in the pre-clinical curriculum before a student has any direct contact with a client.</text>
+        <num>(3)</num>
+        <text>The training program shall identify the unit objectives and performance indicators for each of the areas in <cite path="10|39|02|.07|C.|(1)">§C(1) of this regulation</cite> in its training criteria.</text>
       </para>
     </para>
-    <para>
-      <num>C.</num>
-      <text>Each training program shall identify the unit objectives and performance indicators for each of the areas in <cite path="10|39|02|.06|B.">§B of this regulation</cite> in its training criteria.</text>
-    </para>
-    <para>
-      <num>D.</num>
-      <text>Laboratory Instruction and Clinical Learning Experience.</text>
-      <para>
-        <num>(1)</num>
-        <text>Each training program shall provide laboratory instruction in and require students to demonstrate clinical competence in performing skills consistent with the subjects under <cite path="10|39|02|.06|B.">§B of this regulation</cite>.</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>A training program shall ensure that students may not perform any services during their clinical learning experience for which they have not trained and been found proficient by the course instructor.</text>
-      </para>
-    </para>
-    <annotations>
-      <annotation app="2026-04-03" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|emergency|26-016-E" type="History" display="false" exp="2026-09-30"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
-    <num>.07</num>
+    <num>.08</num>
     <heading>Evaluation.</heading>
     <para>
       <num>A.</num>
-      <text>Each training program shall have an objective final written examination that measures achievement of the performance indicators.</text>
+      <text>Each training program shall have an objective final examination that measures achievement of the performance indicators.</text>
     </para>
     <para>
       <num>B.</num>
-      <text>To successfully complete the training program, each student shall:</text>
+      <text>To successfully complete the program, each trainee shall:</text>
       <para>
         <num>(1)</num>
-        <text>Complete the required minimum hours provided in <cite path="|10|39|02|.06|A.">Regulation .06A of this chapter</cite>;</text>
+        <text>Complete the approved training program;</text>
       </para>
       <para>
         <num>(2)</num>
@@ -804,219 +546,71 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>Achieve a passing score of at least 75 percent on the written final examination; and</text>
+        <text>Pass a comprehensive written final examination; and</text>
       </para>
       <para>
         <num>(4)</num>
-        <text>Demonstrate competence in meeting the objectives and performance indicators during didactic, laboratory, and clinical instruction.</text>
+        <text>Demonstrate competence in meeting the objectives and performance indicators contained in the training requirements.</text>
       </para>
     </para>
     <para>
       <num>C.</num>
-      <text>The training program shall provide the following to students who complete the program:</text>
-      <para>
-        <num>(1)</num>
-        <text>A certificate of completion using the form required by the Board; and</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Registration information for a nursing assistant competency evaluation.</text>
-      </para>
+      <text>Each trainee shall be evaluated on their ability to meet the program objectives in the classroom, laboratory, and clinical setting.</text>
     </para>
     <para>
       <num>D.</num>
-      <text>A program coordinator or faculty of a training program:</text>
-      <para>
-        <num>(1)</num>
-        <text>May sign a student’s application for certification as a nursing assistant before graduation; and</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Shall submit to the Board written verification, as required by the Board, of each student’s program completion within 5 business days of program completion.</text>
-      </para>
-    </para>
-    <annotations>
-      <annotation app="2026-04-03" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|emergency|26-016-E" type="History" display="false" exp="2026-09-30"/>
-    </annotations>
-  </section>
-  <section>
-    <prefix>Regulation</prefix>
-    <num>.08</num>
-    <heading>Renewal of Approval.</heading>
-    <para>
-      <num>A.</num>
-      <text>Expiration. Unless renewed, Board approval of a training program expires 2 years from the last date of approval.</text>
-    </para>
-    <para>
-      <num>B.</num>
-      <text>Renewal application. At least 120 days before the date of expiration of approval, a training program shall submit:</text>
-      <para>
-        <num>(1)</num>
-        <text>A complete application on the form required by the Board; and</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>All accompanying documentation required by the application or requested by the Board.</text>
-      </para>
-    </para>
-    <para>
-      <num>C.</num>
-      <text>Survey Visit. Following receipt of a renewal application from a training program, the Board’s professional staff shall conduct an announced or unannounced on-site survey visit and submit a survey visit report to the Board.</text>
-    </para>
-    <para>
-      <num>D.</num>
-      <text>Board Action. The Board shall:</text>
-      <para>
-        <num>(1)</num>
-        <text>Renew approval of a training program for another 2-year term if the training program meets the applicable requirements of this chapter; or</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Initiate withdrawal of approval proceedings in accordance with <cite path="|10|39|02|.09">Regulation .09 of this chapter</cite> if the training program fails to meet the applicable requirements of this chapter.</text>
-      </para>
+      <text>Each program shall submit to the Board, on a quarterly basis, statistics on enrollments, program completions, and attrition rates.</text>
     </para>
     <para>
       <num>E.</num>
-      <text>Enrollment. A training program that fails to renew its approval:</text>
-      <para>
-        <num>(1)</num>
-        <text>Shall be listed on nonrenewed status in the Board’s records; and</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>May not enroll any new students to the program following the expiration of approval.</text>
-      </para>
+      <text>The GNA-CE performance of candidates from each program shall be reviewed annually by the Board.</text>
     </para>
-    <annotations>
-      <annotation app="2026-04-03" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|emergency|26-016-E" type="History" display="false" exp="2026-09-30"/>
-    </annotations>
+    <para>
+      <num>F.</num>
+      <text>A program may not modify an approved curriculum without the Board's permission.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>A program may not modify its faculty without the Board's permission.</text>
+    </para>
+    <annotations/>
   </section>
-  <section cache:ref-path="10|39|02|.09">
+  <section>
     <prefix>Regulation</prefix>
     <num>.09</num>
     <heading>Withdrawal of Approval.</heading>
     <para>
       <num>A.</num>
-      <text>Notice of Deficiencies.</text>
-      <para>
-        <num>(1)</num>
-        <text>If the Board determines that there is a basis for withdrawal of approval under <cite path="10|39|02|.09|C.">§C of this regulation</cite>, the Board shall issue a written notice of deficiencies to the training program.</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>The notice of deficiencies shall notify the training program of the:</text>
-        <para>
-          <num>(a)</num>
-          <text>Requirements with which the program has not complied;</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Reasons for the Board’s determination; and</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>Requirement to submit a written plan of correction in accordance with <cite path="10|39|02|.09|B.">§B of this regulation</cite>.</text>
-        </para>
-      </para>
+      <text>The Board's professional staff may visit a program annually and provide a report to the Board.</text>
     </para>
     <para>
       <num>B.</num>
-      <text>Written Plan of Correction.</text>
+      <text>The Board may withdraw approval from any program:</text>
       <para>
         <num>(1)</num>
-        <text>A training program shall submit a written plan of correction after 30 calendar days of the date of the notice of deficiencies unless granted an extension by the Board for good cause.</text>
+        <text>That fails to comply with a requirement of this regulation;</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>The written plan of correction shall:</text>
-        <para>
-          <num>(a)</num>
-          <text>Address all deficiencies noted by the Board; and</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Include dates of completion for correcting the deficiencies.</text>
-        </para>
+        <text>That discontinues its curriculum for a period exceeding 6 months; or</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>The Board shall review the plan of correction and may approve or modify the dates of completion for correcting deficiencies.</text>
-      </para>
-      <para>
-        <num>(4)</num>
-        <text>The training program shall correct the deficiencies within the time frame approved by the Board.</text>
+        <text>Whose graduates achieve less than 90 percent of the national success rate on the GNA-CE.</text>
       </para>
     </para>
-    <para>
-      <num>C.</num>
-      <text>Grounds for Withdrawal. The Board may withdraw approval of a training program that:</text>
-      <para>
-        <num>(1)</num>
-        <text>Fails to comply with any of the applicable requirements of this chapter;</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Fails to correct deficiencies within the time frame approved by the Board;</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>Enrolls new students after expiration of approval; or</text>
-      </para>
-      <para>
-        <num>(4)</num>
-        <text>Has a graduate pass rate of less than 90 percent of the pass rate for all states using the applicable Board-approved vendors for a nursing assistant competency evaluation.</text>
-      </para>
-    </para>
-    <para>
-      <num>D.</num>
-      <text>Procedure for Withdrawal.</text>
-      <para>
-        <num>(1)</num>
-        <text>Before withdrawing approval of a training program under <cite path="10|39|02|.09|C.">§C of this regulation</cite>, the Board shall:</text>
-        <para>
-          <num>(a)</num>
-          <text>Notify the program of its intent to withdraw approval; and</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Give the program an opportunity to request an evidentiary hearing before the Board.</text>
-        </para>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>The notice of intent to withdraw approval and hearing shall comply with the Administrative Procedure Act.</text>
-      </para>
-    </para>
-    <para>
-      <num>E.</num>
-      <text>Mandatory Withdrawal. Notwithstanding any other section of this regulation, the Board shall withdraw approval of a training program upon receipt of notice from the Office of Healthcare Quality that the facility is prohibited from holding a training program pursuant 42 CFR §483.151(f)(1) or 42 CFR §483.151(f)(3).</text>
-    </para>
-    <para>
-      <num>F.</num>
-      <text>Reinstatement. A training program whose approval was withdrawn may apply for reinstatement of approval by submitting a reinstatement application demonstrating that the program meets all of the applicable requirements of this chapter.</text>
-    </para>
-    <annotations>
-      <annotation app="2026-04-03" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|emergency|26-016-E" type="History" display="false" exp="2026-09-30"/>
-    </annotations>
+    <annotations/>
   </section>
-  <section cache:ref-path="10|39|02|.10">
+  <section>
     <prefix>Regulation</prefix>
     <num>.10</num>
-    <heading>Voluntary Closure.</heading>
+    <heading>Voluntary Closing.</heading>
     <para>
       <num>A.</num>
-      <text>When a training program provider considers closing a program, the training program provider shall:</text>
+      <text>When the facility, institution, or individual considers closing a nursing assistant training program, the facility, institution, or individual shall:</text>
       <para>
         <num>(1)</num>
-        <text>Notify the Board in writing of:</text>
-        <para>
-          <num>(a)</num>
-          <text>The intended closing date; and</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>The arrangements for custody and safeguarding of student and graduate records; and</text>
-        </para>
+        <text>Notify the Board in writing of the intended closing date; and</text>
       </para>
       <para>
         <num>(2)</num>
@@ -1028,170 +622,24 @@
       <text>Custody of Student Records.</text>
       <para>
         <num>(1)</num>
-        <text>If the training program provider is a facility or educational institution that will continue to function, the facility or educational institution shall assume responsibility for the student and graduate records of the closed training program.</text>
+        <text>If the nursing assistant training program closes, but the controlling institution continues to function, the controlling institution shall assume responsibility for the records of the students and the graduates. The Board shall be advised of the arrangements made to safeguard the records.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Except as provided in <cite path="10|39|02|.10|B.|(1)">§B(1) of this regulation</cite>, a training program provider that is required to obtain approval from the Maryland Higher Education Commission (MHEC) shall file student and graduate records, or legible copies of those records, with MHEC in accordance with <cite doc="Md. Code" path="ged|11-401">Education Article, §11-401, Annotated Code of Maryland</cite>.</text>
+        <text>If a controlling institution that has obtained a certificate of approval from the Maryland Higher Education Commission plans to cease operations, the institution shall file the records of students and graduates, or legible copies of those records, with the Maryland Higher Education Commission as required by <cite doc="Md. Code" path="ged|11-401">Education Article, §11-401, Annotated Code of Maryland</cite>.</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>A training program provider that is not required to obtain MHEC approval shall reach a mutual agreement with the Board about the disposition of student records.</text>
+        <text>If a controlling institution that is not required to obtain Maryland Higher Education Commission approval plans to cease operations, the Board and the controlling institution shall reach a mutual agreement about the disposition of student records.</text>
       </para>
     </para>
-    <annotations>
-      <annotation app="2026-04-03" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|emergency|26-016-E" type="History" display="false" exp="2026-09-30"/>
-    </annotations>
-  </section>
-  <section>
-    <prefix>Regulation</prefix>
-    <num>.11</num>
-    <heading>Hybrid Nursing Assistant Training Programs.</heading>
-    <para>
-      <num>A.</num>
-      <text>Scope. This regulation applies to hybrid nursing assistant training programs.</text>
-    </para>
-    <para>
-      <num>B.</num>
-      <text>Approval. The Board shall approve a hybrid training program that meets all of the requirements of this regulation.</text>
-    </para>
-    <para>
-      <num>C.</num>
-      <text>Prerequisite Qualifications. A program seeking initial approval as a hybrid training program shall:</text>
-      <para>
-        <num>(1)</num>
-        <text>Comply with the requirements set forth in <cite path="|10|39|02|.02">Regulation .02 of this chapter</cite>;</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Be approved by the Board as a traditional training program for at least 2 years before the program applies for initial approval as a hybrid training program; and</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>Comply with all requirements set forth under this chapter and be in good standing with the Board at the time that the program applies for initial approval as a hybrid training program.</text>
-      </para>
-    </para>
-    <para>
-      <num>D.</num>
-      <text>Application and Approval Requirements.</text>
-      <para>
-        <num>(1)</num>
-        <text>A training program seeking initial approval as a hybrid training program shall apply for approval on a form required by the Board.</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>To be eligible for Board approval, a hybrid training program shall:</text>
-        <para>
-          <num>(a)</num>
-          <text>Host sessions no longer than 4 hours per session;</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Specify the technology platform to be used for each content area of the curriculum;</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>Conduct lab and clinical training:</text>
-          <para>
-            <num>(i)</num>
-            <text>In person with a course instructor who meets the requirements under <cite path="|10|39|02|.04">Regulation .04 of this chapter</cite>; and</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>No later than 2 weeks after the completion of didactic instruction;</text>
-          </para>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>Require test sessions to be conducted in person;</text>
-        </para>
-        <para>
-          <num>(e)</num>
-          <text>Have a policy, which is provided to the Board as a part of the application, for:</text>
-          <para>
-            <num>(i)</num>
-            <text>Admissions, including determining whether a student has sufficient access to a computer and learning resources;</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>Orienting students to online modules;</text>
-          </para>
-          <para>
-            <num>(iii)</num>
-            <text>Providing troubleshooting assistance for enrolled students; and</text>
-          </para>
-          <para>
-            <num>(iv)</num>
-            <text>In the case of technology failure, an alternative method of instruction and notification to the Board of the technology failure and the use of the alternative method of instruction;</text>
-          </para>
-        </para>
-        <para>
-          <num>(f)</num>
-          <text>Have sufficient mechanisms for:</text>
-          <para>
-            <num>(i)</num>
-            <text>Requiring the use of a personal identification number that confirms the identity of the students and instructor;</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>Ensuring that all students have demonstrated competency on all virtual education content;</text>
-          </para>
-          <para>
-            <num>(iii)</num>
-            <text>Tracking and auditing active student participation in online instruction;</text>
-          </para>
-          <para>
-            <num>(iv)</num>
-            <text>Confirming student identity during and after completion of online modules and live sessions; and</text>
-          </para>
-          <para>
-            <num>(v)</num>
-            <text>Safeguarding appropriate security measures;</text>
-          </para>
-        </para>
-        <para>
-          <num>(g)</num>
-          <text>Provide the Board with access rights to the program to verify program compliance and monitor distance learning sessions; and</text>
-        </para>
-        <para>
-          <num>(h)</num>
-          <text>Provide the Board with statistics about the performance of students in the program, including:</text>
-          <para>
-            <num>(i)</num>
-            <text>Student exam pass rates;</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>The rate at which students repeat each module of the program; and</text>
-          </para>
-          <para>
-            <num>(iii)</num>
-            <text>Any other information requested by the Board regarding student participation in and</text>
-            <text>completion of the program.</text>
-          </para>
-        </para>
-      </para>
-    </para>
-    <para>
-      <num>E.</num>
-      <text>Reapproval. An approved hybrid training program shall apply for renewal of approval in accordance with <cite path="|10|39|02|.08">Regulation .08 of this chapter</cite>.</text>
-    </para>
-    <para>
-      <num>F.</num>
-      <text>Withdrawal of Approval. The Board may withdraw approval of a hybrid training program in accordance with <cite path="|10|39|02|.09">Regulation .09 of this chapter</cite>.</text>
-    </para>
-    <annotations>
-      <annotation app="2026-04-03" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|emergency|26-016-E" type="History" display="false" exp="2026-09-30"/>
-    </annotations>
+    <annotations/>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-205">8-205</cite>, <cite doc="Md. Code" path="gho|8-6">8-6</cite>A-<cite doc="Md. Code" path="gho|05">05</cite>(a)(<cite doc="Md. Code" path="gho|6">6</cite>), and <cite doc="Md. Code" path="gho|8-6">8-6</cite>A-14, Annotated Code of Maryland; <br/>Chs. 818 and 819, Acts of 2024; Ch. 416, Acts of 2025</annotation>
-    <annotation managed="false" type="Emergency Action" dest="container">53:9  26-016-E  (Regulations <cite path="|10|39|02|.01">.01</cite> — <cite path="|10|39|02|.11">.11</cite>) EMERGENCY ACTION IN EFFECT 4/3/2026 —9/30/2026</annotation>
+    <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-205">8-205</cite> and <cite doc="Md. Code" path="gho|8-6">8-6</cite>A-14, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2001-04-30">Effective date: April 30, 2001 (28:8 Md. R. 761)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|39|02|.02|B.">Regulation .02B</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|39|02|.05|A.">Regulation .05A</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2005-11-07"><cite path="|10|39|02|.07|B.">Regulation .07B</cite> amended effective November 7, 2005 (32:22 Md. R. 1756)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-03" discontinuity="true">Chapter revised as an emergency provision effective April 3, 2026 (53:9 Md. R. 411)</annotation>
-    <annotation app="2026-04-03" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|emergency|26-016-E" type="History" display="false" exp="2026-09-30"/>
   </annotations>
 </container>
