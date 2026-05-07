@@ -1810,7 +1810,7 @@
           </para>
           <para>
             <num>(ii)</num>
-            <text>If there are separate offenses involving different victims, adding or “stacking” the highest of the upper guidelines limit for each offense with a unique victim. Only one offense per distinct victim may be used to calculate the overall guidelines range. Animals may not be considered victims for the purposes of applying the multiple victims stacking rule; or</text>
+            <text>If there are separate offenses involving different victims, adding or “stacking” the highest of the upper guidelines limit for each offense with a unique victim. Only one offense per distinct victim may be used to calculate the overall guidelines range. Pursuant to <cite doc="Md. Code" path="gcr|10-627">Criminal Law Article, §10-627, Annotated Code of Maryland</cite>, each animal harmed in violation of <cite doc="Md. Code" path="gcr">Criminal Law Article, Title 10, Subtitle 6, Annotated Code of Maryland</cite>, shall be considered a victim for the purposes of applying the multiple victims stacking rule; or</text>
           </para>
           <para>
             <num>(iii)</num>
@@ -1883,7 +1883,9 @@
         <text>Any combinations of sentences imposed, concurrent or consecutive, are within the guidelines when the net time to be served (that is, the initial sentence minus suspended sentence) falls within the overall guideline range.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-171-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -2002,6 +2004,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-04-01"><cite path="|14|22|01|.11|D.">Regulation .11D</cite> amended effective December 24, 2001 (28:25 Md. R. 2193); July 7, 2003 (30:13 Md. R. 854); January 1, 2008 (34:24 Md. R. 2159); July 1, 2016 (43:6 Md. R. 411); April 1, 2023 (50:5 Md. R. 182)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-07-01"><cite path="|14|22|01|.11|D.">Regulation .11D</cite>, E amended effective July 1, 2022 (49:7 Md. R. 468)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-11-01"><cite path="|14|22|01|.12|A.">Regulation .12A</cite> amended effective January 19, 2004 (31:1 Md. R. 31); November 5, 2018 (45:22 Md. R. 1027); February 1, 2024 (50:17 Md. R. 769); November 1, 2024 (51:21 Md. R 927)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-10-27"><cite path="|14|22|01|.12|A.">Regulation .12A</cite> amended effective January 19, 2004 (31:1 Md. R. 31); November 5, 2018 (45:22 Md. R. 1027); February 1, 2024 (50:17 Md. R. 769); November 1, 2024 (51:21 Md. R 927); October 27, 2025 (52:21 Md. R. 1025)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-06-10"><cite path="|14|22|01|.12|A.">Regulation .12A</cite>, C amended effective June 10, 2024 (51:11 Md. R. 580)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-02-01"><cite path="|14|22|01|.12|C.">Regulation .12C</cite>, D amended effective February 1, 2020 (46:26 Md. R. 1167)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-02-01"><cite path="|14|22|01|.14">Regulation .14</cite> amended effective March 1, 2008 (35:4 Md. R. 515); February 1, 2021 (48:1 Md. R. 10); February 1, 2024 (50:17 Md. R. 769)</annotation>
@@ -2011,5 +2014,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-04-01"><cite path="|14|22|01|.17|A.">Regulation .17A</cite> amended effective April 1, 2021 (48:6 Md. R. 238)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2004-01-19"><cite path="|14|22|01|.17|B.">Regulation .17B</cite> amended effective January 19, 2004 (31:1 Md. R. 31)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-10-01"><cite path="|14|22|01|.17|C.">Regulation .17C</cite> amended effective June 1, 2011 (38:9 Md. R. 553); June 1, 2015 (42:10 Md. R. 685); October 1, 2017 (44:18 Md. R. 866)</annotation>
+    <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-171-F" type="History" display="false"/>
   </annotations>
 </container>
