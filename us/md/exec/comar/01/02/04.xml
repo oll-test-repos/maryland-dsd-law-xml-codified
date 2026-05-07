@@ -646,6 +646,70 @@
     <text>A person who violates these regulations is subject to the penalties contained in <cite doc="Md. Code" path="gbr|6-619">Business Regulation Article, §6-619, Annotated Code of Maryland</cite>.</text>
     <annotations/>
   </section>
+  <section cache:ref-path="01|02|04|.22">
+    <prefix>Regulation</prefix>
+    <num>.22</num>
+    <heading>Late Fee Waiver or Suspension.</heading>
+    <para>
+      <num>A.</num>
+      <text>A charitable organization may request the Secretary of State to waive or suspend a late fee.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A request to waive or suspend a late fee must:</text>
+      <para>
+        <num>(1)</num>
+        <text>Be in writing;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Explain the cause or causes of the charitable organization’s late filing; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>To the extent such late filing was reasonably preventable, explain what has been or will be done to prevent future late filings.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>In addition to the written request submitted in accordance with <cite path="01|02|04|.22|B.">§B of this regulation</cite>, the Secretary of State may consider, among other factors and without limitation, the following when determining whether to grant a request to waive or suspend some or all of a late fee:</text>
+      <para>
+        <num>(1)</num>
+        <text>Whether the charitable organization has submitted all required outstanding annual reports to the Secretary of State;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Whether the charitable organization’s registration history includes previous late filings;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Whether the charitable organization already paid some of the late fee;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Whether the charitable organization previously asked for and was granted a late fee waiver or suspension; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Whether the charitable organization has the ability to pay the late fee.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>If the Secretary of State makes a determination to waive or suspend some of the late fee, the charitable organization must pay any remaining late fee within 30 days of notification of the Secretary’s decision.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Failure of a charitable organization to fully comply after being granted partial waiver or suspension of a late fee will result in revocation of the late fee waiver or suspension.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>A partial or complete denial of a late fee waiver or suspension request is not an adverse action under <cite path="01.02.03.05">COMAR 01.02.03.05</cite>.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-242-F" type="History" display="false"/>
+    </annotations>
+  </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gbr|6-204">Business Regulation Article, §6-204, </cite>Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1978-02-10">Effective date: February 10, 1978 (5:3 Md. R. 134)</annotation>
@@ -674,5 +738,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-08-08"><cite path="|01|02|04|.19">Regulation .19</cite> amended effective August 8, 2022 (49:16 Md. R. 757)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-08-08"><cite path="|01|02|04|.20-1">Regulation .20-1</cite> amended effective August 8, 2022 (49:16 Md. R. 757)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-09-12"><cite path="|01|02|04|.20-1A">Regulation .20-1A</cite> amended effective September 12, 2016 (43:18 Md. R. 1017)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-01-19"><cite path="|01|02|04|.22">Regulation .22</cite> adopted effective January 19, 2026 (53:1 Md. R. 20)</annotation>
+    <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-242-F" type="History" display="false"/>
   </annotations>
 </container>
