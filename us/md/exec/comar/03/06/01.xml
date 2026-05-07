@@ -1192,10 +1192,10 @@
     <para>
       <num>D.</num>
       <text>A person who, because of a contractual obligation, purchases material which will be incorporated into the real property of a private, nonprofit charitable, educational, or religious organization, or volunteer fire, ambulance, or rescue company or squad, located in Maryland, may use the exemption certificate issued to the organization to purchase the material tax-free. In order to purchase the material tax-free, the buyer shall certify to the supplier, in a signed statement, that the material will be incorporated into the real property of the exempt organization. The buyer shall include in the statement the name and exemption certificate number of the organization, and the date and identification of the contract for which the materials are purchased. No specific format for the statement is required, nor are forms supplied by the Comptroller. Buyers and suppliers may use any format which contains the required information. The following is an example of an acceptable format:</text>
-      <text>To:                                 (Name of Supplier)</text>
-      <text>Reference:        (Supplier's Invoice Number and Date)</text>
-      <text>I hereby certify that all of the materials purchased on this order will be incorporated into the real property of (name of organization), exemption certificate (number), in accordance with my contract (number or other designation), dated (date).</text>
-      <text>(Signature, Title and Date)</text>
+      <text proof="needed">To: ____________________________(Name of Supplier)</text>
+      <text proof="needed">Reference: ______________________(Supplier's Invoice Number and Date)</text>
+      <text proof="needed">I hereby certify that all of the materials purchased on this order will be incorporated into the real property of (name of organization), exemption certificate (number), in accordance with my contract (number or other designation), dated (date).</text>
+      <text>_____________________________(Signature, Title and Date)</text>
     </para>
     <para>
       <num>E.</num>
@@ -1205,7 +1205,9 @@
       <num>F.</num>
       <text>The retail sale or use of all equipment, tools, expendable supplies, and other items which are used to improve real property and are not incorporated into the realty, is subject to tax in all instances.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-08-22" doc="Editor Action 2026-03-09" eff="2026-03-09" path="" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1692,14 +1694,16 @@
         <text>To: (Name of Vendor)</text>
         <text>Reference: (Invoice Number and Date)</text>
         <text>I hereby certify that the property covered by the foregoing invoice is an aircraft, motor vehicle, railroad rolling stock, or vessel which will be used principally in interstate or foreign commerce or is tangible personal property which will be physically used in, on, or by a qualifying aircraft, motor vehicle, railroad rolling stock, or vessel.</text>
-        <text>(Signature, Title, Address)</text>
+        <text>_____________________________________ (Signature, Title, Address)</text>
       </para>
       <para>
         <num>(2)</num>
         <text>A vendor may also accept a signed statement covering a number of specified transactions or all transactions with a particular buyer, subject to notification to the contrary.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-08-22" doc="Editor Action 2026-03-09" eff="2026-03-09" path="" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>

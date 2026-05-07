@@ -2026,7 +2026,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-02-01"><cite path="|14|22|01|.11">Regulation .11</cite> amended effective February 1, 2024 (51:1 Md. R. 16)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-04-01"><cite path="|14|22|01|.11|D.">Regulation .11D</cite> amended effective December 24, 2001 (28:25 Md. R. 2193); July 7, 2003 (30:13 Md. R. 854); January 1, 2008 (34:24 Md. R. 2159); July 1, 2016 (43:6 Md. R. 411); April 1, 2023 (50:5 Md. R. 182)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-07-01"><cite path="|14|22|01|.11|D.">Regulation .11D</cite>, E amended effective July 1, 2022 (49:7 Md. R. 468)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-11-01"><cite path="|14|22|01|.12|A.">Regulation .12A</cite> amended effective January 19, 2004 (31:1 Md. R. 31); November 5, 2018 (45:22 Md. R. 1027); February 1, 2024 (50:17 Md. R. 769); November 1, 2024 (51:21 Md. R 927)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-10-27"><cite path="|14|22|01|.12|A.">Regulation .12A</cite> amended effective January 19, 2004 (31:1 Md. R. 31); November 5, 2018 (45:22 Md. R. 1027); February 1, 2024 (50:17 Md. R. 769); November 1, 2024 (51:21 Md. R 927); October 27, 2025 (52:21 Md. R. 1025)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-06-10"><cite path="|14|22|01|.12|A.">Regulation .12A</cite>, C amended effective June 10, 2024 (51:11 Md. R. 580)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-02-01"><cite path="|14|22|01|.12|C.">Regulation .12C</cite>, D amended effective February 1, 2020 (46:26 Md. R. 1167)</annotation>
@@ -2039,5 +2038,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-10-01"><cite path="|14|22|01|.17|C.">Regulation .17C</cite> amended effective June 1, 2011 (38:9 Md. R. 553); June 1, 2015 (42:10 Md. R. 685); October 1, 2017 (44:18 Md. R. 866)</annotation>
     <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-171-F" type="History" display="false"/>
     <annotation app="2026-01-01" doc="Maryland Register, Volume 52, Issue 25" eff="2025-12-22" path="regulations|final|25-220-F" type="History" display="false"/>
+    <annotation app="2026-01-01" doc="Editor Action 2026-03-09" eff="2026-03-09" path="" type="History" display="false"/>
   </annotations>
 </container>

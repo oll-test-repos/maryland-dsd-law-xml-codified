@@ -68,7 +68,15 @@
       </para>
       <para>
         <num>(8)</num>
-        <text>“Clinical practice guidelines” standards for practice of midwifery using current guidelines established by ACNM in Standards for the Practice of Midwifery.</text>
+        <text>“Clinical practice guidelines” means written standards using guidelines established by:</text>
+        <para>
+          <num>(a)</num>
+          <text>The ACNM in Standards for the Practice of Midwifery, as amended or supplemented, and available from ACNM, 8403 Colesville Road, Suite 1550, Silver Spring, MD 20910; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Any other national certifying body recognized by the Board.</text>
+        </para>
       </para>
       <para>
         <num>(9)</num>
@@ -80,7 +88,7 @@
       </para>
       <para>
         <num>(11)</num>
-        <text>“Newborn” means an infant in the first 28 days after birth.</text>
+        <text>“Newborn” means an infant in the first 48 hours of life.</text>
       </para>
       <para>
         <num>(12)</num>
@@ -105,6 +113,7 @@
     </para>
     <annotations>
       <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-156-F" type="History" display="false"/>
+      <annotation app="2025-10-13" doc="Editor Action 2026-03-09" eff="2026-03-09" path="" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -278,18 +287,15 @@
     </para>
     <para>
       <num>B.</num>
-      <text>A certified nurse midwife shall keep a record of all cases attended and maintain medical records in accordance with Health-General Article, Title 4, Subtitle 4, Annotated Code of Maryland.</text>
+      <text>A certified nurse midwife shall keep a record of all cases attended.</text>
     </para>
     <para>
       <num>C.</num>
       <text>A certified nurse midwife has the right and obligation to refuse to perform any delegated medical act, oral or written, if, in the certified nurse midwife’s judgment, it is unsafe or an invalidly prescribed medical act or beyond the competence of the certified nurse midwife, in which case the nurse midwife shall notify the delegating physician at once.</text>
     </para>
-    <para>
-      <num>D.</num>
-      <text>A certified nurse midwife shall comply with applicable State and federal law.</text>
-    </para>
     <annotations>
       <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-156-F" type="History" display="false"/>
+      <annotation app="2025-10-13" doc="Editor Action 2026-03-09" eff="2026-03-09" path="" type="History" display="false"/>
     </annotations>
   </section>
   <section>

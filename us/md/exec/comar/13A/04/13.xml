@@ -184,6 +184,8 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-11-29" discontinuity="true">Regulations <cite path="|13A|04|13|.01">.01</cite>—<cite path="|13A|04|13|.02">.02</cite> repealed and new Regulations <cite path="|13A|04|13|.01">.01</cite>—<cite path="|13A|04|13|.02">.02</cite> adopted effective November 29, 2010 (37:24 Md. R. 1659)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-07-12"><cite path="|13A|04|13|.01">Regulation .01</cite> amended effective July 12, 2021 (48:14 Md. R. 538)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-08-01"><cite path="|13A|04|13|.01|B.">Regulation .01B</cite>, C amended effective August 1, 2016 (43:15 Md. R. 864)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-08-01"><cite path="|13A|04|13|.02">Regulation .02</cite> amended effective August 1, 2016 (43:15 Md. R. 864)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-16"><cite path="|13A|04|13|.01|C.">Regulation .01C</cite>, D amended effective February 16, 2026 (53:2 Md. R.123)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-16"><cite path="|13A|04|13|.02">Regulation .02</cite> amended effective August 1, 2016 (43:15 Md. R. 864); February 16, 2026 (53:2 Md. R.123)</annotation>
+    <annotation app="2026-02-16" doc="Editor Action 2026-03-09" eff="2026-03-09" path="" type="History" display="false"/>
   </annotations>
 </container>

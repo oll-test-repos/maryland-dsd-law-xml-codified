@@ -239,14 +239,13 @@
     <annotations/>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">
-      <cite doc="Md. Code" path="gho|8-316">Health Occupations Article, §8-316, Annotated Code of Maryland</cite>
-    </annotation>
+    <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-316">8-316</cite>, <cite doc="Md. Code" path="gho|8-6">8-6</cite>C-<cite doc="Md. Code" path="gho|20">20</cite>, and <cite doc="Md. Code" path="gho|8">8</cite>–<cite doc="Md. Code" path="gho|6D">6D</cite>–10, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1995-04-10">Effective date: April 10, 1995 (22:7 Md. R. 536)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-22"><cite path="|10|27|18|.01">Regulation .01</cite> amended effective July 2, 2018 (45:13 Md. R. 667); February 22, 2026 (52:17 Md. R. 875)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-22"><cite path="|10|27|18|.02|B.">Regulation .02B</cite> amended effective July 2, 2018 (45:13 Md. R. 667); February 22, 2026 (52:17 Md. R. 875)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|27|18|.01">Regulation .01</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|27|18|.02|B.">Regulation .02B</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|27|18|.03|A.">Regulation .03A</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|27|18|.04|A.">Regulation .04A</cite>, H amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
     <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" type="History" display="false"/>
+    <annotation app="2026-02-22" doc="Editor Action 2026-03-09" eff="2026-03-09" path="" type="History" display="false"/>
   </annotations>
 </container>
