@@ -1298,7 +1298,7 @@
     <heading>Public Shellfish Fishery Area.</heading>
     <para>
       <num>A.</num>
-      <text>Public Shellfish Fishery Areas of the Chesapeake Bay and Its Tidal Tributaries (June 2023) designates public shellfish fishery areas in the Chesapeake Bay and its tidal tributaries and is hereby incorporated by reference.</text>
+      <text>Public Shellfish Fishery Areas of the Chesapeake Bay and Its Tidal Tributaries (October 2025) designates public shellfish fishery areas in the Chesapeake Bay and its tidal tributaries and is hereby incorporated by reference.</text>
     </para>
     <para>
       <num>B.</num>
@@ -1328,7 +1328,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-263-F" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Natural Resources Article, §§<cite doc="Md. Code" path="gnr|4-215">4-215</cite>, <cite doc="Md. Code" path="gnr|4-2">4-2</cite>A-<cite doc="Md. Code" path="gnr|03">03</cite>, <cite doc="Md. Code" path="gnr|4-701">4-701</cite>, <cite doc="Md. Code" path="gnr|4-1008">4-1008</cite>.1, 4-1009, 4-1009.1, 4-1012, 4-1013, 4-1015, 4-1015.1, 4-1018, 4-1019,<br/>4-1019.2, 4-1027, 4-1103, 4-1106, 4-11A-04, 4-11A-05, and 4-11A-12, Annotated Code of Maryland</annotation>
@@ -1453,7 +1455,8 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-09-06"><cite path="|08|02|04|.17">Regulation .17</cite> adopted effective September 6, 2010 (37:18 Md. R. 1213)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2011-04-04"><cite path="|08|02|04|.17|A.">Regulation .17A</cite> amended as an emergency provision effective January 20, 2011 (38:4 Md. R. 262); amended permanently effective April 4, 2011 (37:8 Md. R 429)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-03-19"><cite path="|08|02|04|.17|A.">Regulation .17A</cite> amended as an emergency provision effective October 10, 2011 (38:23 Md. R 1416); amended permanently effective March 19, 2012 (39:5 Md. R. 381)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-10-30"><cite path="|08|02|04|.17|A.">Regulation .17A</cite> amended effective October 1, 2012 (39:19 Md. R. 1236); January 29, 2018 (45:2 Md. R. 68); February 11, 2019 (46:3 Md. R. 106); March 23, 2020 (47:6 Md. R. 340); October 30, 2023 (50:21 Md. R. 951)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02"><cite path="|08|02|04|.17|A.">Regulation .17A</cite> amended effective October 1, 2012 (39:19 Md. R. 1236); January 29, 2018 (45:2 Md. R. 68); February 11, 2019 (46:3 Md. R. 106); March 23, 2020 (47:6 Md. R. 340); October 30, 2023 (50:21 Md. R. 951); March 2, 2026 (53:4 Md. R. 183)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-01-29"><cite path="|08|02|04|.17|B.">Regulation .17B</cite> amended effective January 29, 2018 (45:2 Md. R. 68)</annotation>
+    <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-263-F" type="History" display="false"/>
   </annotations>
 </container>

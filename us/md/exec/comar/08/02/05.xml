@@ -1986,11 +1986,11 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>The commercial catch limits for spiny dogfish shall be established and may be modified through a public notice issued in accordance with <cite path="08|02|05|.24|I.">§I of this regulation</cite>.</text>
+        <text>The commercial catch limits for spiny dogfish shall be established and may be modified through a public notice issued in accordance with <cite path="08|02|05|.24|J.">§J of this regulation</cite>.</text>
       </para>
       <para>
         <num>(4)</num>
-        <text>The public notice establishing the commercial catch limit issued in accordance with <cite path="08|02|05|.24|I.">§I of this regulation</cite> shall state the catch limit in pounds per vessel per day for an individual:</text>
+        <text>The public notice establishing the commercial catch limit issued in accordance with <cite path="08|02|05|.24|J.">§J of this regulation</cite> shall state the catch limit in pounds per vessel per day for an individual:</text>
         <para>
           <num>(a)</num>
           <text>Licensed to catch finfish;</text>
@@ -2271,6 +2271,46 @@
     </para>
     <para>
       <num>I.</num>
+      <text>Commercial Gear.</text>
+      <para>
+        <num>(1)</num>
+        <text>Definition.</text>
+        <para>
+          <num>(a)</num>
+          <text>In this regulation, the following term has the meaning indicated.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Term Defined. “Roundfish gill net” means a gill net that is constructed with floats on the float line and that has no tie-down twine between the float line and the lead line.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>In waters of the Atlantic Ocean, during the period from November 1 through March 31, a roundfish gill net with mesh size equal to or greater than 5.25 inches and less than 10 inches:</text>
+        <para>
+          <num>(a)</num>
+          <text>May not be set prior to 5 a.m. each day; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Shall be removed from the water no later than 8 p.m. each day.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The restriction in <cite path="08|02|05|.24|I.|(2)">§I(2) of this regulation</cite> applies only to a commercial tidal fish licensee who:</text>
+        <para>
+          <num>(a)</num>
+          <text>Holds a valid Maryland spiny dogfish permit; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Does not hold a federal spiny dogfish permit.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>J.</num>
       <text>General</text>
       <para>
         <num>(1)</num>
@@ -2301,7 +2341,9 @@
         <text>Spiny dogfish harvested for commercial purposes shall only be harvested from a vessel.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-240-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -3074,7 +3116,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-07-16"><cite path="|08|02|05|.22|B.">Regulation .22B</cite>, D amended effective July 16, 2020 (47:14 Md. R. 675)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-12-22"><cite path="|08|02|05|.23|C.">Regulation .23C</cite> amended effective December 22, 2025 (52:25 Md. R. 1268)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-08-27"><cite path="|08|02|05|.24">Regulation .24</cite> amended as an emergency provision effective August 27, 2013 (40:19 Md. R. 1539); emergency provision expired February 17, 2014</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-03-28"><cite path="|08|02|05|.24">Regulation .24</cite> amended effective February 17, 2014 (41:3 Md. R. 201); January 19, 2015 (42:1 Md. R. 17); March 28, 2016 (43:6 Md. R. 404)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02"><cite path="|08|02|05|.24">Regulation .24</cite> amended effective February 17, 2014 (41:3 Md. R. 201); January 19, 2015 (42:1 Md. R. 17); March 28, 2016 (43:6 Md. R. 404); March 2, 2026 (53:4 Md. R. 183)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-06-22"><cite path="|08|02|05|.24|A.">Regulation .24A</cite> amended effective June 22, 2015 (42:12 Md. R. 761)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-08-12"><cite path="|08|02|05|.24|D.">Regulation .24D</cite> amended as an emergency provision effective August 12, 2014 (41:18 Md. R. 1007); emergency provision expired January 19, 2015</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-08-28"><cite path="|08|02|05|.24|D.">Regulation .24D</cite>, I amended effective August 28, 2017 (44:17 Md. R. 834)</annotation>
@@ -3088,5 +3130,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-03-30"><cite path="|08|02|05|.29|E.">Regulation .29E</cite> amended effective March 30, 2015 (42:6 Md. R. 511)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-07-01"><cite path="|08|02|05|.30">Regulation .30</cite> adopted effective July 1, 2019 (46:13 Md. R. 589)</annotation>
     <annotation app="2025-12-22" doc="Maryland Register, Volume 52, Issue 25" eff="2025-12-22" path="regulations|final|25-187-F" type="History" display="false"/>
+    <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-240-F" type="History" display="false"/>
   </annotations>
 </container>
