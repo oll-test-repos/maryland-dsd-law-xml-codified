@@ -2,7 +2,7 @@
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>Chapter</prefix>
   <num>18</num>
-  <heading>Crematories — Inspections, Complaints, Investigations, Grounds for Discipline, and Penalties</heading>
+  <heading>Crematories — Complaints and Disciplinary Procedures<annotation app="2026-05-05" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|final|25-320-F" type="History" display="false"/></heading>
   <section>
     <prefix>Regulation</prefix>
     <num>.01</num>
@@ -10,7 +10,7 @@
     <text>This chapter governs crematory inspections, standards, the complaint process, investigations, grounds for discipline, and penalties.</text>
     <annotations/>
   </section>
-  <section>
+  <section cache:ref-path="10|29|18|.02">
     <prefix>Regulation</prefix>
     <num>.02</num>
     <heading>Inspection by the Board.</heading>
@@ -36,10 +36,14 @@
     </para>
     <para>
       <num>C.</num>
-      <text>The permit holder or any person responsible for day-to-day operation of the cremation machinery shall be available to accompany the inspector during the inspection and sign the initial inspection report. A copy of the inspection report shall be provided to the permit holder or registered crematory operator responsible for the day-to-day operation of the crematory.</text>
+      <text>The permit holder or any person responsible for day-to-day operation of the cremation machinery or the alkaline hydrolysis unit shall be available to accompany the inspector during the inspection and sign the initial inspection report.</text>
     </para>
     <para>
       <num>D.</num>
+      <text>A copy of the inspection report shall be provided to the permit holder or the registered crematory operator responsible for the day-to-day operation of the crematory.</text>
+    </para>
+    <para>
+      <num>E.</num>
       <text>A crematory shall maintain the following minimum standards:</text>
       <para>
         <num>(1)</num>
@@ -47,39 +51,51 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Except by express written consent of the authorizing agent, there may not be more than one human body cremated simultaneously in a single cremator;</text>
+        <text>Except by express written consent of the authorizing agents to perform simultaneous, multiple cremations or alkaline hydrolyses, there may not be more than one human body cremated or hydrolyzed simultaneously in a single cremator or alkaline hydrolysis unit at a time;</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>A cremator shall be completely cleaned after each cremation;</text>
+        <text>A cremator or an alkaline hydrolysis unit shall be completely cleaned after each cremation or alkaline hydrolysis;</text>
       </para>
       <para>
         <num>(4)</num>
-        <text>There may not be co-mingling of human remains and pet remains in refrigeration units or cremation machinery;</text>
-      </para>
-      <para>
-        <num>(5)</num>
-        <text>Separate cremators shall be dedicated for the cremation of human remains and the cremation of pets;</text>
-      </para>
-      <para>
-        <num>(6)</num>
-        <text>There may not be:</text>
+        <text>There may not be co-mingling of human remains and pet remains in:</text>
         <para>
           <num>(a)</num>
-          <text>Co-mingling of cremated human cremated human remains with other human or pet cremated human remains;</text>
+          <text>Refrigeration units;</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Scooping of cremated human remains from a bucket containing co-mingled cremated human remains; or</text>
+          <text>Cremators; or</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>Any form of misrepresentation in the return of cremated human remains;</text>
+          <text>Alkaline hydrolysis units;</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Separate cremators or alkaline hydrolysis units shall be dedicated for the cremation or alkaline hydrolysis of human remains and the cremation or alkaline hydrolysis of pets;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Except as provided in <cite path="10|29|18|.02|E.|(2)">§E(2) of this regulation</cite>, there may not be:</text>
+        <para>
+          <num>(a)</num>
+          <text>Co-mingling mingling of processed human remains with other processed human remains or pet remains;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Scooping of processed human remains from a bucket containing co-mingled processed human remains</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Any form of misrepresentation in the return of processed human remains;</text>
         </para>
       </para>
       <para>
         <num>(7)</num>
-        <text>Excluding a deceased person with a known communicable infection, human remains shall be properly identified before cremation by verifying that the documentation accompanying the human remains is consistent with a visual observation of the human remains;</text>
+        <text>Excluding a deceased person with a known communicable infection, human remains shall be properly identified before cremation or alkaline hydrolysis by verifying that the documentation accompanying the human remains is consistent with a visual observation of the human remains;</text>
       </para>
       <para>
         <num>(8)</num>
@@ -90,20 +106,20 @@
         <text>Each crematory shall have:</text>
         <para>
           <num>(a)</num>
-          <text>A sink with hot and cold water within the room housing the cremator; and</text>
+          <text>A sink with hot and cold water within the work area housing the crematory equipment; and</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>The equipment necessary to thoroughly clean the floor within the room housing the cremator with water and an appropriate sanitizing agent;</text>
+          <text>The tools necessary to thoroughly clean the floor within the work area housing the crematory equipment with water and an appropriate sanitizing agent;</text>
         </para>
       </para>
       <para>
         <num>(10)</num>
-        <text>The name of the deceased shall be visible on the outside of the cremation container;</text>
+        <text>The name of the deceased shall be visible on the outside of the crematory container;</text>
       </para>
       <para>
         <num>(11)</num>
-        <text>Human remains shall be properly stored before cremation;</text>
+        <text>Human remains shall be properly stored before cremation or alkaline hydrolysis;</text>
       </para>
       <para>
         <num>(12)</num>
@@ -114,24 +130,24 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>Pulverize the cremated human remains with a mortar and pestle if the cremated human remains are not sufficient in amount for pulverizing in mechanical equipment;</text>
+          <text>Pulverize the processed human remains with a mortar and pestle if the processed human remains are not sufficient in amount for pulverizing in mechanical equipment;</text>
         </para>
       </para>
       <para>
         <num>(13)</num>
-        <text>Separate pulverizing drums shall be dedicated for cremated human remains and cremated pet remains;</text>
+        <text>Separate pulverizing drums shall be dedicated for processed human remains and processed pet remains;</text>
       </para>
       <para>
         <num>(14)</num>
-        <text>Cremated human remains may not be held pending payment of any fees;</text>
+        <text>Processed human remains may not be held pending payment of any fees;</text>
       </para>
       <para>
         <num>(15)</num>
-        <text>Within 6 months of the effective date of these regulations, cremators without safety devices that prevent the automatic door from dropping prematurely shall be retrofitted with such safety devices;</text>
+        <text>Within 6 months of the effective date of these regulations, cremators without safety devices that prevent the automatic door from dropping unintentionally shall be retrofitted with such safety devices;</text>
       </para>
       <para>
         <num>(16)</num>
-        <text>Portable fans may not be used in the area of the cremator and pulverizer;</text>
+        <text>Portable fans may not be used in the area of the cremator;</text>
       </para>
       <para>
         <num>(17)</num>
@@ -147,19 +163,39 @@
       </para>
       <para>
         <num>(20)</num>
-        <text>The permit holder or registered crematory operator shall be present at the crematory during regular business hours; and</text>
+        <text>The permit holder or registered crematory operator shall be present at the crematory during the operation of the:</text>
+        <para>
+          <num>(a)</num>
+          <text>Cremator;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Alkaline hydrolysis unit; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Pulverizer; and</text>
+        </para>
       </para>
       <para>
         <num>(21)</num>
-        <text>All individuals who operate the cremator in a crematory shall be certified by the Cremation Association of North America (CANA), International Cemetery, Cremation and Funeral Association (ICCFA), or other equivalent certification recognized jointly by the Board and the Office. Individuals receiving training toward certification to operate a cremator shall be allowed to work under the supervision of a registered crematory operator who has the required certification for a period not to exceed 6 months.</text>
+        <text>All individuals:</text>
+        <para>
+          <num>(a)</num>
+          <text>Who operate the cremator or the alkaline hydrolysis unit in a crematory shall be certified by the Cremation Association of North America (CANA), International Cemetery, Cremation, and Funeral Association (ICCFA), or other equivalent certification recognized jointly by the Board and the Office; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Receiving training toward certification to operate a cremator or an alkaline hydrolysis unit shall be allowed to work under the supervision of a registered crematory operator who has the required certification for a period of at least 6 months.</text>
+        </para>
       </para>
     </para>
     <para>
-      <num>E.</num>
-      <text>The following completed forms from previous cremations shall be available at all times for inspection and copying and are subject to be pulled at random by the inspector:</text>
+      <num>F.</num>
+      <text>The following completed forms from previous cremations or alkaline hydrolysis shall be available at all times for inspection and copying and are subject to be pulled at random by the inspector:</text>
       <para>
         <num>(1)</num>
-        <text>Cremation authorization form;</text>
+        <text>Crematory services authorization form;</text>
       </para>
       <para>
         <num>(2)</num>
@@ -175,23 +211,23 @@
       </para>
       <para>
         <num>(5)</num>
-        <text>Record of cremation;</text>
+        <text>Record of cremation or alkaline hydrolysis;</text>
       </para>
       <para>
         <num>(6)</num>
-        <text>Certificate of cremation; and</text>
+        <text>Certificate of cremation or alkaline hydrolysis; and</text>
       </para>
       <para>
         <num>(7)</num>
-        <text>Return of cremated human remains certificate.</text>
+        <text>Return of processed human remains certificate.</text>
       </para>
     </para>
     <para>
-      <num>F.</num>
+      <num>G.</num>
       <text>Inspection results shall be written on forms approved by the Board.</text>
     </para>
     <para>
-      <num>G.</num>
+      <num>H.</num>
       <text>The Board representative performing the inspection shall, on completion of the inspection:</text>
       <para>
         <num>(1)</num>
@@ -203,15 +239,15 @@
       </para>
     </para>
     <para>
-      <num>H.</num>
+      <num>I.</num>
       <text>The permit holder or representative of the permit holder shall sign and verify receipt of the inspection report.</text>
     </para>
     <para>
-      <num>I.</num>
+      <num>J.</num>
       <text>At the time of the Board inspection, the permit holder shall provide written documentation to the Board’s inspector that:</text>
       <para>
         <num>(1)</num>
-        <text>The cremator has been inspected in accordance with manufacturer specifications;</text>
+        <text>The crematory equipment has been inspected in accordance with manufacturer specifications;</text>
       </para>
       <para>
         <num>(2)</num>
@@ -219,10 +255,12 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>The permit holder has requested that the manufacturer conduct an inspection of the cremator.</text>
+        <text>The permit holder has requested that the manufacturer conduct an inspection of the crematory equipment.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-05-05" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|final|25-320-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -234,7 +272,7 @@
     </para>
     <para>
       <num>B.</num>
-      <text>The Board shall notify the permit holder of the results of the inspection by providing a copy of the inspection report to the permit holder.</text>
+      <text>The Board shall notify the permit holder of the results of the inspection by providing a copy of the inspection report for the permit holder.</text>
     </para>
     <para>
       <num>C.</num>
@@ -277,7 +315,7 @@
       </para>
       <para>
         <num>(6)</num>
-        <text>Upon notification by the permit holder, a representative of the Board shall re-inspect the crematory.</text>
+        <text>Upon notification from the permit holder, a representative of the Board shall re-inspect the crematory.</text>
       </para>
       <para>
         <num>(7)</num>
@@ -308,7 +346,9 @@
         <text>Provide the permit holder an opportunity to be heard.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-05-05" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|final|25-320-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -348,25 +388,55 @@
       <text>Pursuant to the provisions of Health Occupations Article, §§<cite doc="Md. Code" path="gho|7-316">7-316</cite> and <cite doc="Md. Code" path="gho|7-319">7-319</cite>, Annotated Code of Maryland, the Board may:</text>
       <para>
         <num>(1)</num>
-        <text>Deny a crematory permit or crematory operator registration to an applicant;</text>
+        <text>Deny an applicant:</text>
+        <para>
+          <num>(a)</num>
+          <text>A crematory permit; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A crematory operator registration;</text>
+        </para>
       </para>
       <para>
         <num>(2)</num>
-        <text>Reprimand any permit holder or registered crematory operator; or</text>
+        <text>Reprimand any:</text>
+        <para>
+          <num>(a)</num>
+          <text>Permit holder; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Registered crematory operator; or</text>
+        </para>
       </para>
       <para>
         <num>(3)</num>
-        <text>Suspend or revoke a crematory permit or crematory operator registration.</text>
+        <text>Suspend or revoke:</text>
+        <para>
+          <num>(a)</num>
+          <text>A crematory permit; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A crematory operator registration.</text>
+        </para>
       </para>
     </para>
     <para>
       <num>B.</num>
       <text>Pursuant to the provisions of <cite doc="Md. Code" path="gho|7-317">Health Occupations Article, §7-317, Annotated Code of Maryland</cite>, if the Board, after bringing an action, finds that there are grounds for probation, suspension, or revocation, the Board may impose a penalty not exceeding $5,000.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-05-05" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|final|25-320-F" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|7-101">7-101</cite>, <cite doc="Md. Code" path="gho|7-102">7-102</cite>, <cite doc="Md. Code" path="gho|7-205">7-205</cite>, <cite doc="Md. Code" path="gho|7-316">7-316</cite>, <cite doc="Md. Code" path="gho|7-317">7-317</cite>, <cite doc="Md. Code" path="gho|7-319">7-319</cite>, and <cite doc="Md. Code" path="gho|7-406">7-406</cite>, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">Health-General Article, §§5-502—5-504, 5-508, and 5-511—5-514; Health Occupations Article, §§<cite doc="Md. Code" path="gho|7-101">7-101</cite>, <cite doc="Md. Code" path="gho|7-102">7-102</cite>, <cite doc="Md. Code" path="gho|7-205">7-205</cite>, <cite doc="Md. Code" path="gho|7-316">7-316</cite>, <cite doc="Md. Code" path="gho|7-317">7-317</cite>, <cite doc="Md. Code" path="gho|7-319">7-319</cite>, and <cite doc="Md. Code" path="gho|7-406">7-406</cite>, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-04-14">Effective date: April 14, 2014 (41:7 Md. R. 421)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-11"><cite path="|10|29|18|.02">Regulation .02</cite> amended effective May 11, 2026 (53:9 Md. R. 413)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-11"><cite path="|10|29|18|.03|B.">Regulation .03B</cite>, E amended effective May 11, 2026 (53:9 Md. R. 413)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-11"><cite path="|10|29|18|.06|A.">Regulation .06A</cite> amended effective May 11, 2026 (53:9 Md. R. 413)</annotation>
+    <annotation app="2026-05-05" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|final|25-320-F" type="History" display="false"/>
   </annotations>
 </container>

@@ -2,13 +2,15 @@
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>Chapter</prefix>
   <num>19</num>
-  <heading>Crematories — Cremation Procedures</heading>
+  <heading>Crematories — Crematory Procedures<annotation app="2026-05-05" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|final|25-320-F" type="History" display="false"/></heading>
   <section>
     <prefix>Regulation</prefix>
     <num>.01</num>
     <heading>Scope.</heading>
-    <text>This chapter governs the procedures to be followed in performing a cremation in this State.</text>
-    <annotations/>
+    <text>This chapter governs the procedures to be followed in performing a cremation or alkaline hydrolysis in this State.</text>
+    <annotations>
+      <annotation app="2026-05-05" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|final|25-320-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -39,11 +41,23 @@
       </para>
       <para>
         <num>(4)</num>
-        <text>Remove and properly dispose of any hazardous object or any other materials that the individual authorized under this subtitle deems should be removed from the human remains or cremation container in order to prevent harm to the public health or damage to the cremator;</text>
+        <text>Ensure the removal and properly dispose of any hazardous object or any other materials that the individual authorized under this subtitle deems should be removed from the human remains, the crematory container, or the hydrolysis container, in order to prevent harm to the public health or damage to the cremator or alkaline hydrolysis unit;</text>
       </para>
       <para>
         <num>(5)</num>
-        <text>Remove any jewelry on the human remains or in the cremation container;</text>
+        <text>Remove any jewelry:</text>
+        <para>
+          <num>(a)</num>
+          <text>On the human remains;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>In the crematory container; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>In the hydrolysis container;</text>
+        </para>
       </para>
       <para>
         <num>(6)</num>
@@ -96,56 +110,87 @@
     </para>
     <para>
       <num>D.</num>
-      <text>A permit holder may not accept for cremation unidentified human remains.</text>
+      <text>A permit holder may not accept unidentified human remains for cremation or alkaline hydrolysis.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-05-05" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|final|25-320-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.03</num>
-    <heading>Cremation Containers.</heading>
-    <text>A cremation container:</text>
+    <heading>Crematory and Hydrolysis Containers.</heading>
     <para>
       <num>A.</num>
-      <text>Shall be a readily combustible, rigid container suitable for cremation;</text>
-    </para>
-    <para>
-      <num>B.</num>
-      <text>Shall provide a completely enclosed covering for the human remains;</text>
-    </para>
-    <para>
-      <num>C.</num>
-      <text>Shall be resistant to leakage or spillage;</text>
-    </para>
-    <para>
-      <num>D.</num>
-      <text>Shall be of sufficient strength and rigidity for ease of handling;</text>
-    </para>
-    <para>
-      <num>E.</num>
-      <text>Shall provide protection to the health and safety of crematory establishment personnel and the public;</text>
-    </para>
-    <para>
-      <num>F.</num>
-      <text>Shall comply with all local, State, and federal governmental emissions regulations;</text>
-    </para>
-    <para>
-      <num>G.</num>
-      <text>May not be composed of metal or polyethylene material; and</text>
-    </para>
-    <para>
-      <num>H.</num>
-      <text>If it appears to be heavily coated with varnish, lacquer, or any other highly combustible substance, shall be:</text>
+      <text>A crematory container:</text>
       <para>
         <num>(1)</num>
-        <text>Placed in a cold cremator; or</text>
+        <text>Shall be a readily combustible, rigid container suitable for cremation;</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Coated completely with water before being placed in the cremator.</text>
+        <text>Shall provide a completely enclosed covering for the human remains;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Shall be resistant to leakage or spillage;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Shall be of sufficient strength and rigidity for ease of handling;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Shall provide protection to the health and safety of crematory establishment personnel and the public;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Shall comply with all local, State, and federal governmental emissions regulations;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>May not be composed of metal or polyethylene material; and</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Which appears to be heavily coated with varnish, lacquer, or any other highly combustible substance, shall be:</text>
+        <para>
+          <num>(a)</num>
+          <text>Placed in a cold cremator; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Coated completely with water before being placed in the cremator.</text>
+        </para>
       </para>
     </para>
-    <annotations/>
+    <para>
+      <num>B.</num>
+      <text>An alkaline hydrolysis container:</text>
+      <para>
+        <num>(1)</num>
+        <text>Shall consist of a completely enclosed covering for the human remains;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Shall be resistant to leakage or spillage;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Shall provide protection to the health and safety of the crematory establishment personnel and the public;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Shall comply with all local, State, and federal emissions regulations; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Once inside the alkaline hydrolysis unit, may be removed prior to the start of the alkaline hydrolysis process as long as the human remains are covered to protect the dignity of the decedent<em>.</em></text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-05-05" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|final|25-320-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -176,44 +221,58 @@
     <heading>Holding Remains.</heading>
     <para>
       <num>A.</num>
-      <text>Human remains that have been designated for cremation shall be cremated within 48 hours after receipt.</text>
+      <text>Unless prevented by emergency circumstances, human remains that have been designated for cremation or alkaline hydrolysis shall be cremated or hydrolyzed by a permit holder within 48 hours after receipt.</text>
     </para>
     <para>
       <num>B.</num>
-      <text>A permit holder may not hold human remains for cremation unless the human remains are contained within an individual, rigid, stackable, closed cremation container.</text>
+      <text>A permit holder may not hold human remains for cremation or alkaline hydrolysis unless the human remains are contained within an individual, closed cremation or hydrolysis container as required under <cite path="|10|29|19|.03">Regulation .03 of this chapter</cite>.</text>
     </para>
     <para>
       <num>C.</num>
-      <text>A permit holder may not accept a cremation container from which there is any evidence of leakage of the body fluids from the human remains therein.</text>
+      <text>A permit holder may not accept a cremation or alkaline hydrolysis container from which there is any evidence of leakage of the body fluids from the human remains therein.</text>
     </para>
     <para>
       <num>D.</num>
-      <text>Whenever human remains are unable to be cremated within 48 hours of taking custody thereof, the permit holder shall maintain the human remains in a refrigerated holding facility, either on or off site, at 40°F or less, unless the remains have been embalmed.</text>
+      <text>Whenever a permit holder is unable to cremate or hydrolyze human remains within 48 hours of taking custody thereof due to emergency circumstances, the permit holder shall maintain the human remains in a refrigerated holding facility, either on or off site, at 40°F or less, unless the remains have been embalmed.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-05-05" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|final|25-320-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.06</num>
-    <heading>Identification Immediately Before Cremation; Simultaneous Cremation of Multiple Human Remains.</heading>
+    <heading>Identification of Human Remains Immediately Before Cremation or Alkaline Hydrolysis.</heading>
     <para>
       <num>A.</num>
-      <text>Immediately before being placed within the cremation chamber, the individual authorized under this subtitle shall:</text>
+      <text>Immediately before being placed within the cremator or the alkaline hydrolysis unit, the individual authorized under this subtitle shall:</text>
       <para>
         <num>(1)</num>
         <text>Verify the identification of the human remains; and</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Place in the cremator the circular hard metal identification tag of the human remains being cremated where it shall remain in place until the cremation process is complete.</text>
+        <text>Place in or on the cremator or the alkaline hydrolysis unit the hard metal or plastic identification disc of the human remains being processed where it shall remain in place until the cremation or the alkaline hydrolysis process is complete.</text>
       </para>
     </para>
     <para>
       <num>B.</num>
-      <text>The permit holder’s designee may not leave the immediate area of the cremator during the cremation process.</text>
+      <text>The permit holder’s designee may not leave the:</text>
+      <para>
+        <num>(1)</num>
+        <text>Immediate area of the cremator during the cremation process; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Facility for the alkaline hydrolysis unit during the alkaline hydrolysis process.</text>
+      </para>
     </para>
     <para>
       <num>C.</num>
+      <text>The alkaline hydrolysis unit shall be monitored at all times during the alkaline hydrolysis process.</text>
+    </para>
+    <para>
+      <num>D.</num>
       <text>Records.</text>
       <para>
         <num>(1)</num>
@@ -224,15 +283,17 @@
         <text>The records are subject to inspection and copying by the Board.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-05-05" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|final|25-320-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.07</num>
-    <heading>Cremation Authorization.</heading>
+    <heading>Crematory Services Authorization.</heading>
     <para>
       <num>A.</num>
-      <text>Except as otherwise provided in <cite path="10.29.18.02">COMAR 10.29.18.02</cite>, a permit holder may not cremate human remains until:</text>
+      <text>Except as otherwise provided in <cite path="10.29.18.02">COMAR 10.29.18.02</cite>, a permit holder may not cremate or hydrolyze human remains until:</text>
       <para>
         <num>(1)</num>
         <text>The body has been identified as required under Health Occupation Article, §7-411, Annotated Code of Maryland;</text>
@@ -242,7 +303,7 @@
         <text>The permit holder crematory has received:</text>
         <para>
           <num>(a)</num>
-          <text>A cremation authorization on a form approved by the Board and signed by an authorizing agent;</text>
+          <text>A crematory services authorization on a form approved by the Board and signed by an authorizing agent;</text>
         </para>
         <para>
           <num>(b)</num>
@@ -255,12 +316,12 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>The permit holder has documented that at least 12 hours have elapsed from the time of death of the individual whose remains are to be cremated.</text>
+        <text>The permit holder has documented that at least 12 hours have elapsed from the time of death of the individual prior to beginning cremation or alkaline hydrolysis.</text>
       </para>
     </para>
     <para>
       <num>B.</num>
-      <text>The cremation authorization form shall:</text>
+      <text>The crematory services authorization form shall:</text>
       <para>
         <num>(1)</num>
         <text>Be provided by the permit holder to the authorizing agent;</text>
@@ -270,7 +331,7 @@
         <text>Contain the following information:</text>
         <para>
           <num>(a)</num>
-          <text>The identity of the human remains;</text>
+          <text>The identity of the decedent;</text>
         </para>
         <para>
           <num>(b)</num>
@@ -282,11 +343,23 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>Authorization for the permit holder to cremate the human remains;</text>
+          <text>Authorization for the permit holder to cremate or hydrolyze the human remains;</text>
         </para>
         <para>
           <num>(e)</num>
-          <text>Authorization to verify that the following have been removed before cremation:</text>
+          <text>An indication of whether the decedent is:</text>
+          <para>
+            <num>(i)</num>
+            <text>A veteran, as defined in <cite doc="Md. Code" path="gsg|9-901">State Government Article, § 9-901, Annotated Code of Maryland</cite>; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>An eligible dependent of a veteran, as defined in <cite doc="Md. Code" path="gbr|5-803">Business Regulation Article, §5-803, Annotated Code of Maryland</cite>;</text>
+          </para>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Authorization to verify that the following have been removed before cremation or alkaline hydrolysis:</text>
           <para>
             <num>(i)</num>
             <text>An implanted pacemaker or defibrillator; and</text>
@@ -297,19 +370,19 @@
           </para>
         </para>
         <para>
-          <num>(f)</num>
-          <text>A representation by the authorizing agent that radiologic implant treatment has not occurred within 5 days before cremation;</text>
-        </para>
-        <para>
           <num>(g)</num>
-          <text>A representation that the authorizing agent is aware of no objection to the human remains being cremated by any person who has a right to control the disposition of the human remains;</text>
+          <text>A representation by the authorizing agent that radiologic implant treatment has not occurred within 5 days before cremation or alkaline hydrolysis;</text>
         </para>
         <para>
           <num>(h)</num>
-          <text>The name and address of the person authorized to claim the cremated human remains from the permit holder or to accept the cremated remains via the current mailing standard approved by the U.S. Postal Service; and</text>
+          <text>A representation that the authorizing agent is aware of no objection to the human remains being processed by any person who has a right to control the disposition of the human remains;</text>
         </para>
         <para>
           <num>(i)</num>
+          <text>The name and address of the person authorized to claim the processed human remains from the permit holder or to accept the processed remains via registered mail; and</text>
+        </para>
+        <para>
+          <num>(j)</num>
           <text>The name and address of the crematory to which the authorizing agent has given permission; and</text>
         </para>
       </para>
@@ -320,7 +393,7 @@
     </para>
     <para>
       <num>C.</num>
-      <text>If an authorizing agent is not readily available to execute the cremation authorization form, the authorizing agent may transmit the document in writing with notary seal electronically:</text>
+      <text>If an authorizing agent is not readily available to execute the crematory services authorization form, the authorizing agent may transmit the document in writing with notary seal electronically:</text>
       <para>
         <num>(1)</num>
         <text>In writing; or</text>
@@ -344,21 +417,23 @@
     </para>
     <para>
       <num>E.</num>
-      <text>A person signing a cremation authorization form is deemed to warrant the truthfulness of any facts set forth in the cremation authorization form, including the identity of the deceased whose remains are sought to be cremated and the authority of that person to order such a cremation.</text>
+      <text>A person signing a crematory services authorization form is deemed to warrant the truthfulness of any facts set forth in the crematory services authorization form, including the identity of the deceased whose remains are sought to be processed and the authority of that person to order such a cremation or alkaline hydrolysis.</text>
     </para>
     <para>
       <num>F.</num>
-      <text>A permit holder shall notify and obtain written consent of the authorizing agent before the cremation of human remains at a location other than the location named on the cremation authorization form.</text>
+      <text>A permit holder shall notify and obtain written consent of the authorizing agent before the cremation or the alkaline hydrolysis of human remains at a location other than the location named on the crematory services authorization form.</text>
     </para>
     <para>
       <num>G.</num>
-      <text>A permit holder shall maintain a copy of every cremation authorization form required under this regulation as permanent records.</text>
+      <text>A permit holder shall maintain a copy of every crematory services authorization form required under this regulation as permanent records.</text>
     </para>
     <para>
       <num>H.</num>
-      <text>Cremation authorization records are subject to inspection and copying by the Board.</text>
+      <text>Crematory services authorization records are subject to inspection and copying by the Board.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-05-05" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|final|25-320-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -366,14 +441,14 @@
     <heading>Record of Receipt of Remains.</heading>
     <para>
       <num>A.</num>
-      <text>A permit holder shall provide to an individual who delivers human remains for cremation a receipt signed by both the permit holder authority and the individual who delivered the human remains, that includes the:</text>
+      <text>A permit holder shall provide to an individual who delivers human remains for cremation or alkaline hydrolysis a receipt signed by both the permit holder authority and the individual who delivered the human remains, that includes the:</text>
       <para>
         <num>(1)</num>
         <text>Name of the individual from whom the human remains were received and the name of the individual’s employer, if any;</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Name and address of the crematory authority;</text>
+        <text>Name and address of the crematory;</text>
       </para>
       <para>
         <num>(3)</num>
@@ -381,20 +456,20 @@
       </para>
       <para>
         <num>(4)</num>
-        <text>Gender of deceased;</text>
+        <text>Gender of the deceased;</text>
       </para>
       <para>
         <num>(5)</num>
-        <text>Date of death of deceased; and</text>
+        <text>Date of death of the deceased; and</text>
       </para>
       <para>
         <num>(6)</num>
-        <text>Verification of authorized burial transit permit.</text>
+        <text>Verification of the authorized burial transit permit.</text>
       </para>
     </para>
     <para>
       <num>B.</num>
-      <text>The permit holder shall maintain a record of each cremation, which shall include the:</text>
+      <text>The permit holder shall maintain a record of each cremation or alkaline hydrolysis, which shall include the:</text>
       <para>
         <num>(1)</num>
         <text>Name of the decedent;</text>
@@ -405,7 +480,7 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>Gender of decedent;</text>
+        <text>Gender of the decedent;</text>
       </para>
       <para>
         <num>(4)</num>
@@ -417,16 +492,16 @@
       </para>
       <para>
         <num>(6)</num>
-        <text>Date, time, and location of cremation; and</text>
+        <text>Date, time, and location of cremation or alkaline hydrolysis; and</text>
       </para>
       <para>
         <num>(7)</num>
-        <text>Name of the individual who performed the cremation.</text>
+        <text>Name of the individual who performed the cremation or the alkaline hydrolysis.</text>
       </para>
     </para>
     <para>
       <num>C.</num>
-      <text>The permit holder shall provide a certificate of disposition of cremated human remains to the authorizing agent or funeral establishment that arranged for the cremation that includes the:</text>
+      <text>The permit holder shall provide a certificate of disposition of processed human remains to the authorizing agent or funeral establishment that arranged for the cremation or the alkaline hydrolysis that includes the:</text>
       <para>
         <num>(1)</num>
         <text>Name of the decedent;</text>
@@ -437,7 +512,7 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>Name and address of the person who received the cremated human remains from the crematory authority; and</text>
+        <text>Name and address of the person who received the processed human remains from the permit holder; and</text>
       </para>
       <para>
         <num>(4)</num>
@@ -448,7 +523,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>The manner and date of the disposition of the cremated human remains.</text>
+          <text>The manner and date of the disposition of the processed human remains.</text>
         </para>
       </para>
     </para>
@@ -460,7 +535,9 @@
       <num>E.</num>
       <text>All records and receipts required by this chapter are subject to inspection and copying by the Board.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-05-05" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|final|25-320-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|29|19|.09">
     <prefix>Regulation</prefix>
@@ -499,24 +576,24 @@
   <section>
     <prefix>Regulation</prefix>
     <num>.10</num>
-    <heading>Disposition of Cremated Human Remains.</heading>
+    <heading>Disposition of Processed Human Remains.</heading>
     <para>
       <num>A.</num>
-      <text>On completion of the cremation, insofar as is possible:</text>
+      <text>On completion of the cremation or the alkaline hydrolysis, insofar as is possible:</text>
       <para>
         <num>(1)</num>
-        <text>All of the recoverable residue of the cremation process shall be:</text>
+        <text>All of the recoverable residue of the cremation or the alkaline hydrolysis process shall be:</text>
         <para>
           <num>(a)</num>
-          <text>Removed from the cremator;</text>
+          <text>Removed from the cremator or the alkaline hydrolysis unit;</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Except for medical devices remaining after cremation, processed; and</text>
+          <text>Except for medical devices remaining after cremation or alkaline hydrolysis, pulverized; and</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>Placed in a container; and</text>
+          <text>Placed in a sealable container; and</text>
         </para>
       </para>
       <para>
@@ -524,17 +601,17 @@
         <text>The identification disc required by <cite doc="Md. Code" path="gho|7-411">Health Occupations Article, §7-411, Annotated Code of Maryland</cite>, shall be:</text>
         <para>
           <num>(a)</num>
-          <text>Removed from the cremator; and</text>
+          <text>Removed from the cremator or the alkaline hydrolysis unit; and</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Placed in the container with the cremated human remains.</text>
+          <text>Placed in the sealable container with the processed human remains.</text>
         </para>
       </para>
     </para>
     <para>
       <num>B.</num>
-      <text>Medical devices which remain after the completion of the cremation process shall be treated as medical waste and disposed of accordingly.</text>
+      <text>Medical devices which remain after the completion of the cremation or the alkaline hydrolysis process shall be treated as medical waste and disposed of accordingly.</text>
     </para>
     <para>
       <num>C.</num>
@@ -542,7 +619,7 @@
     </para>
     <para>
       <num>D.</num>
-      <text>If the cremation container opening is not of adequate dimensions to accommodate a disc, it shall be affixed to the container and a record of the cremation number shall be placed in the container.</text>
+      <text>If the sealable container opening is not of adequate dimensions to accommodate a disc, it shall be affixed to the exterior of the sealable container and a record of the cremation number shall be placed in the sealable container.</text>
     </para>
     <para>
       <num>E.</num>
@@ -566,52 +643,123 @@
     </para>
     <para>
       <num>H.</num>
-      <text>If processed human remains have been in the possession of a permit holder, as originally authorized by the authorizing agent without instructions for disposition for a period of 10 days or more from the date of cremation, the permit holder may send the cremated human remains, using the current mailing standard approved by the U.S. Postal Service, return receipt requested, to the authorizing agent.</text>
+      <text>If processed human remains have been in the possession of a permit holder, as originally authorized by the authorizing agent without instructions for disposition for a period of 10 days or more from the date of cremation or alkaline hydrolysis, the permit holder may send the processed human remains, using the current mailing standard approved by the U.S. Postal Service, return receipt requested, to the authorizing agent.</text>
     </para>
-    <annotations/>
+    <para>
+      <num>I.</num>
+      <text>Veteran and Eligible Dependent Decedents.</text>
+      <para>
+        <num>(1)</num>
+        <text>Unless the authorizing agent directs otherwise, if a permit holder in possession of processed remains of a decedent veteran or a decedent eligible dependent, the permit holder shall provide the decedent’s identifying information to a veterans service organization, as defined in <cite doc="Md. Code" path="gbr|5-803">Business Regulation Article, §5-803, Annotated Code of Maryland</cite>.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The veterans service organization will notify the permit holder whether the decedent is a veteran or an eligible dependent eligible for burial in a veterans cemetery.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If the unclaimed processed remains are those of a veteran or an eligible dependent, the permit holder may transfer the processed remains to a veterans service organization for the purpose of disposition of the processed remains.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>If a veterans service organization does not take possession of unclaimed processed remains that qualify for a plot in a State veterans cemetery under <cite doc="Md. Code" path="gsg|9-906">State Government Article, §9-906, Annotated Code of Maryland</cite>, within 10 days after the permit holder receives the notification required in this regulation, the permit holder shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Notify the Department of Veterans and Military Families of the status of the processed remains for the purpose of the appropriate disposition of the processed remains; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Transfer the processed remains to the Department of Veterans and Military Families for the purpose of the appropriate disposition of the processed remains.</text>
+        </para>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-05-05" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|final|25-320-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.11</num>
     <heading>Tools.</heading>
-    <text>A crematory shall maintain at its own expense the following tool inventory:</text>
     <para>
       <num>A.</num>
-      <text>Safety placement tool measuring a minimum of 49 inches in length;</text>
+      <text>A crematory offering cremation shall maintain, at its own expense, the following tool inventory:</text>
+      <para>
+        <num>(1)</num>
+        <text>Safety placement tool measuring a minimum of 49 inches in length;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Wire brushes for cleaning cremators;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Brush with fine bristles for cleaning pulverizers;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Mortar and pestle;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Funnel;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>High temperature protective gloves and heat-resistant leather gloves;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Hand magnet and metal detector wand to detect and remove metal from cremated human remains;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Tweezers to remove nonmetal objects from cremated human remains; and</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>National Institute for Occupational Safety and Health certified N95 filtering facepiece respirators.</text>
+      </para>
     </para>
     <para>
       <num>B.</num>
-      <text>Wire brushes for cleaning cremators;</text>
+      <text>A crematory offering alkaline hydrolysis shall maintain, at its own expense, the following tool inventory:</text>
+      <para>
+        <num>(1)</num>
+        <text>Suitable tools for cleaning the alkaline hydrolysis unit;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Brush with fine bristles for cleaning pulverizers;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Mortar and pestle;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Funnel;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Hand magnet and metal detector wand to detect and remove metal from hydrolyzed human remains;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Tweezers to remove nonmetal objects from hydrolyzed human remains;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>National Institute for Occupational Safety and Health certified N95 filtering facepiece respirators; and</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>An emergency shower and eyewash combination unit meeting the criteria established under the American National Standards Institute and the International Safety Equipment Association Z358.1-2014 (R2020) or its successor.</text>
+      </para>
     </para>
-    <para>
-      <num>C.</num>
-      <text>Brush with fine bristles for cleaning pulverizers;</text>
-    </para>
-    <para>
-      <num>D.</num>
-      <text>Mortar and pestle;</text>
-    </para>
-    <para>
-      <num>E.</num>
-      <text>Funnel;</text>
-    </para>
-    <para>
-      <num>F.</num>
-      <text>High temperature protective gloves and heat resistant leather gloves;</text>
-    </para>
-    <para>
-      <num>G.</num>
-      <text>Hand magnet and metal detector wand to detect and remove metal from cremated human remains;</text>
-    </para>
-    <para>
-      <num>H.</num>
-      <text>Tweezers to remove nonmetal objects from cremated human remains; and</text>
-    </para>
-    <para>
-      <num>I.</num>
-      <text>Dust masks.</text>
-    </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-05-05" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|final|25-320-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|29|19|.12">
     <prefix>Regulation</prefix>
@@ -619,10 +767,10 @@
     <heading>Visitors.</heading>
     <para>
       <num>A.</num>
-      <text>The permit holder or designated crematory operator shall:</text>
+      <text>The permit holder or the designated crematory operator shall:</text>
       <para>
         <num>(1)</num>
-        <text>Submit to the Board the number of persons not affiliated with the operations of the crematory who can safely be within the same room and within 10 feet of the cremator door; and</text>
+        <text>Submit to the Board the number of persons not affiliated with the operations of the crematory who can safely be within the same room and within 10 feet of the cremator door or the alkaline hydrolysis unit; and</text>
       </para>
       <para>
         <num>(2)</num>
@@ -633,10 +781,18 @@
       <num>B.</num>
       <text>Crematories that begin operation after July 1, 2014, shall construct a viewing room in the area of the cremator if the crematory intends to have more than two visitors present in the area of the cremator during the cremation.</text>
     </para>
-    <annotations/>
+    <para>
+      <num>C.</num>
+      <text>Crematories providing alkaline hydrolysis shall construct a viewing room in the area of the alkaline hydrolysis unit if the crematory intends to have more than two visitors present in the area of the alkaline hydrolysis unit during the alkaline hydrolysis.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-05-05" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|final|25-320-F" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|7-101">7-101</cite>, <cite doc="Md. Code" path="gho|7-102">7-102</cite>, and <cite doc="Md. Code" path="gho|7-205">7-205</cite>, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">Health-General Article, §§5-502—5-504, 5-508, and 5-511—5-514<em>; </em>Health Occupations Article, §§<cite doc="Md. Code" path="gho|7-101">7-101</cite>, <cite doc="Md. Code" path="gho|7-102">7-102</cite>, and <cite doc="Md. Code" path="gho|7-205">7-205</cite>, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-04-14">Effective date: April 14, 2014 (41:7 Md. R. 421)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-11">Chapter revised effective May 11, 2026 (53:9 Md. R. 413)</annotation>
+    <annotation app="2026-05-05" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|final|25-320-F" type="History" display="false"/>
   </annotations>
 </container>

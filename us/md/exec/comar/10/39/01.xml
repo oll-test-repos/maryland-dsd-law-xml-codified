@@ -2,10 +2,194 @@
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>Chapter</prefix>
   <num>01</num>
-  <heading>Certification of Nursing Assistants</heading>
-  <section>
+  <heading>Certified Nursing Assistants<annotation app="2026-04-03" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|emergency|26-016-E" type="History" display="false" exp="2026-09-30"/></heading>
+  <section cache:ref-path="10|39|01|.01">
     <prefix>Regulation</prefix>
     <num>.01</num>
+    <heading>0 Expiration and Renewal.</heading>
+    <para>
+      <num>A.</num>
+      <text>Expiration.</text>
+      <para>
+        <num>(1)</num>
+        <text>Unless renewed for an additional two-year term, and except as otherwise provided in <cite path="10|39|01|.01|A.|(2)">§A(2) of this regulation</cite>, a certificate expires in accordance with the following schedule:</text>
+        <para>
+          <num>(a)</num>
+          <text>The certificate of a certificate holder with an odd-numbered birth year expires on the 28th day of the certificate holder’s birth month in an odd-numbered year; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The certificate of a certificate holder with an even-numbered birth year expires on the 28th day of the certificate holder’s birth month in an even-numbered year.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A certificate shall not expire within 180 calendar days of the date of issuance.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Renewal Notice.</text>
+      <para>
+        <num>(1)</num>
+        <text>At least 3 months before a certificate expires, the Board shall send the certificate holder a renewal notice by either:</text>
+        <para>
+          <num>(a)</num>
+          <text>First-class mail to the last known address of the certificate holder; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Electronic means to the last known electronic address of the certificate holder.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The renewal notice shall provide:</text>
+        <para>
+          <num>(a)</num>
+          <text>The date on which the certificate holder’s certificate is scheduled to expire;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The date by which the Board must receive a renewal application in order for a certificate to remain active until the renewal application submitted by the certificate holder is processed by the Board, in accordance with <cite doc="Md. Code" path="gsg|10-226">State Government Article, §10-226(b), Annotated Code of Maryland</cite>;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The amount of the renewal fee; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>If the certificate holder is required to submit to a CHRC in accordance with <cite path="10|39|01|.01|D.">§D of this regulation</cite>:</text>
+          <para>
+            <num>(i)</num>
+            <text>Notice that the certificate holder must submit to a CHRC in order to renew the certificate; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Written instructions for how to complete a CHRC.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>It is the responsibility of the certificate holder to:</text>
+        <para>
+          <num>(a)</num>
+          <text>Be aware of the expiration date of the certificate; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Renew the certificate before it expires.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Failure of a certificate holder to receive the renewal notice sent by the Board does not relieve the certificate holder of the responsibility to renew a certificate before it expires.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Renewal Requirements.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Board shall renew a certificate if the individual applying for renewal:</text>
+        <para>
+          <num>(a)</num>
+          <text>Is otherwise entitled to be certified;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Submits a complete application for renewal on the form required by the Board;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Pays the renewal fee;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Provides satisfactory evidence, as required by the Board, of16 hours of active employment, for compensation, as a nursing assistant within the 2-year period immediately preceding the date of expiration or meet the requirements under <cite path="10|39|01|.01|C.|(2)">§C(2) of this regulation</cite>; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>If required to submit to a CHRC in accordance with § D of this regulation, complies with the requirements of <cite path="|10|39|01|.04|A.">Regulation .04A of this chapter</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If the individual applying for renewal does not have 16 hours of active employment as a nursing assistant within the 2-year period immediately preceding the date of individual the individual shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>If a CNA-I, take and pass a nursing assistant competency evaluation; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If a CNA-II, complete a nursing assistant training program..</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Schedule for CHRCs. CHRCs for renewal applicants shall be scheduled according to the certificate holder’s birth month as follows:</text>
+      <para>
+        <num>(1)</num>
+        <text>In 2025 — all applicants with an August or September birth month;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>In 2026 — all applicants with a September or October birth month;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>In 2027 — all applicants with an October or November birth month;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>In 2028 — all applicants with a November or December birth month;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>In 2029 — all applicants with a December or January birth month;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>In 2030 — all applicants with a January or February birth month;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>In 2031 — all applicants with a February or March birth month;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>In 2032 — all applicants with a March or April birth month;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>In 2033 — all applicants with an April or May birth month;</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>In 2034 — all applicants with a May or June birth month;</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>In 2035 — all applicants with a June or July birth month; and</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>In 2036 — all applicants with a July or August birth month.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Grace Period. A certificate holder has a 30 calendar    day grace period beyond the expiration date of the certificate to renew the certificate.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-04-03" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|emergency|26-016-E" type="History" display="false" exp="2026-09-30"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
     <heading>Definitions.</heading>
     <para>
       <num>A.</num>
@@ -16,114 +200,148 @@
       <text>Terms Defined.</text>
       <para>
         <num>(1)</num>
-        <text>“Board” means the Maryland Board of Nursing.</text>
+        <text>“Acute care nursing assistant training program” means a course of training that meets the acute care nursing assistant training program curriculum approved by the Board.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>“Central Repository” means the Maryland Criminal Justice Information System Central Repository of the Department of Public Safety and Correctional Services.</text>
+        <text>“Board” means the Maryland Board of Nursing.</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>“Certificate” means a certificate issued by the Board to practice as a certified nursing assistant in this State.</text>
+        <text>“Central Repository” means the Maryland Criminal Justice Information System Central Repository of the Department of Public Safety and Correctional Services.</text>
       </para>
       <para>
         <num>(4)</num>
-        <text>Certified Nursing Assistant (CNA).</text>
-        <para>
-          <num>(a)</num>
-          <text>“Certified nursing assistant (CNA)” means an individual, regardless of title, who routinely performs nursing tasks delegated by a registered nurse (RN) or licensed practical nurse (LPN) for compensation.</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>“Certified nursing assistant (CNA)” does not include:</text>
-          <para>
-            <num>(i)</num>
-            <text>A medication technician; or</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>An individual who merely provides assistance with activities of daily living unless the client's needs are such that adverse health consequences are predictable.</text>
-          </para>
-        </para>
+        <text>“Certificate” means a certificate issued by the Board to practice as a certified nursing assistant in the State.</text>
       </para>
       <para>
         <num>(5)</num>
-        <text>“CFR” means the Code of Federal Regulations.</text>
+        <text>Certified Nursing Assistant (CNA).</text>
+        <para>
+          <num>(a)</num>
+          <text>“Certified nursing assistant (CNA)” means an individual, regardless of title, who, for compensation and subject to regulations adopted by the Board, routinely performs:</text>
+          <para>
+            <num>(i)</num>
+            <text>Nursing tasks delegated by a registered nurse, licensed practical nurse, or advanced practice registered nurse; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Technical tasks delegated by a licensed certified midwife.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Certified nursing assistant (CNA)” does not include dialysis technician or medication technician.</text>
+        </para>
       </para>
       <para>
         <num>(6)</num>
-        <text>“Criminal history records check” means the performance of both a State criminal history check by the Central Repository and a national criminal history check performed by the Federal Bureau of Investigation (FBI).</text>
+        <text>Certified Nursing Assistant-I (CNA-I).</text>
+        <para>
+          <num>(a)</num>
+          <text>“Certified nursing assistant-I (CNA-I)” means a CNA who:</text>
+          <para>
+            <num>(i)</num>
+            <text>Meets the requirements set by the Board and federal law; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>May practice in any practice setting.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Certified nursing assistant-I (CNA-I)” includes a:</text>
+          <para>
+            <num>(i)</num>
+            <text>CNA who was certified as a geriatric nursing assistant on March 31, 2026;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Certified medicine aide; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>CNA who is certified under <cite doc="Md. Code" path="gho|8-6">Health Occupations Article, §8-6</cite>A-05(c)(5), Annotated Code of Maryland.</text>
+          </para>
+        </para>
       </para>
       <para>
         <num>(7)</num>
-        <text>“Criminal history records information” means information provided by the criminal history records check regarding an applicant's criminal arrests, charges, and convictions and other dispositions of criminal charges.</text>
+        <text>“Certified nursing assistant-II (CNA-II)” means a CNA who:</text>
+        <para>
+          <num>(a)</num>
+          <text>On March 31, 2026, was certified as a CNA but not certified as a geriatric nursing assistant; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>May not practice in a nursing facility or skilled nursing facility.</text>
+        </para>
       </para>
       <para>
         <num>(8)</num>
-        <text>“Geriatric nursing assistant (GNA)” means a CNA who has successfully completed the requirements for a GNA set forth in 42 CFR §§483.151—483.156 and <cite path="10.07.02.39">COMAR 10.07.02.39</cite>—.42.</text>
+        <text>“Criminal history records check (CHRC)” means the performance of both a State criminal history records check by the Central Repository and a national criminal history records check performed by the Federal Bureau of Investigation (FBI).</text>
       </para>
       <para>
         <num>(9)</num>
-        <text>“Geriatric nursing assistant competency examination (GNA-CE)” means an examination approved by the Board that meets the requirements of 42 CFR §§483.151—483.156 to determine entry-level competence for a GNA.</text>
+        <text>“Criminal history record information” means information provided by the criminal history records check regarding an applicant’s criminal arrests, charges, and convictions and other dispositions of criminal charges.</text>
       </para>
       <para>
         <num>(10)</num>
-        <text>“Home health aide (HHA)” means a CNA who has successfully completed the requirements for certification as an HHA set forth in:</text>
-        <para>
-          <num>(a)</num>
-          <text>42 CFR §484.36;</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text><cite path="10.07.02.43">COMAR 10.07.02.43</cite> and .44; and</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text><cite path="10.39.01.09">COMAR 10.39.01.09</cite>.</text>
-        </para>
+        <text>“Good standing” means without an encumbrance that limits or restricts practice, such as revocation, suspension, or probation.</text>
       </para>
       <para>
         <num>(11)</num>
-        <text>“Licensed practical nurse (LPN)” means an individual who:</text>
+        <text>“Nursing assistant competency evaluation” means an examination approved by the Board that:</text>
         <para>
           <num>(a)</num>
-          <text>Is licensed by the Board to practice licensed practical nursing; or</text>
+          <text>Determines the competency of the individual to practice as a CNA-I; and</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Has a multistate licensure privilege to practice licensed practical nursing.</text>
+          <text>Meets the requirements under federal law.</text>
         </para>
       </para>
       <para>
         <num>(12)</num>
-        <text>“Maryland Geriatric Nursing Assistant Registry (MGNAR)” means the registry maintained by the State in compliance with 42 CFR §483.156.</text>
+        <text>“Nursing assistant training program” means a course of training approved by the Board that meets the requirements under federal and State law.</text>
       </para>
       <para>
         <num>(13)</num>
-        <text>“Medication technician (MT)” means an individual who has completed the 20-hour medication administration course approved by the Board.</text>
+        <text>“Service member” has the meaning stated in <cite doc="Md. Code" path="gsg|9-901">State Government Article, §9-901, Annotated Code of Maryland</cite>.</text>
       </para>
       <para>
         <num>(14)</num>
-        <text>“Multistate licensure privilege” has the meaning set forth in <cite path="10.27.01.01|B.">COMAR 10.27.01.01B</cite>.</text>
+        <text>“Temporary nurse aide” means an individual who practiced as a geriatric nursing assistant without certification during the national Coronavirus Disease 2019 (COVID-19) Public Health Emergency, as declared on January 31, 2020, and periodically continued by the United States Secretary of Health and Human Services, pursuant to the waiver of the requirements of 42 CFR §483.35(d) issued by the Centers for Medicare and Medicaid Services on March 6, 2020.</text>
       </para>
       <para>
         <num>(15)</num>
-        <text>“Registered nurse (RN)” means an individual who:</text>
+        <text>“Technical task” means a routine clinical act or task that does not require clinical judgment and is performed with the supervision as specified in <cite path="|10.69.02">COMAR 10.69.02</cite>.</text>
+      </para>
+      <para>
+        <num>(16)</num>
+        <text>“Temporary nurse aide training” means an 8-hour online training and examination program offered by:</text>
         <para>
           <num>(a)</num>
-          <text>Is licensed by the Board to practice registered nursing; or</text>
+          <text>The American Health Care Association;</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Has a multistate licensure privilege to practice registered nursing.</text>
+          <text>The National Center for Assisted Living; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Another comparable program approved by the Board.</text>
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-04-03" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|emergency|26-016-E" type="History" display="false" exp="2026-09-30"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
-    <num>.02</num>
+    <num>.03</num>
     <heading>Fees.</heading>
     <para>
       <num>A.</num>
@@ -157,11 +375,13 @@
       <num>B.</num>
       <text>Fees are not refundable.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-04-03" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|emergency|26-016-E" type="History" display="false" exp="2026-09-30"/>
+    </annotations>
   </section>
-  <section cache:ref-path="10|39|01|.03">
+  <section cache:ref-path="10|39|01|.04">
     <prefix>Regulation</prefix>
-    <num>.03</num>
+    <num>.04</num>
     <heading>General Provisions for Applications.</heading>
     <para>
       <num>A.</num>
@@ -172,11 +392,11 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>To a criminal history records check (CHRC) in accordance with <cite doc="Md. Code" path="gho|8">Health Occupations Article, §8</cite>–303, Annotated Code of Maryland;</text>
+        <text>To a CHRC in accordance with <cite doc="Md. Code" path="gho|8-303">Health Occupations Article, §8-303, Annotated Code of Maryland</cite>;</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>Written evidence satisfactory to the Board that the applicant has submitted to a CHRC as required by <cite path="10|39|01|.03|A.|(2)">§A(2) of this regulation</cite> by submitting:</text>
+        <text>Written evidence satisfactory to the Board that the applicant has submitted to a CHRC as required by <cite path="10|39|01|.04|A.|(2)">§A(2) of this regulation</cite> by submitting:</text>
         <para>
           <num>(a)</num>
           <text>Two sets of fingerprints, as required by the Central Repository and the FBI; and</text>
@@ -191,7 +411,7 @@
         <text>Any documentation requested from the applicant by the Board including, but not limited to, official certified or true test court documents and a signed, dated explanation written by the applicant, regarding the facts and circumstances, outcome, and current status of any criminal history record information received by the Board:</text>
         <para>
           <num>(a)</num>
-          <text>Under <cite path="10|39|01|.03|A.|(2)">§A(2) of this regulation</cite>;</text>
+          <text>Under <cite path="10|39|01|.04|A.|(2)">§A(2) of this regulation</cite>;</text>
         </para>
         <para>
           <num>(b)</num>
@@ -204,128 +424,360 @@
       </para>
       <para>
         <num>(5)</num>
-        <text>Any additional documentation requested by the Board if the documentation received from the applicant under <cite path="10|39|01|.03|A.|(4)">§A(4) of this regulation</cite> is incomplete or insufficient.</text>
+        <text>Any additional documentation requested by the Board if the documentation received from the applicant under <cite path="10|39|01|.04|A.|(4)">§A(4) of this regulation</cite> is incomplete or insufficient.</text>
       </para>
     </para>
     <para>
       <num>B.</num>
-      <text>If an application is not complete when initially submitted to the Board by the applicant, the applicant shall have no longer than 12 months from the date the application is received by the Board to complete the application and provide all information and documents required in <cite path="10|39|01|.03|A.">§A of this regulation</cite>.</text>
+      <text>If an application is not complete when initially submitted to the Board by the applicant, the applicant shall have no longer than 12 months from the date the application is received by the Board to complete the application and provide all information and documents required in <cite path="10|39|01|.04|A.">§A of this regulation</cite>.</text>
     </para>
     <para>
       <num>C.</num>
-      <text>If an applicant fails to provide to the Board a complete application and any additional documentation requested by the Board under <cite path="10|39|01|.03|A.">§A of this regulation</cite> within 12 months from the date the application is received by the Board, then the application shall be considered abandoned and may be destroyed.</text>
+      <text>If an applicant fails to provide to the Board a complete application and any additional documentation requested by the Board under <cite path="10|39|01|.04|A.">§A of this regulation</cite> within 12 months from the date the application is received by the Board, then the application shall be considered abandoned and may be destroyed.</text>
     </para>
     <para>
       <num>D.</num>
-      <text>Once an application is deemed abandoned under <cite path="10|39|01|.03|C.">§C of this regulation</cite>, an individual seeking CNA certification shall submit a new application on the form required by the Board and meet all of the requirements for CNA certification and pay the required fees that are in effect at the time of re-application.</text>
+      <text>Once an application is deemed abandoned under <cite path="10|39|01|.04|C.">§C of this regulation</cite>, an individual seeking CNA certification shall submit a new application on the form required by the Board and meet all of the requirements for CNA certification and pay the required fees that are in effect at the time of re-application.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-04-03" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|emergency|26-016-E" type="History" display="false" exp="2026-09-30"/>
+    </annotations>
   </section>
-  <section>
+  <section cache:ref-path="10|39|01|.05">
     <prefix>Regulation</prefix>
-    <num>.04</num>
-    <heading>Qualifications of Applicants for Certification.</heading>
+    <num>.05</num>
+    <heading>Qualifications for Certification.</heading>
     <para>
       <num>A.</num>
-      <text>An applicant for nursing assistant certification shall provide satisfactory evidence of completing a CNA program that:</text>
+      <text>Initial Certification. An applicant for initial nursing assistant certification shall have successfully:</text>
       <para>
         <num>(1)</num>
-        <text>Is approved by the Board; or</text>
+        <text>Completed:</text>
+        <para>
+          <num>(a)</num>
+          <text>An approved nursing assistant training program;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>An approved acute care nursing assistant training program;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A portion of an approved nursing education program that has been determined by the Board to meet the requirements of a nursing assistant training program set by the Board; or</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Service member training and education that has been determined by the Board to be substantially equivalent to a nursing assistant training program approved by the Board in accordance with <cite doc="Md. Code" path="gho|1-702">Health Occupations Article, §1-702, Annotated Code of Maryland</cite>; and</text>
+        </para>
       </para>
       <para>
         <num>(2)</num>
-        <text>In another state or territory meets the standards for an approved CNA training program established by the Board.</text>
+        <text>Passed a nursing assistant competency evaluation.</text>
       </para>
     </para>
     <para>
       <num>B.</num>
-      <text>An applicant for nursing assistant certification shall be 16 years old or older.</text>
+      <text>Certification by Endorsement. An applicant for nursing assistant certification by endorsement shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Hold a certificate to practice as a nursing assistant that:</text>
+        <para>
+          <num>(a)</num>
+          <text>Was issued by another state or territory of the United States that has certification requirements that are essentially similar to those set forth in <cite doc="Md. Code" path="gho|8-6">Health Occupations Article, §8-6</cite>A-05, Annotated Code of Maryland; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Is in good standing; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Have successfully completed a nursing assistant training program that meets the standards for an approved nursing assistant training program set by the Board..</text>
+      </para>
     </para>
     <para>
       <num>C.</num>
-      <text>An applicant for nursing assistant certification may not have:</text>
+      <text>Any applicant for nursing assistant certification may not have:</text>
       <para>
         <num>(1)</num>
-        <text>Committed any act or omission that would be grounds for discipline or denial of certification under <cite doc="Md. Code" path="gho|8-6">Health Occupations Article, §8-6</cite>A-10, Annotated Code of Maryland; and</text>
+        <text>Committed any act or omission that would be grounds for discipline or denial of certification under <cite doc="Md. Code" path="gho|8-6">Health Occupations Article, §8-6</cite>A-10, Annotated Code of Maryland; or</text>
       </para>
       <para>
         <num>(2)</num>
         <text>A record of abuse, negligence, or misappropriation of a client's property or any disciplinary action taken or pending in any other state or territory of the United States against the certification of the CNA.</text>
       </para>
     </para>
-    <annotations/>
-  </section>
-  <section>
-    <prefix>Regulation</prefix>
-    <num>.05</num>
-    <heading>Application for Certification.</heading>
-    <para>
-      <num>A.</num>
-      <text>An applicant shall:</text>
-      <para>
-        <num>(1)</num>
-        <text>Comply with all of the requirements under <cite path="|10|39|01|.03|A.">Regulation .03A of this chapter</cite>; and</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Pay the required fee to the Board.</text>
-      </para>
-    </para>
-    <para>
-      <num>B.</num>
-      <text>Each application for certification shall be signed by the administrator or faculty of the nursing assistant training program.</text>
-    </para>
-    <para>
-      <num>C.</num>
-      <text>Applications may be signed before graduation. The person signing the application is responsible for submitting written verification of program completion to the Board within 5 business days of program completion.</text>
-    </para>
     <para>
       <num>D.</num>
-      <text>Certification by Endorsement. An applicant certified as a nursing assistant in another state or territory is eligible for certification if the applicant:</text>
+      <text>Nursing Education Programs.</text>
       <para>
         <num>(1)</num>
-        <text>Complies with all of the requirements under <cite path="|10|39|01|.03|A.">Regulation .03A of this chapter</cite>;</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Pays the required fee; and</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>Submits the following verifications directly to the Board from the appropriate authority:</text>
+        <text>To meet the requirements of a nursing assistant training program set by the Board, a portion of a nursing education program must include courses with content that primarily focuses on:</text>
         <para>
           <num>(a)</num>
-          <text>A certificate in good standing from another state or territory with requirements that are essentially similar to the requirements in this State;</text>
+          <text>Nursing fundamentals;</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>A certificate from an approved nursing assistant training program in that state or territory;</text>
+          <text>Mental health;</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>A statement that the applicant has not committed any act or omission that would be grounds for discipline or denial of certification; and</text>
+          <text>Health assessment;</text>
         </para>
         <para>
           <num>(d)</num>
-          <text>A statement that the applicant has no record of abuse, negligence, or misappropriation of a client's property or any disciplinary action taken or pending in any state or territory of the United States against the certification of the CNA.</text>
+          <text>Nursing ethics; and</text>
         </para>
+        <para>
+          <num>(e)</num>
+          <text>The content listed under 42 CFR §483.152(b).</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If a portion of a nursing education program does not include courses with content that primarily focuses on the subject matters set forth in § D(1) of this regulation, the Board may review and approve other equivalent subject matters as meeting the requirements of a nursing assistant training program set by the Board.</text>
       </para>
     </para>
     <para>
       <num>E.</num>
-      <text>A certificate may not be issued until the Board has:</text>
-      <para>
-        <num>(1)</num>
-        <text>Received and reviewed the criminal history records information; and</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Approved the application.</text>
-      </para>
+      <text>A CNA-II who seeks certification as a CNA-1 shall meet the qualifications set forth in <cite path="10|39|01|.05|A.">§A of this regulation</cite>.</text>
     </para>
     <para>
       <num>F.</num>
-      <text>The Board may issue a temporary practice certificate in accordance with <cite doc="Md. Code" path="gho|8-6">Health Occupations Article, §8-6</cite>A-07(g), Annotated Code of Maryland, to an applicant who:</text>
+      <text>Temporary Nurse Aides.</text>
+      <para>
+        <num>(1)</num>
+        <text>A temporary nurse aide applying for certification as a CNA-1 shall be deemed to have completed a nursing assistant training program approved by the Board if the temporary nurse aide:</text>
+        <para>
+          <num>(a)</num>
+          <text>Completed a temporary nurse aide training course;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Completed a minimum of 100 hours of on-the-job training as a temporary nurse aide that:</text>
+          <para>
+            <num>(i)</num>
+            <text>Met the requirements under 42 CFR §483.152(a) and 42 CFR §483.152(b)(2)—(7); and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Was not provided in a facility described under 42 CFR §483.151(b)(2)—(3); and</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>In addition to the minimum 100 hours of on-the-job training, worked as a temporary nurse aide competently for a minimum of 160 hours.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A temporary nurse aide whose on-the-job training did not meet all of the requirements under 42 CFR 483.152(a) and 42 CFR 483.152(b)(2)—(7) may receive supplemental training in those requirements and be deemed to meet the requirement of <cite path="10|39|01|.05|F.|(1)|(b)|(i)">§F(1)(b)(i) of this regulation</cite>.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-04-03" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|emergency|26-016-E" type="History" display="false" exp="2026-09-30"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="10|39|01|.06">
+    <prefix>Regulation</prefix>
+    <num>.06</num>
+    <heading>Application for Certification.</heading>
+    <para>
+      <num>A.</num>
+      <text>Initial Certification.</text>
+      <para>
+        <num>(1)</num>
+        <text>An applicant for initial certification shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Comply with all of the requirements under <cite path="|10|39|01|.04|A.">Regulation .04A of this chapter</cite>;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Pay the required fee to the Board; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Submit to the Board one of the items in <cite path="10|39|01|.06|A.|(2)">§A(2) of this regulation</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Verification Requirements.</text>
+        <para>
+          <num>(a)</num>
+          <text>For graduates of a nursing assistant or acute care nursing assistant training program, an application that has been signed by the administrator or faculty of the training program completed by the applicant;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>For service members, documentation demonstrating successful completion of  service member training and education that has been determined by the Board to be substantially equivalent to a nursing assistant training program approved by the Board;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>For nursing students and graduates, an official transcript demonstrating successful completion of a portion of an approved nursing education program that the Board determines meets the requirements for a nursing assistant training program set by the Board; or</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>For foreign-educated nursing graduates, a copy of an evaluation of the applicant’s transcript through a Board-approved vendor demonstrating successful completion of a portion of an approved nursing education program that meets the requirements for a nursing assistant training program set by the Board.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A program coordinator or faculty of a nursing assistant or acute care nursing assistant training program:</text>
+        <para>
+          <num>(a)</num>
+          <text>May sign an application before graduation; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Shall submit written verification, as required by the Board, of program completion to the Board after 5 business days of the applicant’s program completion.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>An applicant shall submit an application for initial certification after 24 months of the date of completion of an approved nursing assistant training program, an approved acute care nursing assistant training program, or portion of an approved nursing education program.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>If an applicant fails to meet § A(4) of this regulation, an applicant still seeking certification shall take or re-take an approved nursing assistant training program or approved acute care nursing assistant training program and comply with <cite path="10|39|01|.06|A.|(4)">§A(4) of this regulation</cite>.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Certification by Endorsement. An applicant for nursing assistant certification by endorsement shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Comply with all of the requirements under <cite path="|10|39|01|.04|A.">Regulation .04A of this chapter</cite>;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Pay the required fee; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Submit the following verifications directly to the Board from the appropriate authority:</text>
+        <para>
+          <num>(a)</num>
+          <text>A certificate to practice as a nursing assistant in good standing from another state or territory with certification requirements that are essentially similar to the requirements in this State; and;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A certificate of completion from a nursing assistant training program in that state or territory that meets the standards for an approved nursing assistant training program set by the Board.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Every applicant shall attest on the application whether the applicant has:</text>
+      <para>
+        <num>(1)</num>
+        <text>Committed any act or omission that would be grounds for discipline or denial of certification; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A record of abuse, negligence, or misappropriation of a client’s property or any disciplinary action taken or pending in any state or territory of the United States against the certification of the applicant.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>A CNA-II who seeks certification as a CNA-I shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Submit an application to the Board on the form required by the Board; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Comply with §§A(1)(c) and A(3)—(5) of this regulation.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>A temporary nurse aide applying for certification as a CNA-1 shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Comply with <cite path="10|39|01|.06|A.">§A of this regulation</cite>; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Ensure that the administrator, director of nursing, or human resources representative of the applicant’s employer submits to the Board an attestation, on the form required by the Board, that:</text>
+        <para>
+          <num>(a)</num>
+          <text>Is completed by the:</text>
+          <para>
+            <num>(i)</num>
+            <text>Applicant;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Registered Nurse instructor or supervisor of the applicant during employment; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Administrator or director of nursing for the employer; and</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Verifies that the applicant satisfies the requirements of <cite path="|10|39|01|.05|F.">Regulation .05F of this chapter</cite>.</text>
+        </para>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-04-03" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|emergency|26-016-E" type="History" display="false" exp="2026-09-30"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.07</num>
+    <heading>Nursing Assistant Competency Evaluation.</heading>
+    <para>
+      <num>A.</num>
+      <text>An individual is eligible to sit for a nursing assistant competency evaluation if the individual:</text>
+      <para>
+        <num>(1)</num>
+        <text>Meets the education requirements set forth in <cite path="|10|39|01|.05|A.|(1)">Regulation .05A(1) of this chapter</cite>; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Must retake a nursing assistant competency evaluation in order to renew or reinstate a certification in accordance with <cite path="|10|39|01|.10|C.|(2)|(a)">Regulation .10C(2)(a) of this chapter</cite>.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Except for service members, an individual shall sit for a nursing assistant competency evaluation after 24 months of meeting the educational requirements set forth in <cite path="|10|39|01|.05|A.|(1)">Regulation .05A(1) of this chapter</cite>.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>An individual who fails to sit for a nursing assistant competency evaluation after 24 months of meeting the educational qualifications must re-take an approved nursing assistant training program or approved acute care nursing assistant training program in order to be eligible to sit for a nursing assistant competency evaluation.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Re-testing.</text>
+      <para>
+        <num>(1)</num>
+        <text>An individual who fails to obtain a passing score on the first examination may retake a nursing assistant competency evaluation three additional times.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>An individual shall wait at least 45 calendar days from the date of the prior evaluation before retaking a nursing assistant competency evaluation.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>An individual who fails to obtain a passing score after taking a nursing assistant competency evaluation four times must complete a new approved nursing assistant training program or approved acute care nursing assistant training program before retaking a nursing assistant competency evaluation.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-04-03" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|emergency|26-016-E" type="History" display="false" exp="2026-09-30"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.08</num>
+    <heading>Temporary Practice Certificate.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Board may issue a temporary practice certificate to an applicant who:</text>
       <para>
         <num>(1)</num>
         <text>Has met the appropriate certification requirements to the satisfaction of the Board;</text>
@@ -340,370 +792,60 @@
       </para>
     </para>
     <para>
-      <num>G.</num>
-      <text>Unless the Board suspends or revokes a temporary practice certificate, the temporary practice certificate expires 90 days after issuance.</text>
-    </para>
-    <para>
-      <num>H.</num>
-      <text>A temporary practice certificate may be extended up to an additional 90 days if the applicant is awaiting the completion of the criminal history record information.</text>
-    </para>
-    <annotations/>
-  </section>
-  <section>
-    <prefix>Regulation</prefix>
-    <num>.06</num>
-    <heading>Issuance of Certification.</heading>
-    <text>The Board shall issue a certificate to each applicant qualifying for certification if the applicant meets all the requirements of this chapter. The initial certificate may not be issued for less than 90 days.</text>
-    <annotations/>
-  </section>
-  <section cache:ref-path="10|39|01|.07">
-    <prefix>Regulation</prefix>
-    <num>.07</num>
-    <heading>Renewal.</heading>
-    <para>
-      <num>A.</num>
-      <text>The Board shall renew the certificate of each certificate holder who meets the requirements of <cite doc="Md. Code" path="gho|8-6">Health Occupations Article, §8-6</cite>A-08, Annotated Code of Maryland and of this regulation.</text>
-    </para>
-    <para>
       <num>B.</num>
-      <text>The certificate holder shall renew the certificate every 2 years by birth month according to the following schedule:</text>
-      <para>
-        <num>(1)</num>
-        <text>A certificate holder with an odd-numbered birth year shall always renew in an odd-numbered year not later than the 28th day of the certificate holder’s birth month; and</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>A certificate holder with an even-numbered birth year shall always renew in an even-numbered year not later that the 28th day of the certificate holder’s birth month.</text>
-      </para>
+      <text>Unless the Board suspends or revokes a temporary practice certificate, the temporary practice certificate expires 90      calendar days after the date of issuance.</text>
     </para>
     <para>
       <num>C.</num>
-      <text>At least 3 months before a certificate expires, the Board shall send the certificate holder a renewal notice by:</text>
-      <para>
-        <num>(1)</num>
-        <text>First-class mail to the last known address of the certificate holder; or</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Electronic means to the last known electronic address of the certificate holder.</text>
-      </para>
+      <text>A temporary practice certificate may be extended up to an additional 90 calendar days if the applicant is awaiting the completion of the criminal history records check.</text>
     </para>
-    <para>
-      <num>D.</num>
-      <text>The certificate holder shall notify the Board if a renewal notice is not received.</text>
-    </para>
-    <para>
-      <num>E.</num>
-      <text>The Board cannot guarantee that renewal applications received later than 30 days before the expiration date will be processed before the expiration date.</text>
-    </para>
-    <para>
-      <num>F.</num>
-      <text>An individual applying for renewal of a certificate shall provide satisfactory evidence of 16 hours of active employment, for compensation, as a nursing assistant within the 2-year period immediately preceding the date of renewal.</text>
-    </para>
-    <para>
-      <num>G.</num>
-      <text>An individual who do not meet the requirement of <cite path="10|39|01|.07|F.">§F of this regulation</cite> are required to successfully complete a Board-approved CNA education program.</text>
-    </para>
-    <para>
-      <num>H.</num>
-      <text>Upon notification by the Board that a criminal history records check is required before renewal of certification, a renewal applicant shall comply with all requirements under <cite path="|10|39|01|.03|A.">Regulation .03A of this chapter</cite>.</text>
-    </para>
-    <para>
-      <num>I.</num>
-      <text>After notification to the certificate holder at the address provided to the Board that a criminal history records check is required for renewal, the Board may not renew a certificate until the Board has received written documentation that the applicant has submitted to a criminal history record check in accordance with Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-303">8-303</cite> and <cite doc="Md. Code" path="gho|8-6">8-6</cite>A-08(k), Annotated Code of Maryland.</text>
-    </para>
-    <para>
-      <num>J.</num>
-      <text>Criminal history records checks for renewal applicants shall be scheduled according to the certificate holder’s birth month as follows:</text>
-      <para>
-        <num>(1)</num>
-        <text>In 2010 — all applicants with a June birth month;</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>In 2011 — all applicants with a July birth month;</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>In 2012 — all applicants with an August birth month;</text>
-      </para>
-      <para>
-        <num>(4)</num>
-        <text>In 2013 — all applicants with a September birth month;</text>
-      </para>
-      <para>
-        <num>(5)</num>
-        <text>In 2014 — all applicants with an October birth month;</text>
-      </para>
-      <para>
-        <num>(6)</num>
-        <text>In 2015 — all applicants with a November birth month;</text>
-      </para>
-      <para>
-        <num>(7)</num>
-        <text>In 2016 — all applicants with a December birth month;</text>
-      </para>
-      <para>
-        <num>(8)</num>
-        <text>In 2017 — all applicants with a January birth month;</text>
-      </para>
-      <para>
-        <num>(9)</num>
-        <text>In 2018 — all applicants with a February birth month;</text>
-      </para>
-      <para>
-        <num>(10)</num>
-        <text>In 2019 — all applicants with a March birth month;</text>
-      </para>
-      <para>
-        <num>(11)</num>
-        <text>In 2020 — all applicants with an April birth month; and</text>
-      </para>
-      <para>
-        <num>(12)</num>
-        <text>In 2021 — all applicants with a May birth month.</text>
-      </para>
-    </para>
-    <para>
-      <num>K.</num>
-      <text>The Board shall mail out to every renewal applicant who is required to have a criminal history records check in the selected birth month, instructions for downloading the forms, completing the renewal application, and how to obtain a criminal history records check.</text>
-    </para>
-    <para>
-      <num>L.</num>
-      <text>If a renewal applicant is out of the state, the Board shall mail a packet to the applicant with the required renewal documents and instructions for completing the documents.</text>
-    </para>
-    <para>
-      <num>M.</num>
-      <text>Expiration of Certificate.</text>
-      <para>
-        <num>(1)</num>
-        <text>A certificate expires on the 28th day of the certificate holder's birth month.</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>A certificate holder has a 30-day grace period beyond the expiration of the certificate to renew a certificate.</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>The Board may impose a civil fine, not to exceed $50, on a certified nursing assistant who fails to renew a certificate within 30 days after the expiration date and practices as a certified nursing assistant during the period of expiration.</text>
-      </para>
-    </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-04-03" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|emergency|26-016-E" type="History" display="false" exp="2026-09-30"/>
+    </annotations>
   </section>
   <section>
-    <prefix>Regulation</prefix>
-    <num>.08</num>
-    <heading>Reinstatement.</heading>
-    <para>
-      <num>A.</num>
-      <text>The Board shall reinstate the certificate of a former certificate holder who has failed to renew the certificate for any reason, if the former certificate holder meets the renewal requirements in <cite path="|10|39|01|.07">Regulation .07 of this chapter</cite>.</text>
-    </para>
-    <para>
-      <num>B.</num>
-      <text>An applicant for reinstatement who has failed to renew the applicant’s certificate for a period of 1 year or more is required to submit to a criminal history records check before the certificate is reinstated.</text>
-    </para>
-    <annotations/>
-  </section>
-  <section cache:ref-path="10|39|01|.09">
     <prefix>Regulation</prefix>
     <num>.09</num>
-    <heading>Categories of CNA.</heading>
+    <heading>Issuance of Certification.</heading>
     <para>
       <num>A.</num>
-      <text>Geriatric Nursing Assistant.</text>
+      <text>The Board may not issue a certificate to an applicant until the Board has:</text>
       <para>
         <num>(1)</num>
-        <text>An applicant for certification as a CNA shall have the status of GNA on the CNA certificate if the applicant:</text>
-        <para>
-          <num>(a)</num>
-          <text>Is certified as a CNA;</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Passes the GNA-CE; and</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>Completes the registration process and is listed on the MGNAR.</text>
-        </para>
+        <text>Received and reviewed the criminal history record information of the applicant; and</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Status as a GNA shall end on the expiration of the CNA certificate unless the CNA certification is renewed and the requirements for status as a GNA are satisfied.</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>Status as a GNA on the CNA certification also requires that every 2 years the applicant shall:</text>
-        <para>
-          <num>(a)</num>
-          <text>Submit evidence of any hours of active geriatric nursing assistant practice for compensation that are required by the Office of Health Care Quality; and</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Complete the registration renewal process for inclusion on the MGNAR as required by <cite path="|10.07.02">COMAR 10.07.02</cite>. 42B(8).</text>
-        </para>
+        <text>Approved the application.</text>
       </para>
     </para>
     <para>
       <num>B.</num>
-      <text>Home Health Aide.</text>
-      <para>
-        <num>(1)</num>
-        <text>An applicant for certification as a CNA shall have the status of HHA on the CNA certificate if the applicant:</text>
-        <para>
-          <num>(a)</num>
-          <text>Is certified as a CNA; and</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Has successfully completed a home health aide competency evaluation that meets the requirements in 42 CFR §484.36.</text>
-        </para>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>The agency offering the home health aide competency evaluation shall submit verification of successful completion within 5 business days.</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>Status as an HHA shall require that every year the applicant submit evidence of satisfactory completion of 12 hours of in-service training, as required by 42 CFR §483.36(b)(2)(iii), during the 1-year period before the date of renewal.</text>
-      </para>
-      <para>
-        <num>(4)</num>
-        <text>HHA status terminates on expiration of the CNA certificate.</text>
-      </para>
+      <text>Unless subject to discipline, the Board shall issue a certificate to each applicant who meets all the requirements of this chapter and Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-6">8-6</cite>A-<cite doc="Md. Code" path="gho|05">05</cite> and <cite doc="Md. Code" path="gho|8-6">8-6</cite>A-06, Annotated Code of Maryland.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-04-03" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|emergency|26-016-E" type="History" display="false" exp="2026-09-30"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.11</num>
+    <heading>Administrative Reinstatement.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Board shall reinstate the certificate of a certificate holder who has failed to renew the certificate for any reason, if the certificate holder meets the renewal requirements in <cite doc="Md. Code" path="gho|8-6">Health Occupations Article, §8-6</cite>A-08, Annotated Code of Maryland, and <cite path="|10|39|01|.10">Regulation .10 of this chapter</cite>.</text>
     </para>
     <para>
-      <num>C.</num>
-      <text>School Health.</text>
-      <para>
-        <num>(1)</num>
-        <text>An applicant for certification as a CNA shall have the status of School Health on the CNA certificate if the applicant:</text>
-        <para>
-          <num>(a)</num>
-          <text>Is certified as a CNA; and</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Has successfully completed a CNA-School Health training program approved by the Board.</text>
-        </para>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Status as a CNA-School Health terminates on expiration of the CNA certificate unless the applicant verifies at the time of renewal that the applicant is currently practicing in school health as a CNA.</text>
-      </para>
+      <num>B.</num>
+      <text>An applicant for administrative reinstatement who has failed to renew the certificate for a period of 1 year or more shall submit to a CHRC before the certificate is reinstated.</text>
     </para>
-    <para>
-      <num>D.</num>
-      <text>Dialysis Technician.</text>
-      <para>
-        <num>(1)</num>
-        <text>An applicant for certification as a CNA shall have the status of Dialysis Technician on the CNA certificate if the applicant has completed the following requirements:</text>
-        <para>
-          <num>(a)</num>
-          <text>Is certified as a CNA;</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Has successfully completed a Dialysis Technician training program that:</text>
-          <para>
-            <num>(i)</num>
-            <text>Is approved by the Board:</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>Prepares the applicant for national certification in accordance with 42 CFR §494.140(e); and</text>
-          </para>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>Obtains national certification upon eligibility.</text>
-        </para>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>The following national dialysis technician certifications are recognized by the Board:</text>
-        <para>
-          <num>(a)</num>
-          <text>Certified Clinical Hemodialysis Technician (CCHT) by the Nephrology Nursing Certification Commission (NNCC);</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Clinical Nephrology Technician (CNT) by the National Nephrology Certification Organization (NNCO); and</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>Certified Hemodialysis Technician (CHT) by the Board of Nephrology Examiners Nursing Technology (BONENT).</text>
-        </para>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>The status as a CNA-Dialysis Technician terminates on expiration of the CNA certificate unless the applicant verifies at the time of renewal that the applicant:</text>
-        <para>
-          <num>(a)</num>
-          <text>Has completed 16 hours of practice as a dialysis technician in the 2 years before renewal;</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Has completed a 3-hour continuing education course approved by the Board; and</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>Has an active national certification from one of the approved certification bodies listed in <cite path="10|39|01|.09|D.|(2)">§D(2) of this regulation</cite>.</text>
-        </para>
-      </para>
-      <para>
-        <num>(4)</num>
-        <text>Except as provided in <cite path="10|39|01|.09|D.|(8)">§D(8) of this regulation</cite>, a dialysis technician:</text>
-        <para>
-          <num>(a)</num>
-          <text>Is required to have an active national certification at the time of renewal; and</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Shall ensure that the Board has a record of a renewed national certification if a certification expires before the renewal date for the dialysis technician.</text>
-        </para>
-      </para>
-      <para>
-        <num>(5)</num>
-        <text>Certification will be deemed to have lapsed if the Board does not have a record of a current active national certification at the time of renewal.</text>
-      </para>
-      <para>
-        <num>(6)</num>
-        <text>The dialysis technician certification shall become non-renewed if the renewal applicant fails to provide evidence of a current active national certification.</text>
-      </para>
-      <para>
-        <num>(7)</num>
-        <text>An applicant who has let their national certification lapse and does not qualify for recertification shall re-apply for a national certification for dialysis technician.</text>
-      </para>
-      <para>
-        <num>(8)</num>
-        <text>If an applicant has not had 18 months to qualify for a national certification before their first renewal, the applicant may renew their certification as a CNA/DT provided that they have a national certification at their next renewal period.</text>
-      </para>
-    </para>
-    <para>
-      <num>E.</num>
-      <text>Developmental Disabilities.</text>
-      <para>
-        <num>(1)</num>
-        <text>An applicant for certification as a CNA shall have the status of Developmental Disabilities (DD) on the CNA certificate if the applicant:</text>
-        <para>
-          <num>(a)</num>
-          <text>Is certified as a CNA; and</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Has successfully completed a CNA-Developmental Disabilities training program approved by the Board.</text>
-        </para>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Status as a CNA-DD terminates on expiration of the CNA certificate unless the applicant verifies at the time of renewal that the applicant is currently practicing in a DD setting as a CNA.</text>
-      </para>
-    </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-04-03" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|emergency|26-016-E" type="History" display="false" exp="2026-09-30"/>
+    </annotations>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-205">8-205</cite>, <cite doc="Md. Code" path="gho|8-206">8-206</cite>, <cite doc="Md. Code" path="gho|8-303">8-303</cite>, <cite doc="Md. Code" path="gho|8-304">8-304</cite>, <cite doc="Md. Code" path="gho|8-308">8-308</cite>, and <cite doc="Md. Code" path="gho|8-6">8-6</cite>A-01—8-6A-16,<br/>Annotated Code of Maryland; Ch. 486, Acts of 2012</annotation>
+    <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-205">8-205</cite>, <cite doc="Md. Code" path="gho|8-206">8-206</cite>, and <cite doc="Md. Code" path="gho|8-6">8-6</cite>A-01—8-6A-17, Annotated Code of Maryland; Ch. 486, Acts of 2012<br/>Chs. 818 and 819, Acts of 2024; Ch. 416, Acts of 2025</annotation>
+    <annotation managed="false" type="Emergency Action" dest="container">53:9  26-016-E  (Regulations <cite path="|10|39|01|.01">.01</cite> — <cite path="|10|39|01|.11">.11</cite>) EMERGENCY ACTION IN EFFECT 4/3/2026 —9/30/2026</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2001-02-05">Effective date: February 5, 2001 (28:2 Md. R. 100)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2007-05-07"><cite path="|10|39|01|.01|B.">Regulation .01B</cite> amended as an emergency provision effective January 2, 2007 (34:4 Md. R. 397); amended permanently effective May 7, 2007 (34:9 Md. R. 825)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2002-02-18">Regulations .02A, .06B, .09B amended as an emergency provision effective November 15, 2001 (28:24 Md. R. 2125); amended permanently effective February 18, 2002 (29:3 Md. R. 221)</annotation>
@@ -731,5 +873,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|39|01|.08">Regulation .08</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|39|01|.09">Regulation .09</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-03-30"><cite path="|10|39|01|.09|A.">Regulation .09A</cite> amended as an emergency provision effective September 22, 2022 (49:22 Md. R. 975); emergency status expired effective March 30, 2023</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-03" discontinuity="true">Chapter revised as an emergency provision effective April 3, 2026 (53:9 Md. R. 411)</annotation>
+    <annotation app="2026-04-03" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|emergency|26-016-E" type="History" display="false" exp="2026-09-30"/>
   </annotations>
 </container>

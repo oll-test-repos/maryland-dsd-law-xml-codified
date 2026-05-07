@@ -709,13 +709,23 @@
     <heading>Therapists (Occupational Therapists, Physical Therapists, Speech-Language Pathologists, or Audiologists).</heading>
     <para>
       <num>A.</num>
-      <text>The Department shall consider an occupational therapist, physical therapist, speech-language pathologist, or audiologist holding a valid license issued by the State Board of Occupational Therapy Practice, the State Board of Physical Therapy Examiners, or the State Board of Audiologists, Hearing Aid Dispensers, and Speech-Language Pathologists, in accordance with the relevant provisions of the <cite doc="Md. Code" path="gho">Health Occupations Article, Annotated Code of Maryland</cite> as professionally licensed.</text>
+      <text>The Department shall consider an occupational therapist, physical therapist, speech-language pathologist, or audiologist to be professionally licensed if the individual holds:</text>
+      <para>
+        <num>(1)</num>
+        <text>A valid license issued by the State Board of Occupational Therapy Practice, the State Board of Physical Therapy Examiners, or the State Board of Audiologists, Hearing Aid Dispensers, and Speech-Language Pathologists, in accordance with the relevant provisions of the <cite doc="Md. Code" path="gho">Health Occupations Article, Annotated Code of Maryland</cite>; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A valid compact privilege to practice in Maryland under an applicable interstate licensure compact to which the State is a party.</text>
+      </para>
     </para>
     <para>
       <num>B.</num>
       <text>This individual does not require an additional educator license.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-05-05" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|final|25-317-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1217,8 +1227,10 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-10-27"><cite path="|13A|12|04|.02|A.">Regulation .02A</cite> amended effective March 3, 2025 (52:4 Md. R. 220); October 27, 2025 (52:21 Md. R. 1025)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-03-03"><cite path="|13A|12|04|.06">Regulation .06</cite> amended effective March 3, 2025 (52:4 Md. R. 220)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-03-03"><cite path="|13A|12|04|.07|A.">Regulation .07A</cite> amended effective March 3, 2025 (52:4 Md. R. 220)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-11"><cite path="|13A|12|04|.10|A.">Regulation .10A</cite> amended effective May 11, 2026 (53:9 Md. R. 414)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-03-03"><cite path="|13A|12|04|.13|D.">Regulation .13D</cite> amended effective March 3, 2025 (52:4 Md. R. 220)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-03-03"><cite path="|13A|12|04|.15|C.">Regulation .15C</cite> amended effective March 3, 2025 (52:4 Md. R. 220)</annotation>
     <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-107-F" type="History" display="false"/>
+    <annotation app="2026-05-05" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|final|25-317-F" type="History" display="false"/>
   </annotations>
 </container>

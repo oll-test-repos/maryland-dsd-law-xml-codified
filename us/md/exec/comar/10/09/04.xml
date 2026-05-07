@@ -40,7 +40,7 @@
       </para>
       <para>
         <num>(7)</num>
-        <text>“Electronic Visit Verification (EVV)” has the meaning stated in <cite path="10.09.36.03">COMAR 10.09.36.03</cite>-2.</text>
+        <text>“Electronic Visit Verification (EVV)” has the meaning stated in <cite path="10.09.36.03-2">COMAR 10.09.36.03-2</cite>.</text>
       </para>
       <para>
         <num>(8)</num>
@@ -183,7 +183,9 @@
         <text>“Witness” means a person who on behalf of the participant is able to personally verify at the time of service that the participant received home health care.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-05-05" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|final|25-266-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -815,7 +817,7 @@
     </para>
     <para>
       <num>B.</num>
-      <text>To receive payment for services under <cite path="|10|09|04|.04">Regulation .04 of this chapter</cite>, a provider and its workers shall use the Electronic Visit Verification method and data management system approved by the Department to document time and submit claims in accordance with <cite path="10.09.36.03">COMAR 10.09.36.03</cite>-2.</text>
+      <text>To receive payment for services under <cite path="|10|09|04|.04">Regulation .04 of this chapter</cite>, a provider and its workers shall use the Electronic Visit Verification method and data management system approved by the Department to document time and submit claims in accordance with <cite path="10.09.36.03-2">COMAR 10.09.36.03-2</cite>.</text>
     </para>
     <para>
       <num>C.</num>
@@ -870,7 +872,7 @@
       </para>
       <para>
         <num>(5)</num>
-        <text>The fee schedule effective July 1, 2022 is as follows:</text>
+        <text>The fee schedule effective January 1, 2025 is as follows:</text>
         <text>
           <table>
             <thead>
@@ -894,187 +896,187 @@
               </tr>
               <tr>
                 <td>Allegany</td>
-                <td>$126.74</td>
-                <td>$61.48</td>
-                <td>$137.07</td>
-                <td>$137.14</td>
-                <td>$137.67</td>
+                <td>$144.48</td>
+                <td>$70.09</td>
+                <td>$156.26</td>
+                <td>$156.33</td>
+                <td>$156.94</td>
               </tr>
               <tr>
                 <td>Anne Arundel</td>
-                <td>$136.21</td>
-                <td>$66.07</td>
-                <td>$147.28</td>
-                <td>$150.45</td>
-                <td>$147.89</td>
+                <td>$155.27</td>
+                <td>$75.32</td>
+                <td>$167.89</td>
+                <td>$171.51</td>
+                <td>$168.59</td>
               </tr>
               <tr>
                 <td>Baltimore</td>
-                <td>$136.21</td>
-                <td>$66.07</td>
-                <td>$147.28</td>
-                <td>$150.45</td>
-                <td>$147.89</td>
+                <td>$155.27</td>
+                <td>$75.32</td>
+                <td>$167.89</td>
+                <td>$171.51</td>
+                <td>$168.59</td>
               </tr>
               <tr>
                 <td>Calvert</td>
-                <td>$149.52</td>
-                <td>$72.55</td>
-                <td>$161.70</td>
-                <td>$161.70</td>
-                <td>$162.18</td>
+                <td>$170.45</td>
+                <td>$82.70</td>
+                <td>$184.33</td>
+                <td>$184.33</td>
+                <td>$184.88</td>
               </tr>
               <tr>
                 <td>Caroline</td>
-                <td>$162.98</td>
-                <td>$70.36</td>
-                <td>$166.59</td>
-                <td>$167.59</td>
-                <td>$172.04</td>
+                <td>$185.79</td>
+                <td>$80.21</td>
+                <td>$189.91</td>
+                <td>$191.05</td>
+                <td>$196.12</td>
               </tr>
               <tr>
                 <td>Carroll</td>
-                <td>$136.21</td>
-                <td>$66.07</td>
-                <td>$147.28</td>
-                <td>$150.45</td>
-                <td>$147.89</td>
+                <td>$155.27</td>
+                <td>$75.32</td>
+                <td>$167.89</td>
+                <td>$171.51</td>
+                <td>$168.59</td>
               </tr>
               <tr>
                 <td>Cecil</td>
-                <td>$156.35</td>
-                <td>$75.84</td>
-                <td>$169.06</td>
-                <td>$169.05</td>
-                <td>$169.70</td>
+                <td>$178.23</td>
+                <td>$86.45</td>
+                <td>$192.73</td>
+                <td>$192.71</td>
+                <td>$193.46</td>
               </tr>
               <tr>
                 <td>Charles</td>
-                <td>$149.52</td>
-                <td>$72.55</td>
-                <td>$161.70</td>
-                <td>$161.70</td>
-                <td>$162.18</td>
+                <td>$170.45</td>
+                <td>$82.70</td>
+                <td>$184.33</td>
+                <td>$184.33</td>
+                <td>$184.88</td>
               </tr>
               <tr>
                 <td>Dorchester</td>
-                <td>$162.98</td>
-                <td>$70.36</td>
-                <td>$166.59</td>
-                <td>$167.59</td>
-                <td>$172.04</td>
+                <td>$185.79</td>
+                <td>$80.21</td>
+                <td>$189.91</td>
+                <td>$191.05</td>
+                <td>$196.12</td>
               </tr>
               <tr>
                 <td>Frederick</td>
-                <td>$149.52</td>
-                <td>$72.55</td>
-                <td>$161.70</td>
-                <td>$161.70</td>
-                <td>$162.18</td>
+                <td>$170.45</td>
+                <td>$82.70</td>
+                <td>$184.33</td>
+                <td>$184.33</td>
+                <td>$184.88</td>
               </tr>
               <tr>
                 <td>Garrett</td>
-                <td>$157.60</td>
-                <td>$79.47</td>
-                <td>$135.22</td>
-                <td>$132.30</td>
-                <td>$144.85</td>
+                <td>$179.66</td>
+                <td>$90.60</td>
+                <td>$154.15</td>
+                <td>$150.82</td>
+                <td>$165.13</td>
               </tr>
               <tr>
                 <td>Harford</td>
-                <td>$136.21</td>
-                <td>$66.07</td>
-                <td>$147.28</td>
-                <td>$150.45</td>
-                <td>$147.89</td>
+                <td>$155.27</td>
+                <td>$75.32</td>
+                <td>$167.89</td>
+                <td>$171.51</td>
+                <td>$168.59</td>
               </tr>
               <tr>
                 <td>Howard</td>
-                <td>$136.21</td>
-                <td>$66.07</td>
-                <td>$147.28</td>
-                <td>$150.45</td>
-                <td>$147.89</td>
+                <td>$155.27</td>
+                <td>$75.32</td>
+                <td>$167.89</td>
+                <td>$171.51</td>
+                <td>$168.59</td>
               </tr>
               <tr>
                 <td>Kent</td>
-                <td>$162.98</td>
-                <td>$70.36</td>
-                <td>$166.59</td>
-                <td>$167.59</td>
-                <td>$172.04</td>
+                <td>$185.79</td>
+                <td>$80.21</td>
+                <td>$189.91</td>
+                <td>$191.05</td>
+                <td>$196.12</td>
               </tr>
               <tr>
                 <td>Montgomery</td>
-                <td>$149.52</td>
-                <td>$72.55</td>
-                <td>$161.70</td>
-                <td>$161.70</td>
-                <td>$162.18</td>
+                <td>$170.45</td>
+                <td>$82.70</td>
+                <td>$184.33</td>
+                <td>$184.33</td>
+                <td>$184.88</td>
               </tr>
               <tr>
                 <td>Prince George's</td>
-                <td>$149.52</td>
-                <td>$72.55</td>
-                <td>$161.70</td>
-                <td>$161.70</td>
-                <td>$162.18</td>
+                <td>$170.45</td>
+                <td>$82.70</td>
+                <td>$184.33</td>
+                <td>$184.33</td>
+                <td>$184.88</td>
               </tr>
               <tr>
                 <td>Queen Anne's</td>
-                <td>$136.21</td>
-                <td>$66.07</td>
-                <td>$147.28</td>
-                <td>$150.45</td>
-                <td>$147.89</td>
+                <td>$155.27</td>
+                <td>$75.32</td>
+                <td>$167.89</td>
+                <td>$171.51</td>
+                <td>$168.59</td>
               </tr>
               <tr>
                 <td>St. Mary's</td>
-                <td>$162.98</td>
-                <td>$70.36</td>
-                <td>$166.59</td>
-                <td>$167.59</td>
-                <td>$172.04</td>
+                <td>$185.79</td>
+                <td>$80.21</td>
+                <td>$189.91</td>
+                <td>$191.05</td>
+                <td>$196.12</td>
               </tr>
               <tr>
                 <td>Somerset</td>
-                <td>$162.98</td>
-                <td>$70.36</td>
-                <td>$153.08</td>
-                <td>$106.36</td>
-                <td>$172.04</td>
+                <td>$185.79</td>
+                <td>$80.21</td>
+                <td>$174.51</td>
+                <td>$121.25</td>
+                <td>$196.12</td>
               </tr>
               <tr>
                 <td>Talbot</td>
-                <td>$162.98</td>
-                <td>$70.36</td>
-                <td>$166.59</td>
-                <td>$167.59</td>
-                <td>$172.04</td>
+                <td>$185.79</td>
+                <td>$80.21</td>
+                <td>$189.91</td>
+                <td>$191.05</td>
+                <td>$196.12</td>
               </tr>
               <tr>
                 <td>Washington</td>
-                <td>$157.60</td>
-                <td>$82.43</td>
-                <td>$135.22</td>
-                <td>$132.30</td>
-                <td>$144.85</td>
+                <td>$179.66</td>
+                <td>$93.96</td>
+                <td>$154.15</td>
+                <td>$150.82</td>
+                <td>$165.13</td>
               </tr>
               <tr>
                 <td>Wicomico</td>
-                <td>$162.98</td>
-                <td>$70.36</td>
-                <td>$153.08</td>
-                <td>$106.36</td>
-                <td>$172.04</td>
+                <td>$185.79</td>
+                <td>$80.21</td>
+                <td>$174.51</td>
+                <td>$121.25</td>
+                <td>$196.12</td>
               </tr>
               <tr>
                 <td>Worcester</td>
-                <td>$162.98</td>
-                <td>$70.36</td>
-                <td>$153.08</td>
-                <td>$106.36</td>
-                <td>$172.04</td>
+                <td>$185.79</td>
+                <td>$80.21</td>
+                <td>$174.51</td>
+                <td>$121.25</td>
+                <td>$196.12</td>
               </tr>
               <tr>
                 <td>CITY</td>
@@ -1086,19 +1088,19 @@
               </tr>
               <tr>
                 <td>Baltimore</td>
-                <td>$136.21</td>
-                <td>$66.07</td>
-                <td>$147.28</td>
-                <td>$150.45</td>
-                <td>$147.89</td>
+                <td>$155.27</td>
+                <td>$75.32</td>
+                <td>$167.89</td>
+                <td>$171.51</td>
+                <td>$168.59</td>
               </tr>
               <tr>
                 <td>Washington, D.C.</td>
-                <td>$149.52</td>
-                <td>$72.55</td>
-                <td>$161.70</td>
-                <td>$161.70</td>
-                <td>$162.18</td>
+                <td>$170.45</td>
+                <td>$82.70</td>
+                <td>$184.33</td>
+                <td>$184.33</td>
+                <td>$184.88</td>
               </tr>
             </tbody>
           </table>
@@ -1125,7 +1127,9 @@
       <num>J.</num>
       <text>The home health provider shall identify the individual who ordered the home health services by recording the individual practitioner's National Provider Identifier (NPI) number on the claim.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-05-05" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|final|25-266-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1191,8 +1195,9 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-11-27"><cite path="|10|09|04|.07">Regulation .07</cite> amended effective December 27, 2010 (37:26 Md. R. 1787); November 27, 2023 (50:23 Md. R. 1004)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-07-04"><cite path="|10|09|04|.07|D.">Regulation .07D</cite> amended effective July 4, 2016 (43:13 Md. R. 712)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-06-14"><cite path="|10|09|04|.07|D.">Regulation .07D</cite>, H amended effective June 14, 2021 (48:12 Md. R. 470)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-06-14"><cite path="|10|09|04|.07|E.">Regulation .07E</cite> amended effective June 14, 2010 (37:12 Md. R. 800)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-11"><cite path="|10|09|04|.07|E.">Regulation .07E</cite> amended effective June 14, 2010 (37:12 Md. R. 800); May 11, 2026 (53:9 Md. R. 412)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-09-30"><cite path="|10|09|04|.07|H.">Regulation .07H</cite> adopted effective September 30, 2013 (40:19 Md. R. 1544)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-01-01"><cite path="|10|09|04|.07|I.">Regulation .07I</cite> adopted effective January 1, 2018 (44:26 Md. R. 1214)</annotation>
+    <annotation app="2026-05-05" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|final|25-266-F" type="History" display="false"/>
   </annotations>
 </container>

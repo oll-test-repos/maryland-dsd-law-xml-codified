@@ -16,14 +16,18 @@
       <text>Terms Defined.</text>
       <para>
         <num>(1)</num>
-        <text>“Administrative service organization (ASO)” means the entity with which the Mental Health Administration may contract to provide the services described in <cite path="|10.67.08">COMAR 10.67.08</cite> for the public mental health system.</text>
+        <text>“Administrative service organization (ASO)” has the meaning stated in <cite path="10.09.59.01">COMAR 10.09.59.01</cite>.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>“Care management tool” means a system that helps accomplish administrative tasks of the health home, including maintaining a list of health home participants and scheduling and tracking participants clinical appointments.</text>
+        <text>“ASO system” means the electronic system available to providers which the ASO utilizes to manage Maryland’s Public Behavioral Health System as defined in <cite path="10.09.59.01">COMAR 10.09.59.01</cite>.</text>
       </para>
       <para>
         <num>(3)</num>
+        <text>“Care management tool” means a system that helps accomplish administrative tasks of the health home, including maintaining a list of health home participants and scheduling and tracking participants clinical appointments.</text>
+      </para>
+      <para>
+        <num>(4)</num>
         <text>“Care plan” means a written plan of action that is developed and modified to address a patient's specific behavioral, somatic, and social service needs, which is maintained in the individual's medical record and satisfies the following conditions:</text>
         <para>
           <num>(a)</num>
@@ -35,20 +39,16 @@
         </para>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(5)</num>
         <text>“Caregiver” means a family member, guardian, or other individual who is not paid to provide care to the participant and who helps the participant achieve and maintain wellness.</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(6)</num>
         <text>“Chesapeake Regional Information System for Our Patients (CRISP) means the electronic notification system health home providers are required to use in order to access participant hospital encounter data.</text>
       </para>
       <para>
-        <num>(6)</num>
-        <text>“Department” means the Maryland Department of Health, the State agency designated to administer the Maryland Medical Assistance Program under Title XIX of the Social Security Act, 42 U.S.C §1396 et seq.</text>
-      </para>
-      <para>
         <num>(7)</num>
-        <text>“eMedicaid” means the health information system in which a health home provider will input information regarding participants services and health and social outcomes.</text>
+        <text>“Department” means the Maryland Department of Health, the State agency designated to administer the Maryland Medical Assistance Program under Title XIX of the Social Security Act, 42 U.S.C §1396 et seq.</text>
       </para>
       <para>
         <num>(8)</num>
@@ -60,7 +60,7 @@
       </para>
       <para>
         <num>(10)</num>
-        <text>“HIT” means health information technology.</text>
+        <text>“Health Information Technology” means electronic systems equipped for the exchange of health data to link services, facilitate communication between health team members and individuals and family caregivers, and enable quality reporting and the review of health outcomes.</text>
       </para>
       <para>
         <num>(11)</num>
@@ -72,7 +72,7 @@
       </para>
       <para>
         <num>(13)</num>
-        <text>“Mental health case management” means services covered under <cite path="|10.09.45">COMAR 10.09.45</cite> which assist participants in gaining access to the full range of mental health services, and necessary medical, social, financial assistance, counseling, educational, housing, and other support services.</text>
+        <text>“Mental health case management” means services covered under <cite path="|10.09.45">COMAR 10.09.45</cite> and <cite path="|10.09.90">COMAR 10.09.90</cite> which assist participants in gaining access to the full range of mental health services, and necessary medical, social, financial assistance, counseling, educational, housing, and other support services.</text>
       </para>
       <para>
         <num>(14)</num>
@@ -99,7 +99,9 @@
         <text>“Psychiatric rehabilitation program (PRP)” means a program approved under <cite path="10.63.03.09">COMAR 10.63.03.09</cite> for adults, <cite path="10.63.03.10">COMAR 10.63.03.10</cite> for minors, or both.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-05-05" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|final|25-280-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -299,10 +301,10 @@
       <text>Agree to participate in federal and State-required evaluation activities, including:</text>
       <para>
         <num>(1)</num>
-        <text>Using eMedicaid or another Department-approved health information tool that feeds into eMedicaid to:</text>
+        <text>Using the ASO system to:</text>
         <para>
           <num>(a)</num>
-          <text>Input information related to participants’ services and health at least monthly;</text>
+          <text>Submit encounters documenting participants’ services at least monthly;</text>
         </para>
         <para>
           <num>(b)</num>
@@ -334,7 +336,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-05-05" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|final|25-280-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -627,7 +631,7 @@
       </para>
       <para>
         <num>(8)</num>
-        <text>The health home shall use eMedicaid to document, review, and report health promotion services delivered to each participant.</text>
+        <text>The health home shall use the ASO system to document, review, and report health promotion services delivered to each participant.</text>
       </para>
     </para>
     <para>
@@ -788,7 +792,7 @@
     </para>
     <para>
       <num>H.</num>
-      <text>Use of HIT to Link Services. The provider shall use HIT, including CRISP and eMedicaid, to:</text>
+      <text>Use of HIT to Link Services. The provider shall use HIT, including CRISP and the ASO system to:</text>
       <para>
         <num>(1)</num>
         <text>Facilitate communication between health home staff members, the participant, and their caregivers; and</text>
@@ -802,7 +806,9 @@
       <num>I.</num>
       <text>Health home services provided by PRP, MTS, or OTP staff qualify as covered services.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-05-05" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|final|25-280-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|09|33|.07">
     <prefix>Regulation</prefix>
@@ -817,7 +823,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>During enrollment, an OTP established as a health home shall identify eligible individuals under the OTP’s care and report the diagnoses related to qualifying risk factors set forth in <cite path="|10|09|33|.03|A.|(2)|(b)">Regulation .03A(2)(b) of this chapter</cite> in eMedicaid.</text>
+        <text>During enrollment, an OTP established as a health home shall identify eligible individuals under the OTP’s care and report the diagnoses related to qualifying risk factors set forth in <cite path="|10|09|33|.03|A.|(2)|(b)">Regulation .03A(2)(b) of this chapter</cite> in the ASO system.</text>
       </para>
       <para>
         <num>(3)</num>
@@ -837,7 +843,7 @@
       </para>
       <para>
         <num>(5)</num>
-        <text>Following consent to participate in accordance with <cite path="10|09|33|.07|A.|(4)">§A(4) of this regulation</cite>, the health home shall complete the individual's online eMedicaid intake report thereby enrolling the individual into the health home.</text>
+        <text>Following consent to participate in accordance with <cite path="10|09|33|.07|A.|(4)">§A(4) of this regulation</cite>, the health home shall complete the individual's online intake report through the ASO system thereby enrolling the individual into the health home.</text>
       </para>
       <para>
         <num>(6)</num>
@@ -857,7 +863,7 @@
       <text>Participation.</text>
       <para>
         <num>(1)</num>
-        <text>A health home participant shall receive a minimum of two health home services per month, as defined in eMedicaid and to be documented in eMedicaid.</text>
+        <text>A health home participant shall receive a minimum of two health home services per month, as defined in <cite path="|10|09|33|.06">Regulation .06 of this chapter</cite> and to be documented in the ASO system.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -873,10 +879,12 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>The health home shall report all discharges and completion of discharge plans in eMedicaid.</text>
+        <text>The health home shall report all discharges and completion of discharge plans in the ASO system.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-05-05" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|final|25-280-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|09|33|.08">
     <prefix>Regulation</prefix>
@@ -904,7 +912,7 @@
     </para>
     <para>
       <num>C.</num>
-      <text>A health home may not bill the Department for:</text>
+      <text>The Department may not reimburse the health home provider for:</text>
       <para>
         <num>(1)</num>
         <text>Activities that have already been billed to or counted towards a service requirement for another Medical Assistance Program or other program;</text>
@@ -915,11 +923,31 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>Activities delivered as part of institutional discharge planning that are not comprehensive transitional care services delivered by the health home; or</text>
+        <text>Activities delivered as part of institutional discharge planning that are not comprehensive transitional care services delivered by the health home;</text>
       </para>
       <para>
         <num>(4)</num>
-        <text>A participant’s health home monthly rate more than once per month.</text>
+        <text>A participant’s health home monthly rate more than once per month;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>A participant’s health home monthly rate when the intake encounter is utilized by the provider as one of the two required monthly service encounters;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>A participant’s health home monthly rate when the provider counts two encounters as having the same date of service, unless:</text>
+        <para>
+          <num>(a)</num>
+          <text>The modality of the two encounters is different because one was an individual encounter and one was a group encounter; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The encounters are distinguishable by both the time at which they were rendered and the subject matter discussed; or</text>
+        </para>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>The health home monthly rate when the two required services were both rendered as group services.</text>
       </para>
     </para>
     <para>
@@ -935,7 +963,7 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>Has received a minimum of two health home services in the stated month that has been documented in eMedicaid.</text>
+        <text>Has received a minimum of two health home services in the stated month that has been documented in the ASO system.</text>
       </para>
     </para>
     <para>
@@ -946,7 +974,9 @@
       <num>F.</num>
       <text>A participant’s health home provider may not be the participant’s family member.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-05-05" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|final|25-280-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|09|33|.09">
     <prefix>Regulation</prefix>
@@ -968,12 +998,12 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>The intake portion of the participant's eMedicaid file has been submitted and initial services have been delivered.</text>
+          <text>The intake portion of the participant's ASO system file has been submitted and initial services have been delivered.</text>
         </para>
       </para>
       <para>
         <num>(2)</num>
-        <text>After completing the required health home service provision reporting in eMedicaid, the health home provider shall, within 30 days from the end of the month during which health home services were provided, submit a request for payment for all participants who received two health home services during that month.</text>
+        <text>After completing the required health home service provision reporting in the ASO system, the health home provider shall, within 30 days from the end of the month during which health home services were provided, submit a request for payment for all participants who received two health home services during that month.</text>
       </para>
       <para>
         <num>(3)</num>
@@ -998,6 +1028,7 @@
     </para>
     <annotations>
       <annotation app="2025-11-10" doc="Maryland Register, Volume 52, Issue 22" eff="2025-11-10" path="regulations|final|25-076-F" type="History" display="false"/>
+      <annotation app="2026-05-05" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|final|25-280-F" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1062,14 +1093,20 @@
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Health-General Article, §§2-104(b), 7.5-204, 7.5-205(d), 7.5-402, 8-204(c), 15-103, and 15-105(b), Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-09-30">Effective date: September 30, 2013 (40:19 Md. R. 1544)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-11-13"><cite path="|10|09|33|.01|B.">Regulation .01B</cite> amended effective July 7, 2014 (41:13 Md. R. 752); November 13, 2023 (50:22 Md. R. 973)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-11"><cite path="|10|09|33|.01|B.">Regulation .01B</cite> amended effective July 7, 2014 (41:13 Md. R. 752); November 13, 2023 (50:22 Md. R. 973); May 11, 2026 (53:9 Md. R. 412)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-11-13"><cite path="|10|09|33|.02">Regulation .02</cite> amended effective November 13, 2023 (50:22 Md. R. 973)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-11-24"><cite path="|10|09|33|.04">Regulation .04</cite> amended effective November 24, 2014 (41:23 Md. R. 1372)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-11"><cite path="|10|09|33|.04|P.">Regulation .04P</cite> amended effective May 11, 2026 (53:9 Md. R. 412)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-11-13"><cite path="|10|09|33|.06|B.">Regulation .06B</cite> amended effective November 13, 2023 (50:22 Md. R. 973)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-11"><cite path="|10|09|33|.06|C.">Regulation .06C</cite>, H amended effective May 11, 2026 (53:9 Md. R. 412)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-11"><cite path="|10|09|33|.07">Regulation .07</cite> amended effective May 11, 2026 (53:9 Md. R. 412)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-11-13"><cite path="|10|09|33|.07|A.">Regulation .07A</cite> amended effective November 13, 2023 (50:22 Md. R. 973)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-04-04"><cite path="|10|09|33|.08|C.">Regulation .08C</cite> amended effective April 4, 2022 (49:7 Md. R. 465)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-11"><cite path="|10|09|33|.08|C.">Regulation .08C</cite> amended effective April 4, 2022 (49:7 Md. R. 465), May 11, 2026 (53:9 Md. R. 412)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-11"><cite path="|10|09|33|.08|D.">Regulation .08D</cite> amended effective May 11, 2026 (53:9 Md. R. 412)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-04-04"><cite path="|10|09|33|.09">Regulation .09</cite> amended effective April 4, 2022 (49:7 Md. R. 465)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-11"><cite path="|10|09|33|.09|B.">Regulation .09B</cite> amended effective May 11, 2026 (53:9 Md. R. 412)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-11-10"><cite path="|10|09|33|.09|C.">Regulation .09C</cite> amended effective October 24, 2016 (43:21 Md. R. 1166); January 1, 2018 (44:26 Md. R. 1215); December 30, 2019 (46:26 Md. R. 1164); November 13, 2023 (50:22 Md. R. 973); September 16, 2024 (51:18 Md. R. 808); November 10, 2025 (52:22 Md. R. 1095)</annotation>
     <annotation app="2025-11-10" doc="Maryland Register, Volume 52, Issue 22" eff="2025-11-10" path="regulations|final|25-076-F" type="History" display="false"/>
+    <annotation app="2026-05-05" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|final|25-280-F" type="History" display="false"/>
   </annotations>
 </container>

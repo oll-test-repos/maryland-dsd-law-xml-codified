@@ -95,13 +95,17 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Operate a crematory or perform a cremation while under the influence of alcohol, an illegal drug, or a controlled dangerous substance, without the prescription of a physician.</text>
+        <text>Operate a crematory, or perform a cremation or alkaline hydrolysis while under the influence of alcohol, an illegal drug, or a controlled dangerous substance, without the prescription of a physician.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-05-05" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|final|25-320-F" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gho|7-101">Health Occupations Article, §7-101, </cite>Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-04-14">Effective date: April 14, 2014 (41:7 Md. R. 421)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-11"><cite path="|10|29|20|.02|C.">Regulation .02C</cite> amended effective May 11, 2026 (53:9 Md. R. 413)</annotation>
+    <annotation app="2026-05-05" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|final|25-320-F" type="History" display="false"/>
   </annotations>
 </container>

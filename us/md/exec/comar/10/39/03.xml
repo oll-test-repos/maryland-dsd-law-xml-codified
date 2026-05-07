@@ -39,39 +39,81 @@
         <text>Certified Nursing Assistant (CNA).</text>
         <para>
           <num>(a)</num>
-          <text>“Certified nursing assistant (CNA)” means an individual who is certified by the Board to routinely perform nursing tasks delegated by an RN or LPN for compensation.</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>“Certified nursing assistant (CNA)” does not include:</text>
+          <text>“Certified nursing assistant (CNA)” means an individual, regardless of title, who, for compensation and subject to regulations adopted by the Board, routinely performs:</text>
           <para>
             <num>(i)</num>
-            <text>A medication assistant or a medication technician as defined in <cite doc="Md. Code" path="gho|8-6">Health Occupations Article, §8-6</cite>A-01(f), Annotated Code of Maryland; or</text>
+            <text>Nursing tasks delegated by a registered nurse, licensed practical nurse, or advanced practice registered nurse; or</text>
           </para>
           <para>
             <num>(ii)</num>
-            <text>An individual who merely provides assistance with activities of daily living unless the client's needs are such that adverse health consequences are predictable.</text>
+            <text>Technical tasks delegated by a licensed certified midwife.</text>
           </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Certified nursing assistant (CNA)” does not include dialysis technician or medication technician.</text>
         </para>
       </para>
       <para>
         <num>(5)</num>
-        <text>“Controlled schedule drugs” means drugs listed as Schedule I, II, III, IV, or V controlled dangerous substances under Criminal Law Article, §§<cite doc="Md. Code" path="gcr|5-402">5-402</cite> — 5-406, Annotated Code of Maryland.</text>
+        <text>Certified Nursing Assistant-I (CNA-I).</text>
+        <para>
+          <num>(a)</num>
+          <text>“Certified nursing assistant-I (CNA-I)” means a CNA who:</text>
+          <para>
+            <num>(i)</num>
+            <text>Meets the requirements set by the Board and federal law; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>May practice in any practice setting.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Certified nursing assistant-I (CNA-I)” includes a:</text>
+          <para>
+            <num>(i)</num>
+            <text>CNA who was certified as a geriatric nursing assistant on March 31, 2026;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Certified medicine aide; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>CNA who is certified pursuant to <cite doc="Md. Code" path="gho|8-6">§ 8-6A-05(c)(5) of the Health Occupations Article, Annotated Code of Maryland</cite>.</text>
+          </para>
+        </para>
       </para>
       <para>
         <num>(6)</num>
-        <text>“Geriatric nursing assistant (GNA)” has the meaning stated in <cite path="|10.39.01">COMAR 10.39.01</cite>.</text>
+        <text>“Certified nursing assistant-II (CNA-II)” means a CNA who:</text>
+        <para>
+          <num>(a)</num>
+          <text>On March 31, 2026, was certified as a CNA but not certified as a geriatric nursing assistant; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>May not practice in a nursing facility or skilled nursing facility.</text>
+        </para>
       </para>
       <para>
         <num>(7)</num>
-        <text>“Licensed practical nurse (LPN)” has the meaning stated in <cite doc="Md. Code" path="gho|8-101">Health Occupations Article, §8-101, Annotated Code of Maryland</cite>.</text>
+        <text>“Controlled schedule drugs” means drugs listed as Schedule I, II, III, IV, or V controlled dangerous substances under Criminal Law Article, §§<cite doc="Md. Code" path="gcr|5-402">5-402</cite> — 5-406, Annotated Code of Maryland.</text>
       </para>
       <para>
         <num>(8)</num>
+        <text>“Licensed practical nurse (LPN)” has the meaning stated in <cite doc="Md. Code" path="gho|8-101">Health Occupations Article, §8-101, Annotated Code of Maryland</cite>.</text>
+      </para>
+      <para>
+        <num>(9)</num>
         <text>“Registered nurse (RN)” has the meaning stated in <cite doc="Md. Code" path="gho|8-101">Health Occupations Article, §8-101, Annotated Code of Maryland</cite>.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-04-03" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|emergency|26-016-E" type="History" display="false" exp="2026-09-30"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -82,18 +124,18 @@
       <text>An applicant for certification as a CMA shall provide evidence satisfactory to the Board of meeting the following requirements:</text>
       <para>
         <num>(1)</num>
-        <text>Current certification by the Board as an active CNA in good standing;</text>
+        <text>Current certification by the Board as an active CAN-1 in good standing;</text>
       </para>
       <para>
         <num>(2)</num>
         <text>Current employment and work experience as required by the Board in a setting acceptable to the Board, including:</text>
         <para>
           <num>(a)</num>
-          <text>Current employment and 2 years of full-time experience as a CNA in a facility licensed under 42 CFR Part 483 et seq.; or</text>
+          <text>Current employment and 2 years of full-time experience as a CAN-1 in a facility licensed under 42 CFR Part 483 et seq.; or</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Current employment and 1 year of full-time experience as a GNA in a facility licensed in Maryland under <cite path="|10.07.02">COMAR 10.07.02</cite>; and</text>
+          <text>Current employment and 1 year of full-time experience as a CNA-I in a facility licensed in Maryland under <cite path="|10.07.02">COMAR 10.07.02</cite>; and</text>
         </para>
       </para>
       <para>
@@ -107,7 +149,7 @@
     </para>
     <para>
       <num>C.</num>
-      <text>Before renewal of certification as a CMA, and subject to the requirements in <cite doc="Md. Code" path="gho|8-6">Health Occupations Article, §8-6</cite>A-08, Annotated Code of Maryland, and <cite path="10.39.01.06">COMAR 10.39.01.06</cite>, the applicant shall:</text>
+      <text>Before renewal of certification as a CMA, and subject to the requirements in <cite doc="Md. Code" path="gho|8-6">Health Occupations Article, §8-6</cite>A-08, Annotated Code of Maryland, and <cite path="10.39.01.09">COMAR 10.39.01.09</cite>, the applicant shall:</text>
       <para>
         <num>(1)</num>
         <text>Successfully complete a Board-approved 8-hour medicine aide continuing education program as required by <cite path="|10|39|03|.03|B.">Regulation .03B of this chapter</cite>; and</text>
@@ -117,7 +159,9 @@
         <text>Provide satisfactory evidence of completion of 100 hours of practice as a certified medicine aide in the 2-year period preceding the date of renewal.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-04-03" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|emergency|26-016-E" type="History" display="false" exp="2026-09-30"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -434,11 +478,15 @@
     <annotations/>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-205">8-205</cite>(a) and (c) and 8-6A-01 — 8-6A-16, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-205">8-205</cite>(a) and (c) and 8-6A-01 — 8-6A-16, Annotated Code of Maryland<br/>Chs. 818 and 819, Acts of 2024; Ch. 416, Acts of 2025</annotation>
+    <annotation managed="false" type="Emergency Action" dest="container">53:9  26-016-E  (Regulations .01, .02) EMERGENCY ACTION IN EFFECT 4/3/2026 —9/30/2026</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2001-02-05">Effective date: February 5, 2001 (28:2 Md. R. 100)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2002-02-18"><cite path="|10|39|03|.02">Regulation .02</cite> amended as an emergency provision effective October 30, 2001 (28:23 Md. R. 2052); amended permanently effective February 18, 2002 (29:3 Md. R. 221)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2005-03-14" discontinuity="true">Regulations <cite path="|10|39|03|.01">.01</cite> — <cite path="|10|39|03|.04">.04</cite> repealed and new Regulations <cite path="|10|39|03|.01">.01</cite> — <cite path="|10|39|03|.06">.06</cite> adopted as an emergency provision effective January 19, 2005 (32:3 Md. R. 287); adopted permanently effective March 14, 2005 (32:5 Md. R. 580)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-03"><cite path="|10|39|03|.01|B.">Regulation .01B</cite> amended as an emergency provision effective April 3, 2026 (53:9 Md. R. 411)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-03"><cite path="|10|39|03|.02|A.">Regulation .02A</cite>, C amended as an emergency provision effective April 3, 2026 (53:9 Md. R. 411)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-08-25"><cite path="|10|39|03|.02|C.">Regulation .02C</cite> amended effective August 25, 2008 (35:17 Md. R. 1489)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-04-15"><cite path="|10|39|03|.03|B.">Regulation .03B</cite> amended effective April 15, 2013 (40:7 Md. R. 612)</annotation>
+    <annotation app="2026-04-03" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|emergency|26-016-E" type="History" display="false" exp="2026-09-30"/>
   </annotations>
 </container>

@@ -7,11 +7,15 @@
     <prefix>Regulation</prefix>
     <num>.01</num>
     <heading>Temperature of Refrigeration Units.</heading>
-    <text>A refrigeration unit used in the storage of human remains shall be kept at a temperature lower than 44 degrees Fahrenheit.</text>
-    <annotations/>
+    <text>A refrigeration unit used in the storage of human remains shall be kept at a temperature lower than 40 degrees Fahrenheit.</text>
+    <annotations>
+      <annotation app="2026-05-05" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|final|25-320-F" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Health-General Article, §5-513; <cite doc="Md. Code" path="gho|7-205">Health Occupations Article, §7-205, </cite>Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-08-05">Effective date: August 5, 2013 (40:15 Md. R. 1229)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-11"><cite path="|10|29|22|.01">Regulation .01</cite> amended effective May 11, 2026 (53:9 Md. R. 413)</annotation>
+    <annotation app="2026-05-05" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|final|25-320-F" type="History" display="false"/>
   </annotations>
 </container>

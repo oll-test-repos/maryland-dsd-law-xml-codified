@@ -1061,7 +1061,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>To receive payment for services under <cite path="|10|09|53|.04">Regulation .04 of this chapter</cite>, a provider and its workers shall use the electronic visit verification method and data management system approved by the Department to document time and submit claims in accordance with <cite path="10.09.36.03">COMAR 10.09.36.03</cite>-2.</text>
+        <text>To receive payment for services under <cite path="|10|09|53|.04">Regulation .04 of this chapter</cite>, a provider and its workers shall use the electronic visit verification method and data management system approved by the Department to document time and submit claims in accordance with <cite path="10.09.36.03-2">COMAR 10.09.36.03-2</cite>.</text>
       </para>
       <para>
         <num>(3)</num>
@@ -1081,7 +1081,7 @@
       <text>Rates.</text>
       <para>
         <num>(1)</num>
-        <text>Effective July 1, 2022, rates for the services outlined in this regulation shall be as follows:</text>
+        <text>Effective July 1, 2022, through December 31, 2023, rates for the services outlined in this regulation shall be as follows:</text>
         <para>
           <num>(a)</num>
           <text>$17.87 for 15 minutes of services provided by a registered nurse to one participant;</text>
@@ -1121,14 +1121,96 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Effective July 1, 2021, the Program’s rates as specified in this regulation shall increase by 4 percent each year, subject to the limitations of the State budget.</text>
+        <text>Effective January 1, 2024 through June 30, 2024, rates for the services outlined in this regulation shall be as follows:</text>
+        <para>
+          <num>(a)</num>
+          <text>$19.2951 for 15 minutes of services provided by a registered nurse to one participant;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>$13.3101 for 15 minutes of services provided by a registered nurse to each of two or more participants in the same residence;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>$12.5061 for 15 minutes of services provided by a licensed practical nurse to one participant;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>$8.6266 for 15 minutes of services provided by a licensed practical nurse to each of two or more participants in the same residence;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>$6.6105 for 15 minutes of services provided by a CNA or HHA who is also certified as a CMT to one participant;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>$4.5611 for 15 minutes of services provided by a CNA or HHA who is also certified as a CMT to each of two or more participants in the same residence;</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>$5.4874 for 15 minutes of services provided by a CNA or HHA to one participant;</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>$3.7848 for 15 minutes of services provided by a CNA or HHA to two or more participants in the same residence; and</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>A flat rate of $77.13 per visit for a registered nurse supervisory visit of a nurse, CNA, or HHA.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Effective July 1, 2024, rates for the services outlined in this regulation shall be as follows:</text>
+        <para>
+          <num>(a)</num>
+          <text>$19.8739 for 15 minutes of services provided by a registered nurse to one participant;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>$13.7094 for 15 minutes of services provided by a registered nurse to each of two or more participants in the same residence;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>$12.8813 for 15 minutes of services provided by a licensed practical nurse to one participant;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>$8.8854 for 15 minutes of services provided by a licensed practical nurse to each of two or more participants in the same residence;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>$6.8088 for 15 minutes of services provided by a CNA or HHA who is also certified as a CMT to one participant;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>$4.6979 for 15 minutes of services provided by a CNA or HHA who is also certified as a CMT to each of two or more participants in the same residence;</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>$5.6520 for 15 minutes of services provided by a CNA or HHA to one participant;</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>$3.8983 for 15 minutes of services provided by a CNA or HHA to two or more participants in the same residence; and</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>A flat rate of $79.44 per visit for a registered nurse supervisory visit of a nurse, CNA, or HHA.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The Program’s rates as specified in this regulation shall adjust each year, subject to the limitations of the State budget.</text>
       </para>
     </para>
     <para>
       <num>D.</num>
       <text>The nursing services provider shall identify the individual who ordered the nursing services by recording the individual practitioner’s National Provider Identifier (NPI) number on the claim.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-05-05" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|final|25-106-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1161,7 +1243,7 @@
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Health-General Article, §§2-104(b), 15-103, and 15-105, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1993-08-02">Regulations .01—.11 adopted as an emergency provision effective May 5, 1993 (20:11 Md. R. 911); adopted permanently effective August 2, 1993 (20:15 Md. R. 1220)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1993-08-02">Regulations <cite path="|10|09|53|.01">.01</cite>—<cite path="|10|09|53|.11">.11</cite> adopted as an emergency provision effective May 5, 1993 (20:11 Md. R. 911); adopted permanently effective August 2, 1993 (20:15 Md. R. 1220)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1994-09-26">Regulations .01, .03—.07 amended as an emergency provision effective June 1, 1994 (21:13 Md. R. 1152); amended permanently effective September 26, 1994 (21:19 Md. R. 1635)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1997-03-10">Regulations .01 and .03—.06 amended as an emergency provision effective January 1, 1997 (23:26 Md. R. 1856); amended permanently effective March 10, 1997 (24:5 Md. R. 408)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-08-21"><cite path="|10|09|53|.01|B.">Regulation .01B</cite> amended effective August 23, 1999 (26:17 Md. R. 1323); January 31, 2005 (32:2 Md. R. 146); August 27, 2007 (34:17 Md. R. 1507); March 10, 2008 (35:5 Md. R. 641); April 1, 2014 (41:6 Md. R. 379); August 21, 2023 (50:16 Md. R. 726)</annotation>
@@ -1183,11 +1265,12 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-05-01"><cite path="|10|09|53|.07|B.">Regulation .07B</cite> amended as an emergency provision effective January 1, 2000 (27:2 Md. R. 140); amended permanently effective May 1, 2000 (27:8 Md. R. 798)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-12-01"><cite path="|10|09|53|.07|B.">Regulation .07B</cite> amended as an emergency provision effective June 12, 2008 (35:14 Md. R. 1243); amended permanently effective December 1, 2008 (35:24 Md. R. 2077)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-08-21"><cite path="|10|09|53|.07|B.">Regulation .07B</cite> amended effective April 6, 2009 (36:7 Md. R. 524); August 21, 2023 (50:16 Md. R. 726)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-08-21"><cite path="|10|09|53|.07|C.">Regulation .07C</cite> amended effective November 14, 2022 (49:23 Md. R. 995); August 21, 2023 (50:16 Md. R. 726)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-11"><cite path="|10|09|53|.07|C.">Regulation .07C</cite> amended effective November 14, 2022 (49:23 Md. R. 995); August 21, 2023 (50:16 Md. R. 726); May 11, 2026 (53:9 Md. R. 413)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2007-09-24"><cite path="|10|09|53|.07|D.">Regulation .07D</cite> amended as an emergency provision effective July 1, 2007 (34:15 Md. R. 1347); amended permanently effective September 24, 2007 (34:19 Md. R. 1650)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-12-01"><cite path="|10|09|53|.07|D.">Regulation .07D</cite> amended as an emergency provision effective June 12, 2008 (35:14 Md. R. 1243); amended permanently effective December 1, 2008 (35:24 Md. R. 2077)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-03-22"><cite path="|10|09|53|.07|D.">Regulation .07D</cite> amended effective March 22, 2010 (37:6 Md. R. 477)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-03-10"><cite path="|10|09|53|.07|E.">Regulation .07E</cite> repealed effective March 10, 2008 (35:5 Md. R. 641)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-01-01"><cite path="|10|09|53|.07|F.">Regulation .07F</cite> adopted effective January 1, 2018 (44:26 Md. R. 1214)</annotation>
+    <annotation app="2026-05-05" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|final|25-106-F" type="History" display="false"/>
   </annotations>
 </container>

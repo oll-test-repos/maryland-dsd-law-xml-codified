@@ -2,36 +2,55 @@
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>Chapter</prefix>
   <num>08</num>
-  <heading>Abortion Care Disclosure</heading>
+  <heading>Sensitive Health Services<annotation app="2026-05-05" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|final|25-251-F" type="History" display="false"/></heading>
   <section>
     <prefix>Regulation</prefix>
     <num>.01</num>
     <heading>Purpose.</heading>
+    <text>This chapter:</text>
     <para>
       <num>A.</num>
-      <text>In this chapter, the following terms have the meanings indicated.</text>
-    </para>
-    <para>
-      <num>B.</num>
-      <text>Terms Defined.</text>
+      <text>Defines:</text>
       <para>
         <num>(1)</num>
-        <text>“ASTM Standards” means the standard consumer safety performance specifications for infant bedding and related accessories set by the American Society for Testing and Materials (ASTM).</text>
+        <text>Mifepristone data;</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>“Baby bumper pads” means a pad or pads of non-mesh material resting directly above the mattress in a crib, running the circumference of the crib or along the length of any of the interior sides of the crib, and intended to be used until the age that an infant pulls to stand.</text>
+        <text>Health information exchange;</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>“Department” means the Maryland Department of Health.</text>
+        <text>Electronic health network; and</text>
       </para>
       <para>
         <num>(4)</num>
-        <text>“Hazardous material” has the meaning stated in Health-General Article, §22-501, Annotated Code of Maryland.</text>
+        <text>Protected Health Care Commission;</text>
       </para>
     </para>
-    <annotations/>
+    <para>
+      <num>B.</num>
+      <text>Lists the:</text>
+      <para>
+        <num>(1)</num>
+        <text>Mifepristone data, and diagnosis, procedure, and related codes for abortion care that are subject to the restrictions on the disclosure of health care information; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Diagnosis, procedure, and related codes for gender-affirming treatment that are subject to the restrictions on the disclosure of health care information;</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Describes to whom these restrictions apply; and</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Sets forth the restrictions on data.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-05-05" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|final|25-251-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -50,22 +69,28 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>“Health information exchange” has the meaning stated in <cite path="10.25.18.02">COMAR 10.25.18.02</cite>.</text>
+        <text>“Gender-affirming treatment” has the meaning stated in Health-General Article, §15-151, Annotated Code of Maryland.</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>“Mifepristone data” means all medication or related codes pertaining to mifepristone use during any stage of pregnancy, and excludes any codes pertaining to the use of mifepristone for Cushing’s syndrome.</text>
+        <text>“Health information exchange” has the meaning stated in <cite path="10.25.18.02">COMAR 10.25.18.02</cite>.</text>
       </para>
       <para>
         <num>(4)</num>
-        <text>“Protected Health Care Commission” means the group established under Health-General Article, §4-310, Annotated Code of Maryland.</text>
+        <text>“Mifepristone data” means all medication or related codes pertaining to mifepristone use during any stage of pregnancy, and excludes any codes pertaining to the use of mifepristone for Cushing’s syndrome.</text>
       </para>
       <para>
         <num>(5)</num>
+        <text>“Protected Health Care Commission” means the group established under Health-General Article, §4-310, Annotated Code of Maryland.</text>
+      </para>
+      <para>
+        <num>(6)</num>
         <text>“Secretary” means the Secretary of the Maryland Department of Health.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-05-05" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|final|25-251-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -195,36 +220,38 @@
           <thead>
             <tr>
               <th>National Drug Code</th>
-              <th>Trade Name</th>
+              <th>Trade Name and Description</th>
               <th>Labeler/Manufacturer</th>
             </tr>
           </thead>
           <tbody>
             <tr>
-              <td data-vertical-align="bottom">64875-0001-01</td>
-              <td data-vertical-align="bottom">Mifeprex (oral mifepristone)</td>
-              <td data-vertical-align="bottom">Danco</td>
+              <td>64875000101</td>
+              <td>Mifeprex, 1 x 1-tablet carton</td>
+              <td>Danco</td>
             </tr>
             <tr>
-              <td data-vertical-align="bottom">43393-001</td>
-              <td data-vertical-align="bottom">Generic mifepristone tablets</td>
-              <td data-vertical-align="bottom">GenBIOPro</td>
+              <td>64875000103</td>
+              <td>Mifeprex, alternate pack configuration with multiple cartons</td>
+              <td>Danco</td>
             </tr>
             <tr>
-              <td data-vertical-align="bottom">43393-001-06</td>
-              <td data-vertical-align="bottom">Generic mifepristone tablets</td>
-              <td data-vertical-align="bottom">GenBIOPro</td>
+              <td>43393000106</td>
+              <td>Generic mifepristone 6 x 1-tablet cartons</td>
+              <td>GenBioPro</td>
             </tr>
             <tr>
-              <td data-vertical-align="bottom">43393000106</td>
-              <td data-vertical-align="bottom">Generic mifepristone tablets</td>
-              <td data-vertical-align="bottom">GenBIOPro</td>
+              <td>43393000101</td>
+              <td>Generic mifepristone, 1 x 1-tablet carton</td>
+              <td>GenBioPro</td>
             </tr>
           </tbody>
         </table>
       </text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-05-05" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|final|25-251-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -236,12 +263,68 @@
   <section>
     <prefix>Regulation</prefix>
     <num>.06</num>
+    <heading>Gender-Affirming Treatment Codes.</heading>
+    <para>
+      <num>A.</num>
+      <text>A health information exchange and an electronic health network shall restrict the disclosure of the gender-affirming treatment medical diagnosis codes and current procedural terminology (CPT) codes listed in §B below.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>List of Medical Diagnosis Codes.</text>
+      <text>
+        <table>
+          <thead>
+            <tr>
+              <th class="text-indent-1">International Classification of Diseases, Tenth Revision, Clinical Modification (ICD-10-CM) Code</th>
+              <th class="text-indent-1">Description</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td class="text-indent-1">F64.0</td>
+              <td class="text-indent-1">Transsexualism</td>
+            </tr>
+            <tr>
+              <td class="text-indent-1">F64.1</td>
+              <td class="text-indent-1">Dual role transvestism</td>
+            </tr>
+            <tr>
+              <td class="text-indent-1">F64.2</td>
+              <td class="text-indent-1">Gender identity disorder of childhood</td>
+            </tr>
+            <tr>
+              <td class="text-indent-1">F64.8</td>
+              <td class="text-indent-1">Other gender identity disorders</td>
+            </tr>
+            <tr>
+              <td class="text-indent-1">F64.9</td>
+              <td class="text-indent-1">Gender identity disorder, unspecified</td>
+            </tr>
+          </tbody>
+        </table>
+      </text>
+    </para>
+    <annotations>
+      <annotation app="2026-05-05" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|final|25-251-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.07</num>
     <heading>Sensitive Health Services.</heading>
     <text>The Secretary shall determine what sensitive health services are subject to restriction under this chapter based on the recommendations of the Protected Health Care Commission.</text>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-05-05" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|final|25-251-F" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Health-General Article, §4-302.5 Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-09-16">Effective date: September 16, 2024 (51:18 Md. R. 809)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-11"><cite path="|10|11|08|.01|B.">Regulation .01B</cite> amended effective May 11, 2026 (53:9 Md. R. 413)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-11"><cite path="|10|11|08|.02|B.">Regulation .02B</cite> amended effective May 11, 2026 (53:9 Md. R. 413)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-11"><cite path="|10|11|08|.04|B.">Regulation .04B</cite> amended effective May 11, 2026 (53:9 Md. R. 413)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-11"><cite path="|10|11|08|.06">Regulation .06</cite> recodified to Regulation .07 effective May 11, 2026 (53:9 Md. R. 413)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-11"><cite path="|10|11|08|.06">Regulation .06</cite> adopted effective May 11, 2026 (53:9 Md. R. 413)</annotation>
+    <annotation app="2026-05-05" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|final|25-251-F" type="History" display="false"/>
   </annotations>
 </container>

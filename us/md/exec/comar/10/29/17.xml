@@ -48,6 +48,10 @@
     </para>
     <para>
       <num>B.</num>
+      <text>A permit issued by the Office shall specify whether the crematory is authorized to offer and perform either cremation services, alkaline hydrolysis services, or both.</text>
+    </para>
+    <para>
+      <num>C.</num>
       <text>Board of Morticians and Funeral Directors. A person shall obtain a permit to engage in the operation of a crematory from the Board if the person:</text>
       <para>
         <num>(1)</num>
@@ -59,18 +63,20 @@
       </para>
     </para>
     <para>
-      <num>C.</num>
-      <text>Before obtaining a permit from the Board, a crematory may cremate the human remains of one decedent provided the:</text>
+      <num>D.</num>
+      <text>Before obtaining a permit from the Board, a crematory may cremate or hydrolyze the human remains of one decedent provided the:</text>
       <para>
         <num>(1)</num>
-        <text>Cremation is only performed as part of the manufacturer’s operator training course for the cremation machinery in which the cremation takes place; and</text>
+        <text>Cremation or hydrolysis is only performed as part of the manufacturer’s operator training course for the cremation machinery or the hydrolysis unit in which the cremation or hydrolysis takes place; and</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>The person or persons with the right to final disposition of the decedent are notified and have given permission before the cremation.</text>
+        <text>The person or persons with the right to final disposition of the decedent are notified and have given permission before the cremation or the alkaline hydrolysis occurs.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-05-05" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|final|25-320-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -89,11 +95,11 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Pay the nonrefundable application fee and any other applicable fees set forth in <cite path="|10|29|17|.09">Regulation .09 of this chapter</cite>;</text>
+        <text>Pay the non-refundable application fee and any other applicable fees set forth in <cite path="|10|29|17|.08">Regulation .08 of this chapter</cite>;</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>Be of good moral character, if the applicant is an individual;</text>
+        <text>Be of good moral character if the applicant is an individual;</text>
       </para>
       <para>
         <num>(4)</num>
@@ -136,7 +142,9 @@
         <text>Another equivalent body recognized jointly by the Board and the Office.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-05-05" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|final|25-320-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -144,10 +152,14 @@
     <heading>Requirements for Registration of a Registered Crematory Operator.</heading>
     <para>
       <num>A.</num>
-      <text>An individual may be registered by the Board as a registered crematory operator if the individual meets the requirements of this regulation.</text>
+      <text>An individual may be registered by the Board as a crematory operator if the individual meets the requirements of this regulation.</text>
     </para>
     <para>
       <num>B.</num>
+      <text>The permit issued by the Board shall specify whether the individual’s training and registration required by this chapter permits the individual to operate a cremator, an alkaline hydrolysis unit, or both.</text>
+    </para>
+    <para>
+      <num>C.</num>
       <text>An individual shall:</text>
       <para>
         <num>(1)</num>
@@ -155,7 +167,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Pay the nonrefundable fee and any other applicable fee set forth in <cite path="|10|29|17|.09">Regulation .09 of this chapter</cite>;</text>
+        <text>Pay the non-refundable fee and any other applicable fee set forth in <cite path="|10|29|17|.08">Regulation .08 of this chapter</cite>;</text>
       </para>
       <para>
         <num>(3)</num>
@@ -167,18 +179,40 @@
       </para>
       <para>
         <num>(5)</num>
-        <text>Achieve certification as a crematory operator by the Cremation Association of North America (CANA), International Cemetery, Cremation and Funeral Association (ICCFA), or other equivalent certification recognized jointly by the Board and the Office;</text>
+        <text>Achieve certification as a crematory operator by the:</text>
+        <para>
+          <num>(a)</num>
+          <text>Cremation Association of North America (CANA);</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>International Cemetery, Cremation and Funeral Association (ICCFA); or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Other equivalent certification recognized jointly by the Board and the Office; and</text>
+        </para>
       </para>
       <para>
         <num>(6)</num>
-        <text>Successfully complete the operator training course of the manufacturer of the cremator located in the crematory with which the applicant is affiliated; and</text>
-      </para>
-      <para>
-        <num>(7)</num>
-        <text>Provide evidence to the Board of the individual’s ability to read and write.</text>
+        <text>In the crematory with which the applicant is affiliated:</text>
+        <para>
+          <num>(a)</num>
+          <text>Successfully complete the operator training course of the manufacturer of the cremator or the alkaline hydrolysis unit located in the crematory with which the applicant is affiliated; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Provide a notarized letter by the supervising crematory operator for which the individual is employed indicating the completion of training on the cremator or the alkaline hydrolysis unit.</text>
+        </para>
       </para>
     </para>
-    <annotations/>
+    <para>
+      <num>D.</num>
+      <text>To qualify as a trainer, the supervising crematory operator shall have a minimum of 3 years’ experience on the associated cremator or alkaline hydrolysis unit.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-05-05" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|final|25-320-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -193,7 +227,19 @@
     <heading>Renewals.</heading>
     <para>
       <num>A.</num>
-      <text>Before the expiration date of the permit or registration, a permit holder or registered crematory operator shall complete and return the renewal form, pay the nonrefundable renewal fee, and submit any required documentation.</text>
+      <text>Before the expiration date of the permit or a registration, a permit holder or a registered crematory operator shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Complete and return the renewal form;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Pay the non-refundable renewal fee set forth in <cite path="|10|29|17|.08">Regulation .08 of this chapter</cite>; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Submit any required documentation to the Board.</text>
+      </para>
     </para>
     <para>
       <num>B.</num>
@@ -204,7 +250,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Pay the nonrefundable renewal fee set forth in <cite path="|10|29|17|.09">Regulation .09 of this chapter</cite>;</text>
+        <text>Pay the non-refundable renewal fee set forth in <cite path="|10|29|17|.08">Regulation .08 of this chapter</cite>;</text>
       </para>
       <para>
         <num>(3)</num>
@@ -225,9 +271,11 @@
     </para>
     <para>
       <num>E.</num>
-      <text>If a permit holder or registered crematory operator applies for renewal past the expiration date of the permit or registration, the individual shall pay the renewal fee plus the late renewal fee set forth in <cite path="|10|29|17|.08">Regulation .08 of this chapter</cite>.</text>
+      <text>If a permit holder or a registered crematory operator applies for renewal past the expiration date of the permit or registration, the individual shall pay the renewal fee plus the late renewal fee set forth in <cite path="|10|29|17|.08">Regulation .08 of this chapter</cite>.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-05-05" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|final|25-320-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -240,7 +288,7 @@
     </para>
     <para>
       <num>B.</num>
-      <text>Paying the permit fee and the late renewal fee set forth in <cite path="|10|29|17|.09">Regulation .09 of this chapter</cite>;</text>
+      <text>Paying the permit fee and the late renewal fee set forth in <cite path="|10|29|17|.08">Regulation .08 of this chapter</cite>;</text>
     </para>
     <para>
       <num>C.</num>
@@ -258,7 +306,9 @@
       <num>F.</num>
       <text>Submitting to the Board an affidavit stating that the person did not engage in the operation of a crematory in this State while the permit was lapsed.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-05-05" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|final|25-320-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -331,8 +381,14 @@
     <annotations/>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|1-213">1-213</cite>, <cite doc="Md. Code" path="gho|7-101">7-101</cite>, <cite doc="Md. Code" path="gho|7-102">7-102</cite>, <cite doc="Md. Code" path="gho|7-205">7-205</cite>, <cite doc="Md. Code" path="gho|7-314">7-314</cite>—<cite doc="Md. Code" path="gho|7-316">7-316</cite>, and <cite doc="Md. Code" path="gho|7-319">7-319</cite>, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">Business Regulation Article, §§<cite doc="Md. Code" path="gbr|5-101">5-101</cite>, <cite doc="Md. Code" path="gbr|5-204">5-204</cite>, and <cite doc="Md. Code" path="gbr|5-303">5-303</cite>; Health Occupations Article, §§<cite doc="Md. Code" path="gho|1-213">1-213</cite>, <cite doc="Md. Code" path="gho|7-101">7-101</cite>, <cite doc="Md. Code" path="gho|7-102">7-102</cite>, <cite doc="Md. Code" path="gho|7-205">7-205</cite>, <cite doc="Md. Code" path="gho|7-314">7-314</cite>—<cite doc="Md. Code" path="gho|7-316">7-316</cite>, and <cite doc="Md. Code" path="gho|7-319">7-319</cite>, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-04-14">Effective date: April 14, 2014 (41:7 Md. R. 421)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-11-10"><cite path="|10|29|17|.02|C.">Regulation .02C</cite> adopted as an emergency provision effective August 28, 2014 (41:19 Md. R. 1075); adopted permanently effective November 10, 2014 (41:22 Md. R. 1319)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-11"><cite path="|10|29|17|.02|B.">Regulation .02B</cite> amended effective May 11, 2026 (53:9 Md. R. 413)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-11"><cite path="|10|29|17|.03|B.">Regulation .03B</cite> amended effective May 11, 2026 (53:9 Md. R. 413)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-11"><cite path="|10|29|17|.04">Regulation .04</cite> amended effective May 11, 2026 (53:9 Md. R. 413)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-11"><cite path="|10|29|17|.06|A.">Regulation .06A</cite>, B, E amended effective May 11, 2026 (53:9 Md. R. 413)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-11"><cite path="|10|29|17|.07|B.">Regulation .07B</cite> amended effective May 11, 2026 (53:9 Md. R. 413)</annotation>
+    <annotation app="2026-05-05" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-05" path="regulations|final|25-320-F" type="History" display="false"/>
   </annotations>
 </container>
