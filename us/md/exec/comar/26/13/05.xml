@@ -255,7 +255,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="26|13|05|.02">
     <prefix>Regulation</prefix>
@@ -1197,7 +1199,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="26|13|05|.05">
     <prefix>Regulation</prefix>
@@ -2000,7 +2004,9 @@
         <text>As otherwise required by Regulations <cite path="|26|13|05|.06">.06</cite>—<cite path="|26|13|05|.06-7">.06-7</cite> and .11—.14 of this chapter.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="26|13|05|.06">
     <prefix>Regulation</prefix>
@@ -7654,7 +7660,9 @@
         <text>The Secretary may determine that additional design, operating, and monitoring requirements are necessary for landfills managing hazardous wastes F020, F021, F022, F023, F026, and F027 in order to reduce the possibility of migration of these wastes to ground water, surface water, or air so as to protect human health and the environment.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -10953,5 +10961,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-05-01"><cite path="|26|13|05|.18-2">Regulation .18-2</cite> adopted effective May 1, 2008 (35:8 Md. R. 809)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-05-01"><cite path="|26|13|05|.18-3">Regulation .18-3</cite> adopted effective May 1, 2008 (35:8 Md. R. 809)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-05-01"><cite path="|26|13|05|.21">Regulation .21</cite> adopted effective May 1, 2008 (35:8 Md. R. 809)</annotation>
+    <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
   </annotations>
 </container>

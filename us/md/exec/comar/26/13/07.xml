@@ -31,7 +31,9 @@
       <num>F.</num>
       <text>Incorporation by Reference. 40 CFR §§264.140—264.151, as promulgated as of July 1, 2007, are incorporated by reference.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="26|13|07|.02">
     <prefix>Regulation</prefix>
@@ -437,7 +439,9 @@
       <num>E.</num>
       <text>Any facility with an effective permit shall submit to the Secretary a new application at least 180 days before the expiration date of the effective permit, unless permission for a later date has been granted by the Secretary. The later date may not be after the expiration date of the effective permit.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="26|13|07|.02-1">
     <prefix>Regulation</prefix>
@@ -1249,7 +1253,9 @@
         <text>Hazardous waste incinerator units are sufficiently similar, and the data from other trial burns are sufficiently similar, and the data from other trial burns are adequate to specify, under <cite path="26.13.05.16|H.">COMAR 26.13.05.16H</cite>, operating conditions that will ensure that the performance standards in <cite path="26.13.05.16|F.">COMAR 26.13.05.16F</cite> will be met by the incinerator.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -3290,7 +3296,9 @@
         <text>If the applicant submits a trial burn plan with Part B of the permit application, the Secretary shall specify a time period before permit issuance in which the applicant shall conduct the trial burn and submit the results.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="26|13|07|.18">
     <prefix>Regulation</prefix>
@@ -3820,7 +3828,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="26|13|07|.20-1">
     <prefix>Regulation</prefix>
@@ -4094,7 +4104,9 @@
         <text>If the Department is not required to prepare a final determination under <cite path="26|13|07|.20-1|E.|(1)">§E(1) of this regulation</cite>, the tentative determination is a final decision by the Department when the permit is issued or denied.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="26|13|07|.20-2">
     <prefix>Regulation</prefix>
@@ -4360,7 +4372,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="26|13|07|.20-3">
     <prefix>Regulation</prefix>
@@ -4394,7 +4408,9 @@
         <text>If the applicant fails to appear and present information after a request from the Department, the application may be denied.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="26|13|07|.20-4">
     <prefix>Regulation</prefix>
@@ -4528,7 +4544,9 @@
         <text>The Secretary shall make the response to comments available to the public.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="26|13|07|.20-5">
     <prefix>Regulation</prefix>
@@ -4678,7 +4696,9 @@
         <text>Summary Disposition. The Secretary shall comply with the provisions of <cite doc="Md. Code" path="gen|1-606">Environment Article, §1-606, Annotated Code of Maryland</cite>, concerning summary disposition of a request for a contested case hearing.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="26|13|07|.20-6">
     <prefix>Regulation</prefix>
@@ -4720,7 +4740,9 @@
         <text>Comments do not request a change in the draft permit, in which case the permit shall become effective immediately upon issuance.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="26|13|07|.21">
     <prefix>Regulation</prefix>
@@ -5519,5 +5541,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-01-13"><cite path="|26|13|07|.02-5B">Regulation .02-5B</cite> amended effective January 13, 2022 (49:1 Md. R. 14)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-01-13"><cite path="|26|13|07|.02-8B">Regulation .02-8B</cite> amended effective January 13, 2022 (49:1 Md. R. 14)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-01-13"><cite path="|26|13|07|.13-2A">Regulation .13-2A</cite> amended effective January 13, 2022 (49:1 Md. R. 14)</annotation>
+    <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
   </annotations>
 </container>
