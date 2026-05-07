@@ -141,14 +141,57 @@
       <para>
         <num>(2-1)</num>
         <text>“Active range” means a military range that is currently in service and is being regularly used for range activities.</text>
-        <text>(2-1-1) “Acute hazardous waste” means a hazardous waste that meets the listing criteria in <cite path="26.13.02.09|A.|(2)">COMAR 26.13.02.09A(2)</cite> and has therefore been assigned a hazard code of (H) in accordance with <cite path="26.13.02.15|B.">COMAR 26.13.02.15B</cite>;</text>
       </para>
       <para>
         <num>(2-2)</num>
-        <text>“Ampule” means an airtight vial made of glass, plastic, metal, or any combination of these materials.</text>
+        <text>“Acute hazardous waste” means a hazardous waste that meets the listing criteria in <cite path="26.13.02.09|A.|(2)">COMAR 26.13.02.09A(2)</cite> and has therefore been assigned a hazard code of (H) in accordance with <cite path="26.13.02.15|B.">COMAR 26.13.02.15B</cite>;</text>
       </para>
       <para>
         <num>(2-3)</num>
+        <text>“Aerosol can” means a non-refillable receptacle that:</text>
+        <para>
+          <num>(a)</num>
+          <text>Contains a gas compressed, liquified, or dissolved under pressure, the sole purpose of which is to expel a liquid, paste, or powder; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Is fitted with a self-closing relief device that allows the contents to be ejected by the gas.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2-4)</num>
+        <text>“Airbag inflator” means a small metal canister within an airbag module that generally houses explosive propellant and an initiator, and that causes an airbag module to deploy when an electronic pulse is received from a vehicle’s crash sensor.</text>
+      </para>
+      <para>
+        <num>(2-5)</num>
+        <text>“Airbag module” means a fully assembled unit that includes both an airbag inflator and the fabric cushion that is designed to inflate and deploy in the event of a vehicle crash.</text>
+      </para>
+      <para>
+        <num>(2-6)</num>
+        <text>“Airbag waste” means a hazardous waste airbag module or hazardous waste airbag inflator.</text>
+      </para>
+      <para>
+        <num>(2-7)</num>
+        <text>Airbag Waste Collection Facility.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Airbag waste collection facility” means a facility that receives airbag waste from an airbag handler that is operating under the provisions of <cite path="26.13.02.04">COMAR 26.13.02.04</cite>-7; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Airbag waste collection facility” does not include a facility that accumulates in-transit airbag waste for 10 days or less.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2-8)</num>
+        <text>“Airbag waste handler” means a person, by site, that generates airbag waste that is subject to regulation under this subtitle.</text>
+      </para>
+      <para>
+        <num>(2-9)</num>
+        <text>“Ampule” means an airtight vial made of glass, plastic, metal, or any combination of these materials.</text>
+      </para>
+      <para>
+        <num>(2-10)</num>
         <text>“Ancillary equipment” means a device including, but not limited to, such devices as piping, fittings, flanges, valves, and pumps, that is used to distribute, meter, or control the flow of hazardous waste from its point of generation to a storage or treatment tank or tanks, between hazardous waste storage and treatment tanks to a point of disposal on site, or to a point of shipment for disposal off site.</text>
       </para>
       <para>
@@ -328,7 +371,7 @@
         <text>Debris.</text>
         <para>
           <num>(a)</num>
-          <text>”Debris’ means solid material exceeding a 60-millimeter particle size that is intended for disposal and that is:</text>
+          <text>“Debris” means solid material exceeding a 60-millimeter particle size that is intended for disposal and that is:</text>
           <para>
             <num>(i)</num>
             <text>A manufactured object;</text>
@@ -453,14 +496,18 @@
       </para>
       <para>
         <num>(16-2)</num>
-        <text>“Electrochemical cell” means a system consisting of an anode, a cathode, an electrolyte, and any electrical or mechanical connections that may be needed to allow the system to deliver or receive electrical energy.</text>
+        <text>“Drug Enforcement Administration” means the United States Drug Enforcement Administration;</text>
       </para>
       <para>
         <num>(16-3)</num>
-        <text>“Electronic manifest (e-manifest)” means the electronic format of the hazardous waste manifest that is obtained from EPA’s national electronic manifest system and transmitted electronically to the system, and that is the legal equivalent of EPA Forms 8700-22 (manifest) and 8700-22A (continuation sheet).</text>
+        <text>“Electrochemical cell” means a system consisting of an anode, a cathode, an electrolyte, and any electrical or mechanical connections that may be needed to allow the system to deliver or receive electrical energy.</text>
       </para>
       <para>
         <num>(16-4)</num>
+        <text>“Electronic manifest (e-manifest)” means the electronic format of the hazardous waste manifest that is obtained from EPA’s national electronic manifest system and transmitted electronically to the system, and that is the legal equivalent of EPA Forms 8700-22 (manifest) and 8700-22A (continuation sheet).</text>
+      </para>
+      <para>
+        <num>(16-5)</num>
         <text>“Electronic manifest system (e-manifest system)” means EPA’s national information technology system through which the electronic manifest may be obtained, completed, transmitted, and distributed to users of the electronic manifest and to regulatory agencies.</text>
       </para>
       <para>
@@ -494,6 +541,18 @@
       <para>
         <num>(20)</num>
         <text>“Equivalent method” means any testing or analytical method approved by the Secretary under Regulation .04A and B of this chapter.</text>
+      </para>
+      <para>
+        <num>(20-1)</num>
+        <text>“Evaluated hazardous waste pharmaceutical” means a prescription hazardous waste pharmaceutical that:</text>
+        <para>
+          <num>(a)</num>
+          <text>Has been evaluated by a reverse distributor in accordance with <cite path="26.13.10.49">COMAR 26.13.10.49</cite> and 40 CFR §266.510(a)(3); and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Will not be sent to another reverse distributor for further evaluation or verification of manufacturer credit.</text>
+        </para>
       </para>
       <para>
         <num>(21)</num>
@@ -612,7 +671,7 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>Other federal, State, or local government or civilian personnel trained in explosives or munitions emergency responses similar to the individuals identified in §B(22-4)(a)—(c) of this regulation.</text>
+          <text>Other federal, State, or local government or civilian personnel trained in explosives or munitions emergency responses similar to the individuals identified in §B(22-4)(a)(c) of this regulation.</text>
         </para>
       </para>
       <para>
@@ -629,15 +688,15 @@
       </para>
       <para>
         <num>(24-1)</num>
-        <text>“FFDCA” means the Federal Food, Drug, and Cosmetic Act, 21 U.S.C. §§321—394.</text>
+        <text>“FFDCA” means the Federal Food, Drug, and Cosmetic Act, 21 U.S.C. §§321-394.</text>
       </para>
       <para>
         <num>(24-2)</num>
-        <text>“FIFRA” means the Federal Insecticide, Fungicide and Rodenticide Act, 7 U.S.C. §136—136y.</text>
+        <text>“FIFRA” means the Federal Insecticide, Fungicide and Rodenticide Act, 7 U.S.C. §136-136y.</text>
       </para>
       <para>
         <num>(25)</num>
-        <text>“Final closure” means the closure of all hazardous waste management units at the facility in accordance with all applicable closure requirements so that hazardous waste management activities under <cite path="|26.13.05">COMAR 26.13.05</cite> and <cite path="|26.13.06">26.13.06</cite> are no longer conducted at the facility unless subject to the provisions in <cite path="26.13.03.03">COMAR 26.13.03.03</cite>-3—.03-10.</text>
+        <text>“Final closure” means the closure of all hazardous waste management units at the facility in accordance with all applicable closure requirements so that hazardous waste management activities under <cite path="|26.13.05">COMAR 26.13.05</cite> and <cite path="|26.13.06">26.13.06</cite> are no longer conducted at the facility unless subject to the provisions in <cite path="26.13.03.03">COMAR 26.13.03.03</cite>-3—.03-10 and <cite path="26.13.03.05">COMAR 26.13.03.05</cite>-1—.05-2.</text>
       </para>
       <para>
         <num>(26)</num>
@@ -666,8 +725,8 @@
       <para>
         <num>(30-1)</num>
         <text>“Hazardous debris” means debris that contains a hazardous waste listed in <cite path="26.13.02.15">COMAR 26.13.02.15</cite>—.19 or that exhibits a characteristic of hazardous waste identified in <cite path="26.13.02.10">COMAR 26.13.02.10</cite>—.14.</text>
+        <text>Agency Note: Any deliberate mixing of hazardous waste prohibited from land disposal under 40 CFR Part 268 Subpart C with debris that changes its treatment classification, that is, from “waste” to “hazardous debris”, is not allowed under the dilution prohibition of 40 CFR §268.3.</text>
       </para>
-      <aftertext>Agency Note: Any deliberate mixing of hazardous waste prohibited from land disposal under 40 CFR Part 268 Subpart C with debris that changes its treatment classification, that is, from “waste” to “hazardous debris”, is not allowed under the dilution prohibition of 40 CFR §268.3.</aftertext>
       <para>
         <num>(30-2)</num>
         <text>“Hazardous secondary material” means a secondary material, such as a spent material, by-product, or sludge, that, if discarded, would be identified as a hazardous waste under <cite path="|26.13.02">COMAR 26.13.02</cite>.</text>
@@ -695,6 +754,134 @@
       <para>
         <num>(34)</num>
         <text>“Hazardous waste management unit” is a contiguous area of land on or in which hazardous waste is placed, or the largest area in which there is significant likelihood of mixing hazardous waste constituents in the same area. Examples of hazardous waste management units include a surface impoundment, a waste pile, a land treatment area, a landfill cell, an incinerator, a tank and its associated piping and underlying containment system, and a container storage area. A container alone does not constitute a unit. The unit includes containers and the land or pad upon which they are placed.</text>
+      </para>
+      <para>
+        <num>(34-1)</num>
+        <text>Hazardous Waste Pharmaceutical.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Hazardous waste pharmaceutical” means a pharmaceutical that is a solid waste as defined in <cite path="26.13.02.02">COMAR 26.13.02.02</cite> and:</text>
+          <para>
+            <num>(i)</num>
+            <text>Exhibits one or more characteristics identified in <cite path="26.13.02.10">COMAR 26.13.02.10</cite>—.14; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Is listed in <cite path="26.13.02.15">COMAR 26.13.02.15</cite>—.19.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Hazardous waste pharmaceutical” does not include:</text>
+          <para>
+            <num>(i)</num>
+            <text>A pharmaceutical that will be legitimately used or reused by, for example, being lawfully donated for use for its intended purpose;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>A pharmaceutical that is reclaimed, as described in <cite path="26.13.02.01|D.|(7)">COMAR 26.13.02.01D(7)</cite>;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>An over-the-counter pharmaceutical, dietary supplement, or homeopathic drug for which there is a reasonable expectation that the item will be legitimately used or reused by, for example, being lawfully redistributed for use for its intended purpose; or</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>An over-the-counter pharmaceutical, dietary supplement, or homeopathic drug for which there is a reasonable expectation that the item will be reclaimed.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(34-2)</num>
+        <text>Healthcare Facility.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Healthcare facility” means any person that is legally authorized to:</text>
+          <para>
+            <num>(i)</num>
+            <text>Provide preventative, diagnostic, therapeutic, rehabilitative, maintenance, or palliative care with respect to the physical or mental condition, or functional status, of a human or animal or that affects the structure or function of the human or animal body;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Act as a provider of counseling, service, assessment, or procedure with respect to the physical or mental condition, or functional status, of a human or animal or that affects the structure or function of the human or animal body; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Distribute, sell, or dispense pharmaceuticals, including over-the counter pharmaceuticals, dietary supplements, homeopathic drugs, or prescription pharmaceuticals.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Healthcare facility” includes, but is not limited to:</text>
+          <para>
+            <num>(i)</num>
+            <text>Wholesale distributors;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Third-party logistics providers that serve as forward distributors;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Military medical logistics facilities;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>Hospitals, psychiatric hospitals, and ambulatory surgical centers;</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>Health clinics and physicians’ offices;</text>
+          </para>
+          <para>
+            <num>(vi)</num>
+            <text>Optical and dental providers;</text>
+          </para>
+          <para>
+            <num>(vii)</num>
+            <text>Chiropractors;</text>
+          </para>
+          <para>
+            <num>(viii)</num>
+            <text>Long-term care facilities;</text>
+          </para>
+          <para>
+            <num>(ix)</num>
+            <text>Ambulance services;</text>
+          </para>
+          <para>
+            <num>(x)</num>
+            <text>Pharmacies, long term-care pharmacies, mail-order pharmacies, and retailers of pharmaceuticals;</text>
+          </para>
+          <para>
+            <num>(xi)</num>
+            <text>Veterinary clinics; and</text>
+          </para>
+          <para>
+            <num>(xii)</num>
+            <text>Veterinary hospitals.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>“Healthcare facility” does not include:</text>
+          <para>
+            <num>(i)</num>
+            <text>Pharmaceutical manufacturers;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Reverse distributors with respect to the receipt, accumulation, and processing of prescription pharmaceuticals for the purpose of facilitating or verifying manufacturer credit; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Reverse logistics centers.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(34-3)</num>
+        <text>“Household waste pharmaceutical” means a pharmaceutical that is a solid waste, as defined in <cite path="26.13.02.02">COMAR 26.13.02.02</cite>, but is excluded from being a hazardous waste under <cite path="26.13.02.04">COMAR 26.13.02.04</cite>-1A(1).</text>
       </para>
       <para>
         <num>(35)</num>
@@ -937,6 +1124,38 @@
         <text>“Liner” means a continuous layer of natural or man-made materials, beneath or on the sides of a surface impoundment, landfill, or landfill cell, which restricts the downward or lateral escape of hazardous waste constituents, or leachate.</text>
       </para>
       <para>
+        <num>(48-1)</num>
+        <text>Long-term Care Facility.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Long-term care facility” means a licensed entity that provides assistance with activities of daily living, including managing and administering pharmaceuticals to one or more individuals at the facility.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Long-term care facility” includes, but is not limited to, hospice facilities, nursing facilities, skilled nursing facilities, and the nursing and skilled nursing care portions of continuing care retirement communities.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>“Long-term care facility” does not include:</text>
+          <para>
+            <num>(i)</num>
+            <text>A group home;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>An independent living community;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>An assisted living facility; or</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>The independent and assisted living portions of a continuing care retirement community.</text>
+          </para>
+        </para>
+      </para>
+      <para>
         <num>(49)</num>
         <text>“Management” or “hazardous waste management” means the systematic control of the collection, source separation, storage, transportation, processing, treatment, recovery, and disposal of hazardous waste.</text>
       </para>
@@ -945,11 +1164,11 @@
         <text>“Manifest” means the shipping document EPA Form 8700-22, including, if necessary, EPA Form 8700-22A, originated and signed in accordance with the applicable requirements of:</text>
         <para>
           <num>(a)</num>
-          <text><cite path="|26.13.02">COMAR 26.13.02</cite>—26.13.06;</text>
+          <text><cite path="|26.13.02">COMAR 26.13.02</cite>26.13.06;</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>40 CFR Parts 262—265; or</text>
+          <text>40 CFR Parts 262265; or</text>
         </para>
         <para>
           <num>(c)</num>
@@ -1055,6 +1274,78 @@
       </para>
       <para>
         <num>(55-2)</num>
+        <text>Non-creditable Hazardous Waste Pharmaceutical.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Non-creditable hazardous waste pharmaceutical” means:</text>
+          <para>
+            <num>(i)</num>
+            <text>A prescription hazardous waste pharmaceutical that does not have a reasonable expectation to be eligible for manufacturer credit; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>A nonprescription hazardous waste pharmaceutical that does not have a reasonable expectation to be reclaimed, legitimately used, or legitimately reused.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Non-creditable hazardous waste pharmaceutical” includes, but is not limited to:</text>
+          <para>
+            <num>(i)</num>
+            <text>Investigational drugs;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Free samples of pharmaceuticals received by healthcare facilities;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Residues of pharmaceuticals remaining in empty containers;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>Contaminated personal protective equipment;</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>Floor sweepings; and</text>
+          </para>
+          <para>
+            <num>(vi)</num>
+            <text>Cleanup material from the spills of pharmaceuticals.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(55-3)</num>
+        <text>“Non-hazardous waste pharmaceutical” means a pharmaceutical that:</text>
+        <para>
+          <num>(a)</num>
+          <text>Is a solid waste as defined in <cite path="26.13.02.02">COMAR 26.13.02.02</cite>;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Is not listed in <cite path="26.13.02.15">COMAR 26.13.02.15</cite>—.19; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Does not exhibit any of the characteristics of hazardous waste identified in <cite path="26.13.02.10">COMAR 26.13.02.10</cite>—.14.</text>
+        </para>
+      </para>
+      <para>
+        <num>(55-4)</num>
+        <text>“Non-pharmaceutical hazardous waste” means a solid waste, as defined in <cite path="26.13.02.02">COMAR 26.13.02.02</cite>, that is not a pharmaceutical, as defined in this section, and:</text>
+        <para>
+          <num>(a)</num>
+          <text>Is listed in <cite path="26.13.02.15">COMAR 26.13.02.15</cite>—.19; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Exhibits one or more of the characteristics of hazardous waste identified in <cite path="26.13.02.10">COMAR 26.13.02.10</cite>—.14.</text>
+        </para>
+      </para>
+      <para>
+        <num>(55-5)</num>
         <text>Offeror.</text>
         <para>
           <num>(a)</num>
@@ -1082,7 +1373,7 @@
         </para>
       </para>
       <para>
-        <num>(55-3)</num>
+        <num>(55-6)</num>
         <text>“On-ground tank” means a tank that is situated in such a way that the bottom of the tank is on the same level as the adjacent surrounding surface so that the external tank bottom cannot be visually inspected.</text>
       </para>
       <para>
@@ -1119,7 +1410,7 @@
       </para>
       <para>
         <num>(59-2)</num>
-        <text>“Part B” means information submitted to satisfy the informational requirements of <cite path="26.13.07.02|D.|(15)">COMAR 26.13.07.02D(15)</cite>—(38), .02-1—.02-11, and any additional information requested by the Secretary in connection with an application for a CHS facility permit.</text>
+        <text>“Part B” means information submitted to satisfy the informational requirements of <cite path="26.13.07.02|D.|(15)">COMAR 26.13.07.02D(15)</cite>—(38), .02-1-.02-11, and any additional information requested by the Secretary in connection with an application for a CHS facility permit.</text>
       </para>
       <para>
         <num>(60)</num>
@@ -1178,6 +1469,70 @@
         </para>
       </para>
       <para>
+        <num>(62-2)</num>
+        <text>Pharmaceutical.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Pharmaceutical” means:</text>
+          <para>
+            <num>(i)</num>
+            <text>A drug or dietary supplement for use by humans or other animals;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>An electronic nicotine delivery system, such as an electronic cigarette or vaping pen; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>A liquid nicotine-containing product packaged for retail sale for use in electronic nicotine delivery systems, and including a pre-filled cartridge, pre-filled vial, or other packaging.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Pharmaceutical” includes, but is not limited to:</text>
+          <para>
+            <num>(i)</num>
+            <text>A dietary supplement, as defined by the Federal Food, Drug and Cosmetic Act;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>A prescription drug, as defined by 21 CFR §203.3(y);</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>An over-the-counter drug;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>A homeopathic drug;</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>A compounded drug;</text>
+          </para>
+          <para>
+            <num>(vi)</num>
+            <text>An investigational new drug;</text>
+          </para>
+          <para>
+            <num>(vii)</num>
+            <text>A pharmaceutical remaining in a nonempty container;</text>
+          </para>
+          <para>
+            <num>(viii)</num>
+            <text>Personal protective equipment contaminated with a pharmaceutical; and</text>
+          </para>
+          <para>
+            <num>(ix)</num>
+            <text>Clean-up material from a spill of a pharmaceutical.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>“Pharmaceutical” does not include dental amalgam or sharps.</text>
+        </para>
+      </para>
+      <para>
         <num>(63)</num>
         <text>“Pile” means any noncontainerized accumulation of solid, nonflowing hazardous waste that is used for treatment or storage and that is not a containment building.</text>
       </para>
@@ -1199,6 +1554,46 @@
       </para>
       <para>
         <num>(64-1)</num>
+        <text>Potentially Creditable Hazardous Waste Pharmaceutical.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Potentially creditable hazardous waste pharmaceutical” means a prescription hazardous waste pharmaceutical that:</text>
+          <para>
+            <num>(i)</num>
+            <text>Has a reasonable expectation to receive manufacturer credit;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Is in original manufacturer packaging;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Is not a pharmaceutical that was subject to a recall;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>Is undispensed; and</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>Is unexpired or is less than 1 year past its expiration date.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Potentially creditable hazardous waste pharmaceutical” does not include:</text>
+          <para>
+            <num>(i)</num>
+            <text>An evaluated hazardous waste pharmaceutical; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Nonprescription pharmaceuticals including, but not limited to, over-the-counter drugs, homeopathic drugs, and dietary supplements.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(64-2)</num>
         <text>“Primary exporter” means a person who is:</text>
         <para>
           <num>(a)</num>
@@ -1256,6 +1651,18 @@
       <para>
         <num>(67)</num>
         <text>“Representative sample” means a sample of a universe or whole (for example, waste pile, lagoon, ground water) which can be expected to exhibit the average properties of the universe or whole.</text>
+      </para>
+      <para>
+        <num>(67-1)</num>
+        <text>Reverse Distributor.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Reverse distributor” means a person that receives and accumulates prescription pharmaceuticals that are potentially creditable hazardous waste pharmaceuticals for the purpose of facilitating or verifying manufacturer credit.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Reverse distributor” includes a forward distributor, a third-party logistics provider, a pharmaceutical manufacturer, or another person who processes prescription pharmaceuticals for the facilitation or verification of manufacturer credit.</text>
+        </para>
       </para>
       <para>
         <num>(68)</num>
@@ -1326,6 +1733,22 @@
         <text>“Solid waste” means a solid waste as defined in <cite path="|26.13.02">COMAR 26.13.02</cite>.</text>
       </para>
       <para>
+        <num>(73-1)</num>
+        <text>“Solvent-contaminated wipe” means a wipe that, after use or after cleaning up a spill, meets any of the following conditions:</text>
+        <para>
+          <num>(a)</num>
+          <text>Contains one or more of the F001 through F005 solvents listed in <cite path="26.13.02.16|A.">COMAR 26.13.02.16A</cite> or the corresponding P- or U-listed solvents found in <cite path="26.13.02.19">COMAR 26.13.02.19</cite>;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Exhibits a hazardous characteristic found in <cite path="26.13.02.10">COMAR 26.13.02.10</cite>—.14 if that characteristic results from a solvent listed in <cite path="26.13.02.15">COMAR 26.13.02.15</cite>—.19; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Exhibits only the characteristic of ignitability found in <cite path="26.13.02.11">COMAR 26.13.02.11</cite> due to the presence of one or more solvents that are not listed in <cite path="26.13.02.15">COMAR 26.13.02.15</cite>—.19.</text>
+        </para>
+      </para>
+      <para>
         <num>(74)</num>
         <text>“Spill” means the accidental spilling, leaking, pumping, pouring, emitting, or dumping of hazardous wastes or materials which, when spilled, become hazardous wastes into or onto any land or water.</text>
       </para>
@@ -1339,7 +1762,15 @@
       </para>
       <para>
         <num>(76-1)</num>
-        <text>“Sump” means any pit or reservoir that is a tank, and the troughs or trenches connected to it, that serves to collect hazardous waste for transport to hazardous waste storage, treatment, or disposal facilities.</text>
+        <text>Sump.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Sump” means, except as provided in <cite path="26|13|01|.03|B.|(76-1)|(b)">§B(76-1)(b) of this regulation</cite>, any pit or reservoir that is a tank, and the troughs or trenches connected to it, that serves to collect hazardous waste for transport to hazardous waste storage, treatment, or disposal facilities.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Sump” means, in the context of regulations in this subtitle for landfills, surface impoundments, and waste piles, a lined pit or reservoir that serves to collect liquids drained from a leachate collection and removal system or leak detection system for subsequent removal from the system.</text>
+        </para>
       </para>
       <para>
         <num>(77)</num>
@@ -1486,11 +1917,15 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>Pesticides as described in <cite path="26.13.10.08">COMAR 26.13.10.08</cite>; or</text>
+          <text>Pesticides as described in <cite path="26.13.10.08">COMAR 26.13.10.08</cite>;</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>Mercury-containing equipment, lamps, or PCB-containing lamp ballasts, each as described in <cite path="26.13.10.09">COMAR 26.13.10.09</cite>.</text>
+          <text>Mercury-containing equipment, lamps, or PCB-containing lamp ballasts, each as described in <cite path="26.13.10.09">COMAR 26.13.10.09</cite>; or</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Aerosol cans as described in <cite path="26.13.10.09">COMAR 26.13.10.09</cite>-1.</text>
         </para>
       </para>
       <para>
@@ -1505,11 +1940,15 @@
           </para>
           <para>
             <num>(ii)</num>
-            <text>The owner or operator of a facility, including all contiguous property, that receives universal waste from other universal waste handlers, accumulates universal waste, and sends universal waste to another universal waste handler, a destination facility, or a foreign destination; or</text>
+            <text>The owner or operator of a facility, including all contiguous property, that receives universal waste from other universal waste handlers, accumulates universal waste, and sends universal waste to another universal waste handler, a destination facility, or a foreign destination;</text>
           </para>
           <para>
             <num>(iii)</num>
-            <text>A person that treats universal waste as described in <cite path="26.13.10.12">COMAR 26.13.10.12</cite>, .14, or .15B(3)(c), including large quantity handlers as described in <cite path="26.13.10.20|A.">COMAR 26.13.10.20A</cite>, B, or D.</text>
+            <text>A person that treats universal waste as described in <cite path="26.13.10.12">COMAR 26.13.10.12</cite>, .14, or .15B(3)(c), including large quantity handlers as described in <cite path="26.13.10.20|A.">COMAR 26.13.10.20A</cite>, B, or D; or</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>A person that recycles universal waste under the provisions of <cite path="26.13.10.16">COMAR 26.13.10.16</cite>-1, including large quantity handlers as described in <cite path="26.13.10.20|F.">COMAR 26.13.10.20F</cite>.</text>
           </para>
         </para>
         <para>
@@ -1525,7 +1964,7 @@
           </para>
           <para>
             <num>(iii)</num>
-            <text>Person that recycles universal waste;</text>
+            <text>Person that recycles universal waste, except for persons identified in <cite path="26|13|01|.03|B.|(89-2)|(a)|(iv)">§B(89-2)(a)(iv) of this regulation</cite>;</text>
           </para>
           <para>
             <num>(iv)</num>
@@ -1551,11 +1990,11 @@
       </para>
       <para>
         <num>(90-1)</num>
-        <text>“Used, broken cathode ray tube (CRT) ” means a CRT for which the glass has been removed from its housing or casing and from which the vacuum has been eliminated.</text>
+        <text>“Used, broken cathode ray tube (CRT)” means a CRT for which the glass has been removed from its housing or casing and from which the vacuum has been eliminated.</text>
       </para>
       <para>
         <num>(90-2)</num>
-        <text>"Used, intact cathode ray tube (CRT) means a CRT from which the vacuum has not been eliminated.</text>
+        <text>“Used, intact cathode ray tube (CRT) means a CRT from which the vacuum has not been eliminated.</text>
       </para>
       <para>
         <num>(90-3)</num>
@@ -1624,6 +2063,10 @@
       <para>
         <num>(95)</num>
         <text>“Well injection” (see “underground injection”).</text>
+      </para>
+      <para>
+        <num>(95-1)</num>
+        <text>“Wipe” means a woven or non-woven shop towel, rag, pad, or swab made of wood pulp, fabric, cotton,  polyester blends, or other material.</text>
       </para>
       <para>
         <num>(96)</num>
@@ -1875,7 +2318,7 @@
           </para>
           <para>
             <num>(ii)</num>
-            <text>The petitioner shall make the same demonstration as required by <cite path="26|13|01|.04|C.|(1)">§C(1) of this regulation</cite>, except that if the waste is a mixture of solid waste and one or more listed hazardous wastes or if the waste is derived from one or more hazardous wastes, the petitioner’s demonstration may be made with respect to each constituent listed waste or the waste mixture as a whole; and</text>
+            <text>The petitioner shall make the same demonstration as required by <cite path="26|13|01|.04|C.|(1)">§C(1) of this regulation</cite>, except that if the waste is a mixture of solid waste and one or more listed hazardous wastes or if the waste is derived from one or more hazardous wastes, the petitioner's demonstration may be made with respect to each constituent listed waste or the waste mixture as a whole; and</text>
           </para>
           <para>
             <num>(iii)</num>
@@ -2441,7 +2884,7 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>If a person managing hazardous secondary materials has submitted a notification, but then subsequently stops managing hazardous secondary materials under a variance granted under <cite path="26|13|01|.04|D.">§D of this regulation</cite>, the person shall notify the Department within 30 days using EPA Form 8700–12. For the purposes of this requirement, a facility is considered to have stopped managing hazardous secondary materials if the facility no longer generates, manages, or reclaims hazardous secondary materials under <cite path="26|13|01|.04|D.">§D of this regulation</cite> and does not expect to manage any amount of hazardous secondary materials for at least 1 year.</text>
+        <text>If a person managing hazardous secondary materials has submitted a notification, but then subsequently stops managing hazardous secondary materials under a variance granted under <cite path="26|13|01|.04|D.">§D of this regulation</cite>, the person shall notify the Department within 30 days using EPA Form 8700-12. For the purposes of this requirement, a facility is considered to have stopped managing hazardous secondary materials if the facility no longer generates, manages, or reclaims hazardous secondary materials under <cite path="26|13|01|.04|D.">§D of this regulation</cite> and does not expect to manage any amount of hazardous secondary materials for at least 1 year.</text>
       </para>
     </para>
     <para>
@@ -2485,7 +2928,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Mandatory Criteria.  In order to be considered legitimate recycling, an activity is required to:</text>
+        <text>Mandatory Criteria. In order to be considered legitimate recycling, an activity is required to:</text>
         <para>
           <num>(a)</num>
           <text>Involve a hazardous secondary material that provides a useful contribution to the recycling process or to a product or intermediate of the recycling process by:</text>
@@ -2595,11 +3038,15 @@
           </para>
           <para>
             <num>(v)</num>
-            <text>The unit is operated so that only mutually compatible materials are placed in the unit; and</text>
+            <text>The unit is operated so that only mutually compatible materials are placed in the unit;</text>
           </para>
           <para>
             <num>(vi)</num>
-            <text>The materials being held in the unit are compatible with the materials of construction of the unit.</text>
+            <text>The materials being held in the unit are compatible with the materials of construction of the unit; and</text>
+          </para>
+          <para>
+            <num>(vii)</num>
+            <text>The unit is designed and operated in a manner that addresses any potential risks of fires or explosions.</text>
           </para>
         </para>
         <para>
@@ -2644,19 +3091,19 @@
         <text>As qualified by <cite path="26|13|01|.05|B.|(2)">§B(2) of this regulation</cite>, certain federal regulations are incorporated by reference as follows:</text>
         <para>
           <num>(a)</num>
-          <text>When used in <cite path="|26.13.05">COMAR 26.13.05</cite>, 40 CFR §§144.3 and 264.140—264.151 as of July 1, 2019, are incorporated by reference;</text>
+          <text>When used in <cite path="|26.13.05">COMAR 26.13.05</cite>, 40 CFR §§144.3 and 264.140—264.151 as of July 1, 2024, are incorporated by reference;</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>When used in <cite path="|26.13.06">COMAR 26.13.06</cite>, the federal regulations as of July 1, 2019, in 40 CFR §§265.90—265.94, 265.140—265.148, 265.270—265.282, 265.340—265.351, 265.370—265.382, and 265.400—265.406 are incorporated by reference;</text>
+          <text>When used in <cite path="|26.13.06">COMAR 26.13.06</cite>, the federal regulations as of July 1, 2024, in 40 CFR §§265.90—265.94, 265.140—265.148, 265.270—265.282, 265.340—265.351, 265.370—265.382, and 265.400—265.406 are incorporated by reference;</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>When used in <cite path="|26.13.01">COMAR 26.13.01</cite>—26.13.10, the federal regulations as of July 1, 2019, in 40 CFR Part 264, Appendix IX Ground Water Monitoring List, 40 CFR Part 261, Appendix III Chemical Analysis Test Methods, and 49 CFR 173, 178, and 179 are incorporated by reference;</text>
+          <text>When used in <cite path="|26.13.01">COMAR 26.13.01</cite>—26.13.10, Appendix IX of 40 CFR Part 264, as amended (Ground Water Monitoring List is incorporated by reference;</text>
         </para>
         <para>
           <num>(d)</num>
-          <text>When used in <cite path="26.13.03.07">COMAR 26.13.03.07</cite>, the federal regulations as of July 1, 2019, in 40 CFR §§262.81—262.89 are incorporated by reference;</text>
+          <text>When used in <cite path="26.13.03.07">COMAR 26.13.03.07</cite>, the federal regulations as of July 1, 2024, in 40 CFR §§262.81—262.89 are incorporated by reference;</text>
         </para>
         <para>
           <num>(e)</num>
@@ -2668,55 +3115,67 @@
         </para>
         <para>
           <num>(g)</num>
-          <text>When used in <cite path="26.13.02.17|D.">COMAR 26.13.02.17D</cite>, the federal regulations as of July 1, 2020 in 40 CFR §261.32(d) are incorporated by reference;</text>
+          <text>When used in <cite path="26.13.02.17|D.">COMAR 26.13.02.17D</cite>, the federal regulations as of July 1, 2024 in 40 CFR §261.32(d) are incorporated by reference;</text>
         </para>
         <para>
           <num>(h)</num>
-          <text>When used in <cite path="26.13.02.19">COMAR 26.13.02.19</cite>-7, the federal regulations as of July 1, 2020, in 40 CFR §261.39(a)(5) are incorporated by reference;</text>
+          <text>When used in <cite path="26.13.02.19">COMAR 26.13.02.19</cite>-7, the federal regulations as of July 1, 2024, in 40 CFR §261.39(a)(5) are incorporated by reference;</text>
         </para>
         <para>
           <num>(i)</num>
-          <text>When used in <cite path="26.13.02.19">COMAR 26.13.02.19</cite>-8 the federal regulations as of July 1, 2020, in 40 CFR §261.41 are incorporated by reference;</text>
+          <text>When used in <cite path="26.13.02.19">COMAR 26.13.02.19</cite>-8 the federal regulations as of July 1, 2024, in 40 CFR §261.41 are incorporated by reference;</text>
         </para>
         <para>
           <num>(j)</num>
-          <text>When used in <cite path="26.13.03.07">COMAR 26.13.03.07</cite>, the federal regulations as of July 1, 2020, in 40 CFR Part 262, Subpart H, are incorporated by reference;</text>
+          <text>When used in <cite path="26.13.03.05|F.|(4)">COMAR 26.13.03.05F(4)</cite>, the federal regulations as of July 1, 2024, in 40 CFR §314(e) are incorporated by reference;</text>
         </para>
         <para>
           <num>(k)</num>
-          <text>When used in <cite path="26.13.05.02|C.|(1)">COMAR 26.13.05.02C(1)</cite>, the federal regulations as of July 1, 2020, in 40 CFR §264.12(a) are incorporated by reference;</text>
+          <text>When used in <cite path="26.13.03.07">COMAR 26.13.03.07</cite>, the federal regulations as of July 1, 2024, in 40 CFR Part 262, Subpart H, are incorporated by reference;</text>
         </para>
         <para>
           <num>(l)</num>
-          <text>When used in <cite path="26.13.05.11">COMAR 26.13.05.11</cite>, the federal regulations as of July 1, 2020, in 40 CFR §§264.221(c)(2)(i)—(iv) and .223(b)—(d) are incorporated by reference;</text>
+          <text>When used in <cite path="26.13.05.02|C.|(1)">COMAR 26.13.05.02C(1)</cite>, the federal regulations as of July 1, 2024, in 40 CFR §264.12(a) are incorporated by reference;</text>
         </para>
         <para>
           <num>(m)</num>
-          <text>When used in <cite path="26.13.05.12">COMAR 26.13.05.12</cite>, the federal regulations as of July 1, 2020, in 40 CFR §253(b) and (c) are incorporated by reference;</text>
+          <text>When used in <cite path="26.13.05.04|G.|(4)">COMAR 26.13.05.04G(4)</cite>, 40 CFR Part 302, as amended, is incorporated by reference;</text>
         </para>
         <para>
           <num>(n)</num>
-          <text>When used in <cite path="26.13.05.14">COMAR 26.13.05.14</cite>, the federal regulations as of July 1, 2020, in 40 CFR §§264.301(c)(3)(i)—(v), .301(c)(5), .303(c), and .304(b) are incorporated by reference;</text>
+          <text>When used in <cite path="26.13.05.11">COMAR 26.13.05.11</cite>, the federal regulations as of July 1, 2024, in 40 CFR §§264.221(c)(2)(i)—(iv) and .223(b)—(d) are incorporated by reference;</text>
         </para>
         <para>
           <num>(o)</num>
-          <text>When used in <cite path="26.13.06.19">COMAR 26.13.06.19</cite>, the federal regulations as of July 1, 2020, in 40 CFR §§265.222 and .223 are incorporated by reference;</text>
+          <text>When used in <cite path="26.13.05.12">COMAR 26.13.05.12</cite>, the federal regulations as of July 1, 2024, in 40 CFR §253(b) and (c) are incorporated by reference;</text>
         </para>
         <para>
           <num>(p)</num>
-          <text>When used in <cite path="26.13.06.20">COMAR 26.13.06.20</cite>, the federal regulations as of July 1, 2020, in 40 CFR §§265.254, .255, and .259 are incorporated by reference;</text>
+          <text>When used in <cite path="26.13.05.14">COMAR 26.13.05.14</cite>, the federal regulations as of July 1, 2024, in 40 CFR §§264.301(c)(3)(i)—(v), .301(c)(5), .303(c), and .304(b) are incorporated by reference;</text>
         </para>
         <para>
           <num>(q)</num>
-          <text>When used in <cite path="26.13.06.22">COMAR 26.13.06.22</cite>, the federal regulations as of July 1, 2020, in 40 CFR §§265.302 and .303 are incorporated by reference;</text>
+          <text>When used in <cite path="26.13.06.19">COMAR 26.13.06.19</cite>, the federal regulations as of July 1, 2024, in 40 CFR §§265.222 and .223 are incorporated by reference;</text>
         </para>
         <para>
           <num>(r)</num>
-          <text>When used in <cite path="26.13.07.13">COMAR 26.13.07.13</cite>-2A(13), the federal regulations as of July 1, 2020, in Appendix I of 40 CFR §270.42 are incorporated by reference; and</text>
+          <text>When used in <cite path="26.13.06.20">COMAR 26.13.06.20</cite>, the federal regulations as of July 1, 2024, in 40 CFR §§265.254, .255, and .259 are incorporated by reference;</text>
         </para>
         <para>
           <num>(s)</num>
-          <text>Except as qualified by <cite path="26.13.09.03">COMAR 26.13.09.03</cite>, when used in used in <cite path="|26.13.01">COMAR 26.13.01</cite>—26.13.10, the federal regulations as of July 1, 2020, in 40 CFR Part 268 are incorporated by reference.</text>
+          <text>When used in <cite path="26.13.06.22">COMAR 26.13.06.22</cite>, the federal regulations as of July 1, 2024, in 40 CFR §§265.302 and .303 are incorporated by reference;</text>
+        </para>
+        <para>
+          <num>(t)</num>
+          <text>When used in <cite path="26.13.07.13">COMAR 26.13.07.13</cite>-2A(13), the federal regulations as of July 1, 2024, in Appendix I of 40 CFR §270.42 are incorporated by reference; and</text>
+        </para>
+        <para>
+          <num>(u)</num>
+          <text>Except as qualified by <cite path="26.13.09.03">COMAR 26.13.09.03</cite>, when used in used in <cite path="|26.13.01">COMAR 26.13.01</cite>—26.13.10, the federal regulations as of July 1, 2024, in 40 CFR Part 268 are incorporated by reference.</text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <text>When used in <cite path="26.13.10.49|C.">COMAR 26.13.10.49C</cite>, the federal regulations as of July 1, 2024, in 40 CFR §§266.510(a), (b)(1), b(2), b(4), c(1)—(4), and c(7)—(10) are incorporated by reference.</text>
         </para>
       </para>
       <para>
@@ -2739,768 +3198,862 @@
               </thead>
               <tbody>
                 <tr>
-                  <td>§122.72(c). Note that, although there is a cross-reference to this citation in 40 <br/>CFR §265.276, it has been recodified. The current citation for this provision is 40 CFR §270.72(a)(3).</td>
-                  <td>
+                  <td data-vertical-align="middle">§122.72(c). Note that, although there is a cross-reference to this citation in 40 CFR §265.276, it has been recodified. The current citation for this provision is 40 CFR §270.72(a)(3).</td>
+                  <td data-vertical-align="middle">
                     <cite path="26.13.07.23|C.|(1)|(c)">26.13.07.23C(1)(c)</cite>
                   </td>
                 </tr>
                 <tr>
-                  <td>§124.5</td>
-                  <td>
+                  <td data-vertical-align="middle">§124.5</td>
+                  <td data-vertical-align="middle">
                     <cite path="26.13.07.20|B.">26.13.07.20B</cite>
                   </td>
                 </tr>
                 <tr>
-                  <td>§144.62(a)—(c)</td>
-                  <td>No analog. Maryland prohibits underground injection.</td>
+                  <td data-vertical-align="middle">§144.62(a)—(c)</td>
+                  <td data-vertical-align="middle">No analog. Maryland prohibits underground injection.</td>
                 </tr>
                 <tr>
-                  <td>§144.70(f)</td>
-                  <td>No analog. Maryland prohibits underground injection.</td>
+                  <td data-vertical-align="middle">§144.70(f)</td>
+                  <td data-vertical-align="middle">No analog. Maryland prohibits underground injection.</td>
                 </tr>
                 <tr>
-                  <td>Part 260</td>
-                  <td>26.13.01</td>
+                  <td data-vertical-align="middle">Part 260</td>
+                  <td data-vertical-align="middle">26.13.01</td>
                 </tr>
                 <tr>
-                  <td>§260.10</td>
-                  <td>
+                  <td data-vertical-align="middle">§260.10</td>
+                  <td data-vertical-align="middle">
                     <cite path="26.13.01.03">26.13.01.03</cite>
                   </td>
                 </tr>
                 <tr>
-                  <td>§260.20</td>
-                  <td>
+                  <td data-vertical-align="middle">§260.20</td>
+                  <td data-vertical-align="middle">
                     <cite path="26.13.01.04|A.">26.13.01.04A</cite>
                   </td>
                 </tr>
                 <tr>
-                  <td>§Part 261</td>
-                  <td>26.13.02</td>
+                  <td data-vertical-align="middle">Part 261</td>
+                  <td data-vertical-align="middle">26.13.02</td>
                 </tr>
                 <tr>
-                  <td>Part 261, Subpart C</td>
-                  <td><cite path="26.13.02.10">26.13.02.10</cite>—.14</td>
+                  <td data-vertical-align="middle">Part 261, Subpart C</td>
+                  <td data-vertical-align="middle"><cite path="26.13.02.10">26.13.02.10</cite>—.14</td>
                 </tr>
                 <tr>
-                  <td>Part 261, Subpart D</td>
-                  <td><cite path="26.13.02.15">26.13.02.15</cite>—.19-5</td>
+                  <td data-vertical-align="middle">Part 261, Subpart D</td>
+                  <td data-vertical-align="middle"><cite path="26.13.02.15">26.13.02.15</cite>—.19-5</td>
                 </tr>
                 <tr>
-                  <td>§261.2</td>
-                  <td>
+                  <td data-vertical-align="middle">§261.2</td>
+                  <td data-vertical-align="middle">
                     <cite path="26.13.02.02">26.13.02.02</cite>
                   </td>
                 </tr>
                 <tr>
-                  <td>§261.3</td>
-                  <td>
+                  <td data-vertical-align="middle">§261.3</td>
+                  <td data-vertical-align="middle">
                     <cite path="26.13.02.03">26.13.02.03</cite>
                   </td>
                 </tr>
                 <tr>
-                  <td>§261.3(c) and (d)</td>
-                  <td><cite path="26.13.02.03|C.">26.13.02.03C</cite> and D</td>
+                  <td data-vertical-align="middle">§261.3(c) and (d)</td>
+                  <td data-vertical-align="middle"><cite path="26.13.02.03|C.">26.13.02.03C</cite> and D</td>
                 </tr>
                 <tr>
-                  <td>§261.3(f)</td>
-                  <td>
+                  <td data-vertical-align="middle">§261.3(f)</td>
+                  <td data-vertical-align="middle">
                     <cite path="26.13.02.03|E.">26.13.02.03E</cite>
                   </td>
                 </tr>
                 <tr>
-                  <td>§261.3(f)(1)</td>
-                  <td>
+                  <td data-vertical-align="middle">§261.3(f)(1)</td>
+                  <td data-vertical-align="middle">
                     <cite path="26.13.02.03|E.|(1)">26.13.02.03E(1)</cite>
                   </td>
                 </tr>
                 <tr>
-                  <td>§261.3(f)(2)</td>
-                  <td>
+                  <td data-vertical-align="middle">§261.3(f)(2)</td>
+                  <td data-vertical-align="middle">
                     <cite path="26.13.02.03|E.|(2)">26.13.02.03E(2)</cite>
                   </td>
                 </tr>
                 <tr>
-                  <td>§261.4(a)(2)</td>
-                  <td>
+                  <td data-vertical-align="middle">§261.4(a)(2)</td>
+                  <td data-vertical-align="middle">
                     <cite path="26.13.02.04|A.|(2)">26.13.02.04A(2)</cite>
                   </td>
                 </tr>
                 <tr>
-                  <td>§261.21</td>
-                  <td>
+                  <td data-vertical-align="middle">§261.21</td>
+                  <td data-vertical-align="middle">
                     <cite path="26.13.02.11">26.13.02.11</cite>
                   </td>
                 </tr>
                 <tr>
-                  <td>§261.21(a)(1)</td>
-                  <td>
+                  <td data-vertical-align="middle">§261.21(a)(1)</td>
+                  <td data-vertical-align="middle">
                     <cite path="26.13.02.11|A.|(1)">26.13.02.11A(1)</cite>
                   </td>
                 </tr>
                 <tr>
-                  <td>§261.21(a)(2)</td>
-                  <td>
+                  <td data-vertical-align="middle">§261.21(a)(2)</td>
+                  <td data-vertical-align="middle">
                     <cite path="26.13.02.11|A.|(2)">26.13.02.11A(2)</cite>
                   </td>
                 </tr>
                 <tr>
-                  <td>§261.21(a)(3)</td>
-                  <td>
+                  <td data-vertical-align="middle">§261.21(a)(3)</td>
+                  <td data-vertical-align="middle">
                     <cite path="26.13.02.11|A.|(3)">26.13.02.11A(3)</cite>
                   </td>
                 </tr>
                 <tr>
-                  <td>§261.21(a)(4)</td>
-                  <td>
+                  <td data-vertical-align="middle">§261.21(a)(4)</td>
+                  <td data-vertical-align="middle">
                     <cite path="26.13.02.11|A.|(4)">26.13.02.11A(4)</cite>
                   </td>
                 </tr>
                 <tr>
-                  <td>§261.22</td>
-                  <td>
+                  <td data-vertical-align="middle">§261.22</td>
+                  <td data-vertical-align="middle">
                     <cite path="26.13.02.12">26.13.02.12</cite>
                   </td>
                 </tr>
                 <tr>
-                  <td>§261.22(a)(1)</td>
-                  <td>
+                  <td data-vertical-align="middle">§261.22(a)(1)</td>
+                  <td data-vertical-align="middle">
                     <cite path="26.13.02.12|A.|(1)">26.13.02.12A(1)</cite>
                   </td>
                 </tr>
                 <tr>
-                  <td>§261.22(a)(2)</td>
-                  <td>
+                  <td data-vertical-align="middle">§261.22(a)(2)</td>
+                  <td data-vertical-align="middle">
                     <cite path="26.13.02.12|A.|(2)">26.13.02.12A(2)</cite>
                   </td>
                 </tr>
                 <tr>
-                  <td>§261.23</td>
-                  <td>
+                  <td data-vertical-align="middle">§261.23</td>
+                  <td data-vertical-align="middle">
                     <cite path="26.13.02.13">26.13.02.13</cite>
                   </td>
                 </tr>
                 <tr>
-                  <td>§261.23(a)(4) and (5)</td>
-                  <td><cite path="26.13.02.13|A.|(4)">26.13.02.13A(4)</cite> and (5)</td>
+                  <td data-vertical-align="middle">§261.23(a)(4) and (5)</td>
+                  <td data-vertical-align="middle"><cite path="26.13.02.13|A.|(4)">26.13.02.13A(4)</cite> and (5)</td>
                 </tr>
                 <tr>
-                  <td>§261.23(a)(1)—(8)</td>
-                  <td><cite path="26.13.02.13|A.|(1)">26.13.02.13A(1)</cite>—(8)</td>
+                  <td data-vertical-align="middle">§261.23(a)(1)—(8)</td>
+                  <td data-vertical-align="middle"><cite path="26.13.02.13|A.|(1)">26.13.02.13A(1)</cite>—(8)</td>
                 </tr>
                 <tr>
-                  <td>§261.24</td>
-                  <td>
+                  <td data-vertical-align="middle">§261.24</td>
+                  <td data-vertical-align="middle">
                     <cite path="26.13.02.14">26.13.02.14</cite>
                   </td>
                 </tr>
                 <tr>
-                  <td>§261.31</td>
-                  <td>
+                  <td data-vertical-align="middle">§261.31</td>
+                  <td data-vertical-align="middle">
                     <cite path="26.13.02.16">26.13.02.16</cite>
                   </td>
                 </tr>
                 <tr>
-                  <td>§261.32</td>
-                  <td>
+                  <td data-vertical-align="middle">§261.32</td>
+                  <td data-vertical-align="middle">
                     <cite path="26.13.02.17">26.13.02.17</cite>
                   </td>
                 </tr>
                 <tr>
-                  <td>§261.33</td>
-                  <td>
+                  <td data-vertical-align="middle">§261.33</td>
+                  <td data-vertical-align="middle">
                     <cite path="26.13.02.19">26.13.02.19</cite>
                   </td>
                 </tr>
                 <tr>
-                  <td>Part 261, Appendix VIII</td>
-                  <td>
+                  <td data-vertical-align="middle">Part 261, Appendix VIII</td>
+                  <td data-vertical-align="middle">
                     <cite path="26.13.02.24">26.13.02.24</cite>
                   </td>
                 </tr>
                 <tr>
-                  <td>Part 262</td>
-                  <td>26.13.03</td>
+                  <td data-vertical-align="middle">Part 262</td>
+                  <td data-vertical-align="middle">26.13.03</td>
                 </tr>
                 <tr>
-                  <td>Part 262, Subpart B</td>
-                  <td>
+                  <td data-vertical-align="middle">Part 262, Subpart B</td>
+                  <td data-vertical-align="middle">
                     <cite path="26.13.03.04">26.13.03.04</cite>
                   </td>
                 </tr>
                 <tr>
-                  <td>Part 262, Subpart F</td>
-                  <td><cite path="26.13.03.07">26.13.03.07</cite>-3</td>
+                  <td data-vertical-align="middle">Part 262, Subpart F</td>
+                  <td data-vertical-align="middle"><cite path="26.13.03.07">26.13.03.07</cite>-3</td>
                 </tr>
                 <tr>
-                  <td>262.11</td>
-                  <td><cite path="26.13.03.02">26.13.03.02</cite>, .02-1, and .02-2</td>
+                  <td>Part 262, Subpart M</td>
+                  <td><cite path="26.13.03.03">26.13.03.03</cite>-5C and D</td>
                 </tr>
                 <tr>
-                  <td>262.15</td>
-                  <td><cite path="26.13.03.03">26.13.03.03</cite>-3</td>
+                  <td>§262.17(a)(7)</td>
+                  <td><cite path="26.13.03.03">26.13.03.03</cite>-5B</td>
                 </tr>
                 <tr>
-                  <td>262.16</td>
-                  <td><cite path="26.13.03.03">26.13.03.03</cite>-4-.03-10, .05E, .05-1, and .05-2</td>
+                  <td>§262.17(a)(7)(iv)</td>
+                  <td><cite path="26.13.03.03">26.13.03.03</cite>-5B(1)(a)</td>
                 </tr>
                 <tr>
-                  <td>262.17</td>
-                  <td><cite path="26.13.03.03">26.13.03.03</cite>-4-.03-11, .05E, .05-1, and .05-2</td>
+                  <td data-vertical-align="middle">262.11</td>
+                  <td data-vertical-align="middle"><cite path="26.13.03.02">26.13.03.02</cite>, .02-1, and .02-2</td>
                 </tr>
                 <tr>
-                  <td>262.20(e)</td>
-                  <td>Not applicable. No corresponding provision in <cite path="|26.13">COMAR 26.13</cite>.</td>
+                  <td data-vertical-align="middle">262.15</td>
+                  <td data-vertical-align="middle"><cite path="26.13.03.03">26.13.03.03</cite>-3</td>
                 </tr>
                 <tr>
-                  <td>§262.23(c) and (d)</td>
-                  <td><cite path="26.13.03.04|E.|(4)">26.13.03.04E(4)</cite> and (5)</td>
+                  <td data-vertical-align="middle">262.16</td>
+                  <td data-vertical-align="middle"><cite path="26.13.03.03">26.13.03.03</cite>-4-.03-10, .05E, .05-1, and .05-2</td>
                 </tr>
                 <tr>
-                  <td>§262.41</td>
+                  <td data-vertical-align="middle">262.17</td>
+                  <td data-vertical-align="middle"><cite path="26.13.03.03">26.13.03.03</cite>-4-.03-11, .05E, .05-1, and .05-2</td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">262.20(e)</td>
+                  <td data-vertical-align="middle">Not applicable. No corresponding provision in <cite path="|26.13">COMAR 26.13</cite>.</td>
+                </tr>
+                <tr>
+                  <td>§262.23(a)</td>
                   <td>
+                    <cite path="26.13.03.04|E.|(1)">26.13.03.04E(1)</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§262.23(c) and (d)</td>
+                  <td data-vertical-align="middle"><cite path="26.13.03.04|E.|(4)">26.13.03.04E(4)</cite> and (5)</td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§262.41</td>
+                  <td data-vertical-align="middle">
                     <cite path="26.13.03.06|B.">26.13.03.06B</cite>
                   </td>
                 </tr>
                 <tr>
-                  <td>§262.42</td>
-                  <td>
+                  <td data-vertical-align="middle">§262.42</td>
+                  <td data-vertical-align="middle">
                     <cite path="26.13.03.06|C.">26.13.03.06C</cite>
                   </td>
                 </tr>
                 <tr>
-                  <td>§262.51</td>
+                  <td data-vertical-align="middle">§262.51</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.01.03|B.">26.13.01.03B</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§262.54(a)—(d) and (i)</td>
+                  <td data-vertical-align="middle"><cite path="26.13.03.07">26.13.03.07</cite>-2A(1)—(4) and (10)</td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§262.58</td>
+                  <td data-vertical-align="middle"><cite path="26.13.03.07">26.13.03.07</cite>-5A—D</td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§262.58(a)(1) and (2)</td>
+                  <td data-vertical-align="middle"><cite path="26.13.03.07">26.13.03.07</cite>-5C(1) and (2)</td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§262.80(a)</td>
+                  <td data-vertical-align="middle"><cite path="26.13.03.07">26.13.03.07</cite>-5A</td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">Part 263</td>
+                  <td data-vertical-align="middle">26.13.04</td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">Part 264</td>
+                  <td data-vertical-align="middle">26.13.05</td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">Part 264, Subpart F</td>
+                  <td data-vertical-align="middle"><cite path="26.13.05.06">26.13.05.06</cite>-.06-7</td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">Part 264, Subpart O</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.05.16">26.13.05.16</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§264.1</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.05.01|A.">26.13.05.01A</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§264.13</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.05.02|D.">26.13.05.02D</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§264.17(b)</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.05.02|H.|(2)">26.13.05.02H(2)</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td>§265.72</td>
+                  <td>
+                    <cite path="26.13.06.05|A.">26.13.06.05A</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§264.73</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.05.05|D.">26.13.05.05D</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§264.111</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.05.07|B.">26.13.05.07B</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§264.112</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.05.07|C.">26.13.05.07C</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§264.112(b)</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.05.07|C.|(2)">26.13.05.07C(2)</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§264.113</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.05.07|D.">26.13.05.07D</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§264.113(d)</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.05.07|D.|(6)">26.13.05.07D(6)</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§264.114</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.05.07|E.">26.13.05.07E</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§264.115</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.05.07|F.">26.13.05.07F</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§264.117</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.05.07|G.">26.13.05.07G</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§264.118</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.05.07|H.">26.13.05.07H</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§264.119</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.05.07|I.">26.13.05.07I</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§264.120</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.05.07|J.">26.13.05.07J</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§§264.140—264.151 (Part 264, Subpart H)</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.05.08">26.13.05.08</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§264.178</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.05.09|I.">26.13.05.09I</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§264.197</td>
+                  <td data-vertical-align="middle"><cite path="26.13.05.10">26.13.05.10</cite>-7</td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§264.221(a)</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.05.11|D.|(10)">26.13.05.11D(10)</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§264.221(c)</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.05.11|D.|(4)">26.13.05.11D(4)</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§264.221(d)</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.05.11|B.|(6)">26.13.05.11B(6)</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§264.221(e)</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.05.11|D.|(6)">26.13.05.11D(6)</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§264.228</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.05.11|G.">26.13.05.11G</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§264.258</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.05.12|I.">26.13.05.12I</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§264.280</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.05.13|K.">26.13.05.13K</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§264.301(c)</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.05.14|B.|(3)">26.13.05.14B(3)</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§264.301(d)</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.05.14|B.|(4)">26.13.05.14B(4)</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§264.301(e)</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.05.14|B.|(5)">26.13.05.14B(5)</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§264.310</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.05.14|J.">26.13.05.14J</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§264.316</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.05.14|N.">26.13.05.14N</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§264.351</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.05.16|E.">26.13.05.16E</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§264.554</td>
+                  <td data-vertical-align="middle">Not applicable. No corresponding provision in <cite path="|26.13">COMAR 26.13</cite>.</td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§§264.601—264.603 (Part 264, Subpart X)</td>
+                  <td data-vertical-align="middle"><cite path="26.13.05.16">26.13.05.16</cite>-1</td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">Part 265</td>
+                  <td data-vertical-align="middle">26.13.06</td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">Part 265, Subpart F</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.06.06">26.13.06.06</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">Part 265, Subpart G</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.06.12">26.13.06.12</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">Part 265, Subpart H</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.06.16">26.13.06.16</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">Part 265, Subpart J</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.06.18">26.13.06.18</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">Part 265, Subpart K</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.06.19">26.13.06.19</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">Part 265, Subpart M</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.06.21">26.13.06.21</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">Part 265, Subpart O</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.06.23">26.13.06.23</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">Part 265, Subpart P</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.06.24">26.13.06.24</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">Part 265, Subpart Q</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.06.25">26.13.06.25</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§265.1</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.06.01|A.">26.13.06.01A</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§265.13</td>
+                  <td data-vertical-align="middle"><cite path="26.13.06.02|A.">26.13.06.02A</cite>—C and <cite path="26.13.05.02|D.">26.13.05.02D</cite></td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§265.15(c)</td>
+                  <td data-vertical-align="middle"><cite path="26.13.06.02|A.">26.13.06.02A</cite>, D, E and <cite path="26.13.05.02|F.">26.13.05.02F</cite></td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§265.17(b)</td>
+                  <td data-vertical-align="middle"><cite path="26.13.06.02|A.">26.13.06.02A</cite> and <cite path="26.13.05.02|H.|(2)">26.13.05.02H(2)</cite></td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§265.21</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.02.11">26.13.02.11</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td>§265.72</td>
+                  <td>
+                    <cite path="26.13.06.05|A.">26.13.06.05A</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§265.73</td>
+                  <td data-vertical-align="middle"><cite path="26.13.06.05|A.">26.13.06.05A</cite>, B(1)—(4), C and <cite path="26.13.05.05|D.">26.13.05.05D</cite></td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§§265.90—265.94 (Part 265, Subpart F)</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.06.06">26.13.06.06</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§265.111</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.06.07|B.">26.13.06.07B</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§265.112</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.06.08">26.13.06.08</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§265.112(b)</td>
+                  <td data-vertical-align="middle"><cite path="26.13.06.08|B.">26.13.06.08B</cite>—C</td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§265.113</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.06.09">26.13.06.09</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§265.113(d)</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.06.09|H.">26.13.06.09H</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§265.114</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.06.10">26.13.06.10</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§265.115</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.06.11">26.13.06.11</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§265.117</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.06.12|C.">26.13.06.12C</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§265.118</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.06.13">26.13.06.13</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§265.119</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.06.14">26.13.06.14</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§265.120</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.06.15">26.13.06.15</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§§265.140—265.148 (Part 265, Subpart H)</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.06.16">26.13.06.16</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§265.178</td>
+                  <td data-vertical-align="middle">Maryland has not adopted regulations governing organic air emissions from containers. Use 40 CFR §265.178.</td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§265.197</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.06.18|D.">26.13.06.18D</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§265.221(a)</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.06.19|D.|(1)">26.13.06.19D(1)</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§265.221(d)</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.06.19|D.">26.13.06.19D</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§265.221(e)</td>
+                  <td data-vertical-align="middle">Not applicable. No corresponding provision in <cite path="|26.13">COMAR 26.13</cite>.</td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§265.228</td>
+                  <td data-vertical-align="middle"><cite path="26.13.06.19|B.|(4)">26.13.06.19B(4)</cite> and <cite path="26.13.05.11|G.|(1)">26.13.05.11G(1)</cite>—(2)</td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§265.258</td>
+                  <td data-vertical-align="middle"><cite path="26.13.06.20|B.|(6)">26.13.06.20B(6)</cite> and <cite path="26.13.05.12|I.|(1)">26.13.05.12I(1)</cite>—(2)</td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§§265.270—265.282 (Part 265, Subpart M)</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.06.21">26.13.06.21</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§265.301(a)</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.06.22|C.">26.13.06.22C</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§265.301(c)</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.06.22|C.">26.13.06.22C</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§265.301(d)</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.06.22|C.">26.13.06.22C</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§265.301(e)</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.06.22|E.">26.13.06.22E</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§265.310</td>
+                  <td data-vertical-align="middle"><cite path="26.13.06.22|B.|(3)">26.13.06.22B(3)</cite> and <cite path="26.13.05.14|J.">26.13.05.14J</cite></td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§265.316</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.06.21|F.">26.13.06.21F</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§§265.340—265.351 (Part 265, Subpart O)</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.06.23">26.13.06.23</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§§265.370—265.382 (Part 265, Subpart P)</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.06.24">26.13.06.24</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§§265.400—265.406 (Part 265, Subpart Q)</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.06.25">26.13.06.25</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">Part 265, Appendix III</td>
+                  <td data-vertical-align="middle">No analog. Use 40 CFR Part 265, Appendix III.</td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">Part 265, Appendix V</td>
+                  <td data-vertical-align="middle">No analog. Use 40 CFR Part 265, Appendix V.</td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">Part 266</td>
+                  <td data-vertical-align="middle">26.13.10</td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§266.20</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.10.01">26.13.10.01</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-vertical-align="middle">§266.20(b)</td>
+                  <td data-vertical-align="middle">
+                    <cite path="26.13.10.01|A.|(3)">26.13.10.01A(3)</cite>
+                  </td>
+                </tr>
+                <tr>
+                  <td>§266.500</td>
                   <td>
                     <cite path="26.13.01.03|B.">26.13.01.03B</cite>
                   </td>
                 </tr>
                 <tr>
-                  <td>§262.54(a)—(d) and (i)</td>
-                  <td><cite path="26.13.03.07">26.13.03.07</cite>-2A(1)—(4) and (10)</td>
+                  <td>§266.502</td>
+                  <td><cite path="26.13.10.37">26.13.10.37</cite> – .45</td>
                 </tr>
                 <tr>
-                  <td>§262.58</td>
-                  <td><cite path="26.13.03.07">26.13.03.07</cite>-5A—D</td>
-                </tr>
-                <tr>
-                  <td>§262.58(a)(1) and (2)</td>
-                  <td><cite path="26.13.03.07">26.13.03.07</cite>-5C(1) and (2)</td>
-                </tr>
-                <tr>
-                  <td>§262.80(a)</td>
-                  <td><cite path="26.13.03.07">26.13.03.07</cite>-5A</td>
-                </tr>
-                <tr>
-                  <td>Part 263</td>
-                  <td>26.13.04</td>
-                </tr>
-                <tr>
-                  <td>Part 264</td>
-                  <td>26.13.05</td>
-                </tr>
-                <tr>
-                  <td>Part 264, Subpart F</td>
-                  <td><cite path="26.13.05.06">26.13.05.06</cite>-.06-7</td>
-                </tr>
-                <tr>
-                  <td>Part 264, Subpart O</td>
-                  <td>
-                    <cite path="26.13.05.16">26.13.05.16</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>§264.1</td>
-                  <td>
-                    <cite path="26.13.05.01|A.">26.13.05.01A</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>§264.13</td>
-                  <td>
-                    <cite path="26.13.05.02|D.">26.13.05.02D</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>§264.17(b)</td>
-                  <td>
-                    <cite path="26.13.05.02|H.|(2)">26.13.05.02H(2)</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>§264.73</td>
-                  <td>
-                    <cite path="26.13.05.05|D.">26.13.05.05D</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>§264.111</td>
-                  <td>
-                    <cite path="26.13.05.07|B.">26.13.05.07B</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>§264.112</td>
-                  <td>
-                    <cite path="26.13.05.07|C.">26.13.05.07C</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>§264.112(b)</td>
-                  <td>
-                    <cite path="26.13.05.07|C.|(2)">26.13.05.07C(2)</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>§264.113</td>
-                  <td>
-                    <cite path="26.13.05.07|D.">26.13.05.07D</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>§264.113(d)</td>
-                  <td>
-                    <cite path="26.13.05.07|D.|(6)">26.13.05.07D(6)</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>§264.114</td>
-                  <td>
-                    <cite path="26.13.05.07|E.">26.13.05.07E</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>§264.115</td>
-                  <td>
-                    <cite path="26.13.05.07|F.">26.13.05.07F</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>§264.117</td>
-                  <td>
-                    <cite path="26.13.05.07|G.">26.13.05.07G</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>§264.118</td>
-                  <td>
-                    <cite path="26.13.05.07|H.">26.13.05.07H</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>§264.119</td>
-                  <td>
-                    <cite path="26.13.05.07|I.">26.13.05.07I</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>§264.120</td>
-                  <td>
-                    <cite path="26.13.05.07|J.">26.13.05.07J</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>264.140—264.151 (Part 264, Subpart H)</td>
-                  <td>
-                    <cite path="26.13.05.08">26.13.05.08</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>§264.178</td>
-                  <td>
-                    <cite path="26.13.05.09|I.">26.13.05.09I</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>§264.197</td>
-                  <td><cite path="26.13.05.10">26.13.05.10</cite>-7</td>
-                </tr>
-                <tr>
-                  <td>§264.221(a)</td>
-                  <td>
-                    <cite path="26.13.05.11|D.|(10)">26.13.05.11D(10)</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>§264.221(c)</td>
-                  <td>
-                    <cite path="26.13.05.11|D.|(4)">26.13.05.11D(4)</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>§264.221(d)</td>
-                  <td>
-                    <cite path="26.13.05.11|B.|(6)">26.13.05.11B(6)</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>§264.221(e)</td>
-                  <td>
-                    <cite path="26.13.05.11|D.|(6)">26.13.05.11D(6)</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>§264.228</td>
-                  <td>
-                    <cite path="26.13.05.11|G.">26.13.05.11G</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>§264.258</td>
-                  <td>
-                    <cite path="26.13.05.12|I.">26.13.05.12I</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>§264.280</td>
-                  <td>
-                    <cite path="26.13.05.13|K.">26.13.05.13K</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>§264.301(c)</td>
-                  <td>
-                    <cite path="26.13.05.14|B.|(3)">26.13.05.14B(3)</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>§264.301(d)</td>
-                  <td>
-                    <cite path="26.13.05.14|B.|(4)">26.13.05.14B(4)</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>§264.301(e)</td>
-                  <td>
-                    <cite path="26.13.05.14|B.|(5)">26.13.05.14B(5)</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>§264.310</td>
-                  <td>
-                    <cite path="26.13.05.14|J.">26.13.05.14J</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>§264.316</td>
-                  <td>
-                    <cite path="26.13.05.14|N.">26.13.05.14N</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>§264.351</td>
-                  <td>
-                    <cite path="26.13.05.16|E.">26.13.05.16E</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>§264.554</td>
-                  <td>Not applicable. No corresponding provision in <cite path="|26.13">COMAR 26.13</cite>.</td>
-                </tr>
-                <tr>
-                  <td>264.601—264.603 (Part 264, Subpart X)</td>
-                  <td><cite path="26.13.05.16">26.13.05.16</cite>-1</td>
-                </tr>
-                <tr>
-                  <td>Part 265</td>
-                  <td>26.13.06</td>
-                </tr>
-                <tr>
-                  <td>Part 265, Subpart F</td>
-                  <td>
-                    <cite path="26.13.06.06">26.13.06.06</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>Part 265, Subpart G</td>
-                  <td>
-                    <cite path="26.13.06.12">26.13.06.12</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>Part 265, Subpart H</td>
-                  <td>
-                    <cite path="26.13.06.16">26.13.06.16</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>Part 265, Subpart J</td>
-                  <td>
-                    <cite path="26.13.06.18">26.13.06.18</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>Part 265, Subpart K</td>
-                  <td>
-                    <cite path="26.13.06.19">26.13.06.19</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>Part 265, Subpart M</td>
-                  <td>
-                    <cite path="26.13.06.21">26.13.06.21</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>Part 265, Subpart O</td>
-                  <td>
-                    <cite path="26.13.06.23">26.13.06.23</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>Part 265, Subpart P</td>
-                  <td>
-                    <cite path="26.13.06.24">26.13.06.24</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>Part 265, Subpart Q</td>
-                  <td>
-                    <cite path="26.13.06.25">26.13.06.25</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>§265.1</td>
-                  <td>
-                    <cite path="26.13.06.01|A.">26.13.06.01A</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>§265.13</td>
-                  <td><cite path="26.13.06.02|A.">26.13.06.02A</cite>—C and <cite path="26.13.05.02|D.">26.13.05.02D</cite></td>
-                </tr>
-                <tr>
-                  <td>§265.15(c)</td>
-                  <td><cite path="26.13.06.02|A.">26.13.06.02A</cite>, D, E and <cite path="26.13.05.02|F.">26.13.05.02F</cite></td>
-                </tr>
-                <tr>
-                  <td>§265.17(b)</td>
-                  <td><cite path="26.13.06.02|A.">26.13.06.02A</cite> and <cite path="26.13.05.02|H.|(2)">26.13.05.02H(2)</cite></td>
-                </tr>
-                <tr>
-                  <td>§265.21</td>
-                  <td>
-                    <cite path="26.13.02.11">26.13.02.11</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>§265.73</td>
-                  <td><cite path="26.13.06.05|A.">26.13.06.05A</cite>, B(1)—(4), C and <cite path="26.13.05.05|D.">26.13.05.05D</cite></td>
-                </tr>
-                <tr>
-                  <td>265.90—265.94 (Part 265, Subpart F)</td>
-                  <td>
-                    <cite path="26.13.06.06">26.13.06.06</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>§265.111</td>
-                  <td>
-                    <cite path="26.13.06.07|B.">26.13.06.07B</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>§265.112</td>
-                  <td>
-                    <cite path="26.13.06.08">26.13.06.08</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>§265.112(b)</td>
-                  <td><cite path="26.13.06.08|B.">26.13.06.08B</cite>—C</td>
-                </tr>
-                <tr>
-                  <td>§265.113</td>
-                  <td>
-                    <cite path="26.13.06.09">26.13.06.09</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>§265.113(d)</td>
-                  <td>
-                    <cite path="26.13.06.09|H.">26.13.06.09H</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>§265.114</td>
-                  <td>
-                    <cite path="26.13.06.10">26.13.06.10</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>§265.115</td>
-                  <td>
-                    <cite path="26.13.06.11">26.13.06.11</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>§265.117</td>
-                  <td>
-                    <cite path="26.13.06.12|C.">26.13.06.12C</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>§265.118</td>
-                  <td>
-                    <cite path="26.13.06.13">26.13.06.13</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>§265.119</td>
-                  <td>
-                    <cite path="26.13.06.14">26.13.06.14</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>§265.120</td>
-                  <td>
-                    <cite path="26.13.06.15">26.13.06.15</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>265.140—265.148 (Part 265, Subpart H)</td>
-                  <td>
-                    <cite path="26.13.06.16">26.13.06.16</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>§265.178</td>
-                  <td>Maryland has not adopted regulations governing organic air emissions from containers. Use 40 CFR §265.178.</td>
-                </tr>
-                <tr>
-                  <td>§265.197</td>
-                  <td>
-                    <cite path="26.13.06.18|D.">26.13.06.18D</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>§265.221(a)</td>
-                  <td>
-                    <cite path="26.13.06.19|D.|(1)">26.13.06.19D(1)</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>§265.221(d)</td>
-                  <td>
-                    <cite path="26.13.06.19|D.">26.13.06.19D</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>§265.221(e)</td>
-                  <td>Not applicable. No corresponding provision in <cite path="|26.13">COMAR 26.13</cite>.</td>
-                </tr>
-                <tr>
-                  <td>§265.228</td>
-                  <td><cite path="26.13.06.19|B.|(4)">26.13.06.19B(4)</cite> and <cite path="26.13.05.11|G.|(1)">26.13.05.11G(1)</cite>—(2)</td>
-                </tr>
-                <tr>
-                  <td>§265.258</td>
-                  <td><cite path="26.13.06.20|B.|(6)">26.13.06.20B(6)</cite> and <cite path="26.13.05.12|I.|(1)">26.13.05.12I(1)</cite>—(2)</td>
-                </tr>
-                <tr>
-                  <td>265.270—265.282 (Part 265, Subpart M)</td>
-                  <td>
-                    <cite path="26.13.06.21">26.13.06.21</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>§265.301(a)</td>
-                  <td>
-                    <cite path="26.13.06.22|C.">26.13.06.22C</cite>
-                  </td>
-                </tr>
-                <tr>
-                  <td>§265.301(c)</td>
+                  <td>§266.503</td>
                   <td>
-                    <cite path="26.13.06.22|C.">26.13.06.22C</cite>
+                    <cite path="26.13.10.46">26.13.10.46</cite>
                   </td>
                 </tr>
                 <tr>
-                  <td>§265.301(d)</td>
-                  <td>
-                    <cite path="26.13.06.22|C.">26.13.06.22C</cite>
-                  </td>
+                  <td>§266.508(a)</td>
+                  <td><cite path="26.13.10.47|A.">26.13.10.47A</cite> – E</td>
                 </tr>
                 <tr>
-                  <td>§265.301(e)</td>
+                  <td>§266.508(b)</td>
                   <td>
-                    <cite path="26.13.06.22|E.">26.13.06.22E</cite>
+                    <cite path="26.13.10.47|F.">26.13.10.47F</cite>
                   </td>
                 </tr>
                 <tr>
-                  <td>§265.310</td>
-                  <td><cite path="26.13.06.22|B.|(3)">26.13.06.22B(3)</cite> and <cite path="26.13.05.14|J.">26.13.05.14J</cite></td>
-                </tr>
-                <tr>
-                  <td>§265.316</td>
+                  <td>§266.509</td>
                   <td>
-                    <cite path="26.13.06.21|F.">26.13.06.21F</cite>
+                    <cite path="26.13.10.48">26.13.10.48</cite>
                   </td>
                 </tr>
                 <tr>
-                  <td>265.340—265.351 (Part 265, Subpart O)</td>
+                  <td>§266.510</td>
                   <td>
-                    <cite path="26.13.06.23">26.13.06.23</cite>
+                    <cite path="26.13.10.49">26.13.10.49</cite>
                   </td>
                 </tr>
                 <tr>
-                  <td>265.370—265.382 (Part 265, Subpart P)</td>
+                  <td>§266.510(a)</td>
                   <td>
-                    <cite path="26.13.06.24">26.13.06.24</cite>
+                    <cite path="26.13.10.49|C.|(1)|(a)">26.13.10.49C(1)(a)</cite>
                   </td>
                 </tr>
                 <tr>
-                  <td>265.400—265.406 (Part 265, Subpart Q)</td>
+                  <td>§266.510(c)</td>
                   <td>
-                    <cite path="26.13.06.25">26.13.06.25</cite>
+                    <cite path="26.13.10.49|C.|(1)|(c)">26.13.10.49C(1)(c)</cite>
                   </td>
-                </tr>
-                <tr>
-                  <td>Part 265, Appendix III</td>
-                  <td>No analog. Use 40 CFR Part 265, Appendix III.</td>
                 </tr>
                 <tr>
-                  <td>Part 265, Appendix V</td>
-                  <td>No analog. Use 40 CFR Part 265, Appendix V.</td>
+                  <td>§266.510(c)(5)</td>
+                  <td><cite path="26.13.10.47">26.13.10.47</cite> and <cite path="26.13.10.49|D.|(2)">26.13.10.49D(2)</cite></td>
                 </tr>
                 <tr>
-                  <td>Part 266</td>
-                  <td>26.13.10</td>
-                </tr>
-                <tr>
-                  <td>§266.20</td>
+                  <td>§266.510(c)(6)</td>
                   <td>
-                    <cite path="26.13.10.01">26.13.10.01</cite>
+                    <cite path="26.13.10.49|D.">26.13.10.49D</cite>
                   </td>
                 </tr>
                 <tr>
-                  <td>§266.20(b)</td>
-                  <td>
-                    <cite path="26.13.10.01|A.|(3)">26.13.10.01A(3)</cite>
-                  </td>
+                  <td>Part 268</td>
+                  <td>26.13.09</td>
                 </tr>
                 <tr>
-                  <td>§270.14</td>
-                  <td><cite path="26.13.07.02|D.|(15)">26.13.07.02D(15)</cite>—(19) and (20)—(38), and <cite path="26.13.07.02">26.13.07.02</cite>-1—.02-11</td>
+                  <td data-vertical-align="middle">§270.14</td>
+                  <td data-vertical-align="middle"><cite path="26.13.07.02|D.|(15)">26.13.07.02D(15)</cite>—(19) and (20)—(38), and <cite path="26.13.07.02">26.13.07.02</cite>-1—.02-11</td>
                 </tr>
                 <tr>
-                  <td>§270.19</td>
-                  <td><cite path="26.13.07.02">26.13.07.02</cite>-6</td>
+                  <td data-vertical-align="middle">§270.19</td>
+                  <td data-vertical-align="middle"><cite path="26.13.07.02">26.13.07.02</cite>-6</td>
                 </tr>
                 <tr>
-                  <td>§270.41(a)(5)</td>
-                  <td>
+                  <td data-vertical-align="middle">§270.41(a)(5)</td>
+                  <td data-vertical-align="middle">
                     <cite path="26.13.07.11|B.|(4)">26.13.07.11B(4)</cite>
                   </td>
                 </tr>
                 <tr>
-                  <td>§270.62</td>
-                  <td>
+                  <td data-vertical-align="middle">§270.62</td>
+                  <td data-vertical-align="middle">
                     <cite path="26.13.07.17">26.13.07.17</cite>
                   </td>
                 </tr>
                 <tr>
-                  <td>§273.2</td>
-                  <td>
+                  <td data-vertical-align="middle">§273.2</td>
+                  <td data-vertical-align="middle">
                     <cite path="26.13.10.07">26.13.10.07</cite>
                   </td>
                 </tr>
@@ -3534,7 +4087,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>§3005(j)(13) of RCRA, except that the phrase “The Administrator may modify the requirements of paragraph(1)” shall be replaced by the phrase “The Administrator or the Secretary may modify the requirements of paragraph(1)”;</text>
+          <text>§3005(j)(13) of RCRA, except that the phrase “The Administrator may modify the requirements of paragraph (1)” shall be replaced by the phrase “The Administrator or the Secretary may modify the requirements of paragraph (1)”;</text>
         </para>
       </para>
       <para>
@@ -3565,13 +4118,14 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-10-16"><cite path="|26|13|01|.01|B.">Regulation .01B</cite> amended effective October 16, 2000 (27:20 Md. R. 1843)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-01-13"><cite path="|26|13|01|.02|A.">Regulation .02A</cite> amended effective January 13, 2022 (49:1 Md. R. 14)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-01-13"><cite path="|26|13|01|.02|F.">Regulation .02F</cite> adopted effective January 13, 2022 (49:1 Md. R. 14)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-01-13"><cite path="|26|13|01|.03|B.">Regulation .03B</cite> amended effective April 1, 1991 (18:6 Md. R. 690); December 23, 1991 (18:25 Md. R. 2759); May 24, 1993 (20:10 Md. R. 853); April 11, 1994 (21:7 Md. R. 533); August 28, 1995 (22:17 Md. R. 1321); September 10, 1997 (24:5 Md. R. 413); September 7, 1998 (25:18 Md. R. 1438); October 16, 2000 (27:20 Md. R. 1843); November 1, 2002 (29:21 Md. R. 1647); September 11, 2006 (33:18 Md. R. 1507); May 1, 2008 (35:8 Md. R. 809); January 18, 2016 (43:1 Md. R. 14); May 3, 2021 (48:9 Md. R. 359); January 13, 2022 (49:1 Md. R. 14)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-10-01"><cite path="|26|13|01|.03|B.">Regulation .03B</cite> amended effective April 1, 1991 (18:6 Md. R. 690); December 23, 1991 (18:25 Md. R. 2759); May 24, 1993 (20:10 Md. R. 853); April 11, 1994 (21:7 Md. R. 533); August 28, 1995 (22:17 Md. R. 1321); September 10, 1997 (24:5 Md. R. 413); September 7, 1998 (25:18 Md. R. 1438); October 16, 2000 (27:20 Md. R. 1843); November 1, 2002 (29:21 Md. R. 1647); September 11, 2006 (33:18 Md. R. 1507); May 1, 2008 (35:8 Md. R. 809); January 18, 2016 (43:1 Md. R. 14); May 3, 2021 (48:9 Md. R. 359); January 13, 2022 (49:1 Md. R. 14); October 1, 2025 (52:17 Md. R. 876)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-01-13"><cite path="|26|13|01|.03-1">Regulation .03-1</cite> adopted effective January 13, 2022 (49:1 Md. R. 14)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-01-13"><cite path="|26|13|01|.04">Regulation .04</cite> amended effective October 16, 2000 (27:20 Md. R. 1843); November 1, 2002 (29:21 Md. R. 1647); January 13, 2022 (49:1 Md. R. 14)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1993-05-24"><cite path="|26|13|01|.04|F.">Regulation .04F</cite> amended effective May 24, 1993 (20:10 Md. R. 853)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-10-16"><cite path="|26|13|01|.04|I.">Regulation .04I</cite> amended effective December 23, 1991 (18:25 Md. R. 2759); October 16, 2000 (27:20 Md. R. 1843)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-10-01"><cite path="|26|13|01|.04|L.">Regulation .04L</cite> amended effective October 1, 2025 (52:17 Md. R. 876)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-10-16"><cite path="|26|13|01|.05|A.">Regulation .05A</cite> amended effective December 23, 1991 (18:25 Md. R. 2759); May 24, 1993 (20:10 Md. R. 853); September 10, 1997 (24:5 Md. R. 413); October 16, 2000 (27:20 Md. R. 1843)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-01-13"><cite path="|26|13|01|.05|B.">Regulation .05B</cite> amended effective October 16, 2000 (27:20 Md. R. 1843); November 1, 2002 (29:21 Md. R. 1647); May 1, 2008 (35:8 Md. R. 809); January 18, 2016 (43:1 Md. R. 14); May 3, 2021 (48:9 Md. R. 359); January 13, 2022 (49:1 Md. R. 14)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-10-01"><cite path="|26|13|01|.05|B.">Regulation .05B</cite> amended effective October 16, 2000 (27:20 Md. R. 1843); November 1, 2002 (29:21 Md. R. 1647); May 1, 2008 (35:8 Md. R. 809); January 18, 2016 (43:1 Md. R. 14); May 3, 2021 (48:9 Md. R. 359); January 13, 2022 (49:1 Md. R. 14); October 1, 2025 (52:17 Md. R. 876)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-10-16"><cite path="|26|13|01|.05|C.">Regulation .05C</cite> adopted effective October 16, 2000 (27:20 Md. R. 1843)</annotation>
     <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
   </annotations>
