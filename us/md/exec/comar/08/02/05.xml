@@ -141,7 +141,9 @@
       <num>M.</num>
       <text>Fishing and Crabbing in a Leased Area. Fishing and crabbing are permitted in an area that has been leased for shellfish aquaculture in accordance with <cite path="|08.02.23">COMAR 08.02.23</cite> if the fishing or crabbing activity does not destroy or damage shellfish or gear which may be planted or secured there.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-04-01" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-316-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="08|02|05|.03">
     <prefix>Regulation</prefix>
@@ -3131,5 +3133,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-07-01"><cite path="|08|02|05|.30">Regulation .30</cite> adopted effective July 1, 2019 (46:13 Md. R. 589)</annotation>
     <annotation app="2025-12-22" doc="Maryland Register, Volume 52, Issue 25" eff="2025-12-22" path="regulations|final|25-187-F" type="History" display="false"/>
     <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-240-F" type="History" display="false"/>
+    <annotation app="2026-04-01" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-316-F" type="History" display="false"/>
   </annotations>
 </container>
