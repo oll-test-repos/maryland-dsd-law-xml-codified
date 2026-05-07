@@ -944,11 +944,19 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>For dates of service from November 1, 2021 through June 30, 2022, $93.58 per diem; and</text>
+          <text>For dates of service from November 1, 2021 through June 30, 2022, $93.58 per diem;</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>For dates of service on or after July 1, 2022, $104.81 per diem.</text>
+          <text>For dates of service [on or after] from July 1, 2022 through December 31, 2023, $104.81 per diem;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>For dates of service from January 1, 2024 through June 30, 2024, $113.19 per diem; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>For dates of service on or after July 1, 2024, $116.59 per diem.</text>
         </para>
       </para>
       <para>
@@ -988,7 +996,9 @@
         <text>The provider’s reimbursement is not limited to the provider’s customary charge.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-031-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1025,18 +1035,18 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1983-01-06"><cite path="|10|09|07|.03|D.">Regulation .03D</cite> adopted effective January 6, 1983 (9:26 Md. R. 2572)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1984-01-30"><cite path="|10|09|07|.03|E.">Regulation .03E</cite> adopted and .07A amended effective January 30, 1984 (11:2 Md. R. 113)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1985-06-03"><cite path="|10|09|07|.07|A.">Regulation .07A</cite> amended effective June 3, 1985 (12:11 Md. R. 1049)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1983-09-12"><cite path="|10|09|07|.07|F.">Regulation .07F</cite> amended as an emergency provision effective July 1, 1983 (10:12 Md. R. 1070); adopted permanently effective September 12, 1983 (10:18 Md. R. 1608)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1983-09-12"><cite path="|10|09|07|.07|F." proof="needed">Regulation .07F</cite> amended as an emergency provision effective July 1, 1983 (10:12 Md. R. 1070); adopted permanently effective September 12, 1983 (10:18 Md. R. 1608)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1986-05-12"><cite path="|10|09|07|.08|A.">Regulation .08A</cite> amended effective May 12, 1986 (13:9 Md. R. 1029)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1981-08-17"><cite path="|10|09|07|.09|A.">Regulation .09A</cite>, B amended effective August 17, 1981 (8:16 Md. R. 1365)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1981-08-17"><cite path="|10|09|07|.09|A." proof="needed">Regulation .09A</cite>, B amended effective August 17, 1981 (8:16 Md. R. 1365)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1983-06-06"><cite path="|10|09|07|.10">Regulation .10</cite> amended effective June 6, 1983 (10:11 Md. R. 974)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1982-10-25"><cite path="|10|09|07|.11">Regulation .11</cite> adopted effective October 25, 1982 (9:21 Md. R. 2106)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1989-05-01" discontinuity="true">Chapter revised effective May 1, 1989 (16:8 Md. R. 909)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1990-11-01">Regulations .01B and 07A amended as an emergency provision effective July 17, 1990 (17:16 Md. R. 1984); adopted permanently effective November 1, 1990 (17:20 Md. R. 2427)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1990-11-01">Regulations .03J and K and .09 amended as an emergency provision effective July 1, 1990 (17:15 Md. R. 1850); adopted permanently effective November 1, 1990 (17:21 Md. R. 2529)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1991-01-28"><cite path="|10|09|07|.09|A.">Regulation .09A</cite> amended as an emergency provision effective January 28, 1991 (18:3 Md. R. 301); emergency status expired April 8, 1991 (18:9 Md. R. 1004)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1991-10-07"><cite path="|10|09|07|.09|A.">Regulation .09A</cite> amended as an emergency provision effective April 9, 1991 (18:9 Md. R. 1005); amended permanently effective October 7, 1991 (18:18 Md. R. 2004)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2003-11-24"><cite path="|10|09|07|.09|D.">Regulation .09D</cite> amended effective July 4, 1994 (21:13 Md. R. 1157); November 24, 2003 (30:23 Md. R. 1651)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2002-02-01"><cite path="|10|09|07|.09-1">Regulation .09-1</cite> adopted as an emergency provision effective February 1, 2002 (29:4 Md. R. 412); emergency status expired June 30, 2002</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1991-01-28"><cite path="|10|09|07|.09|A." proof="needed">Regulation .09A</cite> amended as an emergency provision effective January 28, 1991 (18:3 Md. R. 301); emergency status expired April 8, 1991 (18:9 Md. R. 1004)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1991-10-07"><cite path="|10|09|07|.09|A." proof="needed">Regulation .09A</cite> amended as an emergency provision effective April 9, 1991 (18:9 Md. R. 1005); amended permanently effective October 7, 1991 (18:18 Md. R. 2004)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2003-11-24"><cite path="|10|09|07|.09|D." proof="needed">Regulation .09D</cite> amended effective July 4, 1994 (21:13 Md. R. 1157); November 24, 2003 (30:23 Md. R. 1651)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2002-02-01"><cite path="|10|09|07|.09-1" proof="needed">Regulation .09-1</cite> adopted as an emergency provision effective February 1, 2002 (29:4 Md. R. 412); emergency status expired June 30, 2002</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-01-14" discontinuity="true">Chapter revised effective January 14, 2008 (35:1 Md. R. 17)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-12-15"><cite path="|10|09|07|.01|B.">Regulation .01B</cite> amended as an emergency provision effective July 1, 2008 (35:17 Md. R. 1480); amended permanently effective December 15, 2008 (35:25 Md. R. 2150)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-05-20"><cite path="|10|09|07|.01|B.">Regulation .01B</cite> amended effective February 15, 2016 (43:3 Md. R. 272); May 20, 2019 (46:10 Md. R. 485)</annotation>
@@ -1056,8 +1066,9 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-12-15"><cite path="|10|09|07|.08">Regulation .08</cite> amended as an emergency provision effective July 1, 2008 (35:17 Md. R. 1480); amended permanently effective December 15, 2008 (35:25 Md. R. 2150)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-10-10"><cite path="|10|09|07|.08">Regulation .08</cite> amended effective October 10, 2016 (43:20 Md. R. 1110)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-02-15"><cite path="|10|09|07|.08|B.">Regulation .08B</cite> amended effective February 15, 2016 (43:3 Md. R. 272)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-10-16"><cite path="|10|09|07|.08|D.">Regulation .08D</cite> amended effective April 6, 2009 (36:7 Md. R. 523); February 22, 2010 (37:4 Md. R. 340); October 31, 2011 (38:22 Md. R. 1345); May 20, 2019 (46:10 Md. R. 486); May 18, 2020 (47:10 Md. R. 516); November 14, 2022 (49:23 Md. R. 995); October 16, 2023 (50:20 Md. R. 886)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-04-01"><cite path="|10|09|07|.08-1">Regulation .08-1</cite> adopted as an emergency provision effective April 1, 2008 (35:9 Md. R. 892); emergency status expired August 22, 2008</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-11-24"><cite path="|10|09|07|.08|D.">Regulation .08D</cite> amended effective April 6, 2009 (36:7 Md. R. 523); February 22, 2010 (37:4 Md. R. 340); October 31, 2011 (38:22 Md. R. 1345); May 20, 2019 (46:10 Md. R. 486); May 18, 2020 (47:10 Md. R. 516)​; November 14, 2022 (49:23 Md. R. 995); October 16, 2023 (50:20 Md. R. 886); November 24, 2025 (Md. R. 52:23 1138)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-04-01"><cite path="|10|09|07|.08-1" proof="needed">Regulation .08-1</cite> adopted as an emergency provision effective April 1, 2008 (35:9 Md. R. 892); emergency status expired August 22, 2008</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2011-04-04"><cite path="|10|09|07|.09">Regulation .09</cite> amended effective April 4, 2011 (38:7 Md. R. 431)</annotation>
+    <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-031-F" type="History" display="false"/>
   </annotations>
 </container>

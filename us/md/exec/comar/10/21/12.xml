@@ -8,7 +8,9 @@
     <num>.01</num>
     <heading>Scope.</heading>
     <text>These regulations govern the use of quiet rooms and restraint in all facilities as defined in Health-General Article, §§10-101(e) and 10-701, Annotated Code of Maryland. These regulations are supplemental to any other applicable law and regulation. In the event of conflict between these regulations and any other regulations or laws, the more stringent apply.</text>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -106,7 +108,9 @@
         <text>“Treatment team” means the patient's treatment team as defined in <cite path="10.21.03.02|C.">COMAR 10.21.03.02C</cite>.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|21|12|.03">
     <prefix>Regulation</prefix>
@@ -188,7 +192,9 @@
         <text>Medication or medications.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -240,7 +246,9 @@
         <text>Within 1 hour of the implementation of the restraint, a physician shall give a written or verbal order for any restraint initiated by a registered nurse and, at that time, shall make the clinical determination to continue or to discontinue the restraint.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|21|12|.06">
     <prefix>Regulation</prefix>
@@ -294,7 +302,9 @@
       <num>J.</num>
       <text>As necessary, staff shall ensure that each restraint is padded to provide appropriate protection for the patient.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -391,7 +401,9 @@
       <num>D.</num>
       <text>Unless circumstances suggest a medical problem may exist, staff may not disrupt a patient's sleep during the night to implement the clinical procedures described in §§B and C of this regulation.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|21|12|.09">
     <prefix>Regulation</prefix>
@@ -493,7 +505,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -631,7 +645,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|21|12|.11">
     <prefix>Regulation</prefix>
@@ -759,7 +775,9 @@
       <num>F.</num>
       <text>If seclusion is used in conjunction with restraint, staff shall comply with regulations for the use of seclusion.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -809,5 +827,6 @@
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Health-General Article, §§10-101(e) and 10-701, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1993-10-25">Effective date: October 25, 1993 (20:21 Md. R. 1654)</annotation>
+    <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" type="History" display="false"/>
   </annotations>
 </container>
