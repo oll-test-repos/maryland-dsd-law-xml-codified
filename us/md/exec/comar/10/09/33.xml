@@ -985,14 +985,20 @@
       <text>The Department shall reimburse according to the following fee schedule:</text>
       <para>
         <num>(1)</num>
-        <text>For dates of service from July 1, 2022, through June 30, 2023, at a monthly rate of $127.21 per participant; and</text>
+        <text>For dates of service from July 1, 2023 through December 31, 2023, at a monthly rate of $131.03 per participant;</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Effective July 1, 2023, at a monthly rate of $131.03 per participant.</text>
+        <text>For dates of service from January 1, 2024 through June 30, 2024, at a monthly rate of $141.51; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>For dates of service beginning July 1, 2024, at a monthly rate of $145.76.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-11-10" doc="Maryland Register, Volume 52, Issue 22" eff="2025-11-10" path="regulations|final|25-076-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1063,6 +1069,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-11-13"><cite path="|10|09|33|.07|A.">Regulation .07A</cite> amended effective November 13, 2023 (50:22 Md. R. 973)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-04-04"><cite path="|10|09|33|.08|C.">Regulation .08C</cite> amended effective April 4, 2022 (49:7 Md. R. 465)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-04-04"><cite path="|10|09|33|.09">Regulation .09</cite> amended effective April 4, 2022 (49:7 Md. R. 465)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-09-16"><cite path="|10|09|33|.09|C.">Regulation .09C</cite> amended effective October 24, 2016 (43:21 Md. R. 1166); January 1, 2018 (44:26 Md. R. 1215); December 30, 2019 (46:26 Md. R. 1164); November 13, 2023 (50:22 Md. R. 973); September 16, 2024 (51:18 Md. R. 808)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-11-10"><cite path="|10|09|33|.09|C.">Regulation .09C</cite> amended effective October 24, 2016 (43:21 Md. R. 1166); January 1, 2018 (44:26 Md. R. 1215); December 30, 2019 (46:26 Md. R. 1164); November 13, 2023 (50:22 Md. R. 973); September 16, 2024 (51:18 Md. R. 808); November 10, 2025 (52:22 Md. R. 1095)</annotation>
+    <annotation app="2025-11-10" doc="Maryland Register, Volume 52, Issue 22" eff="2025-11-10" path="regulations|final|25-076-F" type="History" display="false"/>
   </annotations>
 </container>
